@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = ohorndotbelow.ss01;
+kernLeft = e;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = ohorn;
+},
+{
+ref = dotbelowcomb.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (-1,0);
+ref = dotbelowcomb.ss01;
+}
+);
+width = 618;
+}
+);
+}

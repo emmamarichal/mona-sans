@@ -1,0 +1,158 @@
+{
+glyphname = K;
+kernLeft = H;
+kernRight = K;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (306,0);
+},
+{
+name = top;
+pos = (306,729);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(591,0,l),
+(304,425,l),
+(564,729,l),
+(517,729,l),
+(135,282,l),
+(135,231,l),
+(277,398,l),
+(547,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(143,0,l),
+(143,729,l),
+(104,729,l),
+(104,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+11
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+10
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+11
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (304,0);
+},
+{
+name = top;
+pos = (304,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(195,0,l),
+(195,163,l),
+(282,273,l),
+(439,0,l),
+(679,0,l),
+(421,420,l),
+(668,729,l),
+(429,729,l),
+(195,417,l),
+(195,729,l),
+(-8,729,l),
+(-8,0,l)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(618,0,l),
+(440,417,l),
+(612,729,l),
+(385,729,l),
+(236,428,l),
+(236,164,l),
+(285,270,l),
+(391,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(244,0,l),
+(244,729,l),
+(39,729,l),
+(39,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+};
+width = 618;
+}
+);
+metricLeft = H;
+unicode = 75;
+}

@@ -1,0 +1,48 @@
+{
+glyphname = periodcentered.loclCAT.ss01;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (123,347);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,309,l),
+(348,386,l),
+(270,386,l),
+(270,309,l)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (93,345);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(397,262,l),
+(397,435,l),
+(221,435,l),
+(221,262,l)
+);
+}
+);
+width = 618;
+}
+);
+metricRight = "=|";
+}

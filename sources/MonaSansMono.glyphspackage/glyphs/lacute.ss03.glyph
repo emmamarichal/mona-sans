@@ -1,0 +1,33 @@
+{
+color = 6;
+glyphname = lacute.ss03;
+kernRight = l.ss02;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (26,57);
+ref = acutecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (33,51);
+ref = acutecomb;
+}
+);
+width = 618;
+}
+);
+}

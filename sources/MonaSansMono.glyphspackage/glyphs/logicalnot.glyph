@@ -1,0 +1,74 @@
+{
+glyphname = logicalnot;
+kernRight = logicalnot;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(521,153,l),
+(521,397,l),
+(46,397,l),
+(46,365,l),
+(489,365,l),
+(489,153,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+2
+);
+stem = -2;
+target = (
+0,
+3
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(536,139,l),
+(536,428,l),
+(61,428,l),
+(61,281,l),
+(392,281,l),
+(392,139,l)
+);
+}
+);
+width = 618;
+}
+);
+metricWidth = zero.tf;
+unicode = 172;
+}

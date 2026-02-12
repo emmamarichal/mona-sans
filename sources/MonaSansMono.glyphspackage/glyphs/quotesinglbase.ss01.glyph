@@ -1,0 +1,28 @@
+{
+color = 6;
+glyphname = quotesinglbase.ss01;
+kernLeft = comma.ss01;
+kernRight = quotedblbase.ss01;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = comma.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = comma.ss01;
+}
+);
+width = 618;
+}
+);
+}

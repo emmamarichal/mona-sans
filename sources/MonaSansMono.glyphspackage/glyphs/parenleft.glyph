@@ -1,0 +1,78 @@
+{
+glyphname = parenleft;
+kernLeft = parenleft;
+kernRight = parenleft;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(456,-167,l),
+(323,-68,o),
+(231,115,o),
+(231,313,cs),
+(231,499,o),
+(312,686,o),
+(456,793,c),
+(419,793,l),
+(275,684,o),
+(195,500,o),
+(195,313,cs),
+(195,126,o),
+(275,-58,o),
+(419,-167,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(486,-167,l),
+(395,-48,o),
+(334,144,o),
+(334,313,cs),
+(334,482,o),
+(395,674,o),
+(486,793,c),
+(324,793,l),
+(219,681,o),
+(149,489,o),
+(149,313,cs),
+(149,137,o),
+(219,-55,o),
+(324,-167,c)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 40;
+userData = {
+KernOnName = parenleft;
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

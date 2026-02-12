@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = oslash;
+kernLeft = oslash;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = o;
+},
+{
+ref = slashlongcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = o;
+},
+{
+ref = slashlongcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 248;
+}

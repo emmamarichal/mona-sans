@@ -1,0 +1,66 @@
+{
+glyphname = periodcentered.loclCAT;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (96,338);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(336,306,o),
+(351,323,o),
+(351,347,cs),
+(351,371,o),
+(336,388,o),
+(310,388,cs),
+(285,388,o),
+(268,371,o),
+(268,347,cs),
+(268,323,o),
+(285,306,o),
+(310,306,cs)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (76,338);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(367,252,o),
+(406,293,o),
+(406,348,cs),
+(406,403,o),
+(367,444,o),
+(309,444,cs),
+(253,444,o),
+(212,403,o),
+(212,348,cs),
+(212,293,o),
+(253,252,o),
+(309,252,cs)
+);
+}
+);
+width = 618;
+}
+);
+userData = {
+KernOnName = periodcentered.loclCAT;
+};
+}

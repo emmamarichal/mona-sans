@@ -1,0 +1,41 @@
+{
+color = 6;
+glyphname = Abrevedotbelow;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = A;
+},
+{
+ref = dotbelowcomb;
+},
+{
+pos = (0,51);
+ref = brevecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = A;
+},
+{
+ref = dotbelowcomb;
+},
+{
+pos = (0,51);
+ref = brevecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7862;
+}

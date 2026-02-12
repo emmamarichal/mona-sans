@@ -1,0 +1,33 @@
+{
+glyphname = equal_equal.liga;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+pos = (-548,0);
+ref = equal;
+},
+{
+pos = (-70,0);
+ref = equal;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+pos = (-546,0);
+ref = equal;
+},
+{
+pos = (-73,0);
+ref = equal;
+}
+);
+width = 618;
+}
+);
+}

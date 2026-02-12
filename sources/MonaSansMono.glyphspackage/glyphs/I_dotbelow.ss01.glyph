@@ -1,0 +1,31 @@
+{
+color = 6;
+glyphname = Idotbelow.ss01;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-2,0);
+ref = dotbelowcomb.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = I;
+},
+{
+ref = dotbelowcomb.ss01;
+}
+);
+width = 618;
+}
+);
+}

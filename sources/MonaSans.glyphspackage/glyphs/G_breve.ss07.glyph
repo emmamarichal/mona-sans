@@ -1,8 +1,8 @@
 {
 color = 6;
 glyphname = Gbreve.ss07;
-kernLeft = O;
-kernRight = G.ss06;
+kernLeft = KO_G.ss07;
+kernRight = KO_G.ss07;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
@@ -15,7 +15,7 @@ pos = (86,57);
 ref = brevecomb;
 }
 );
-width = 417;
+width = 421;
 },
 {
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
@@ -28,33 +28,7 @@ pos = (57,51);
 ref = brevecomb;
 }
 );
-width = 485;
-},
-{
-layerId = master01;
-shapes = (
-{
-ref = G.ss07;
-},
-{
-pos = (238,51);
-ref = brevecomb;
-}
-);
-width = 798;
-},
-{
-layerId = "1EDCBF6C-9964-4A28-BC87-E86B534B8BE7";
-shapes = (
-{
-ref = G.ss07;
-},
-{
-pos = (182,51);
-ref = brevecomb;
-}
-);
-width = 786;
+width = 519;
 },
 {
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
@@ -63,11 +37,11 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (243,57);
+pos = (248,57);
 ref = brevecomb;
 }
 );
-width = 820;
+width = 828;
 },
 {
 layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
@@ -76,11 +50,37 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (198,56);
+pos = (206,56);
 ref = brevecomb;
 }
 );
-width = 853;
+width = 889;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (233,51);
+ref = brevecomb;
+}
+);
+width = 795;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (191,51);
+ref = brevecomb;
+}
+);
+width = 799;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -93,7 +93,7 @@ pos = (84,57);
 ref = brevecomb;
 }
 );
-width = 415;
+width = 416;
 },
 {
 layerId = "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0";
@@ -102,11 +102,11 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (39,51);
+pos = (45,51);
 ref = brevecomb;
 }
 );
-width = 481;
+width = 515;
 },
 {
 layerId = "095FE76F-1953-440B-9108-AA0678D151F9";
@@ -119,7 +119,7 @@ pos = (208,57);
 ref = brevecomb;
 }
 );
-width = 765;
+width = 764;
 },
 {
 layerId = "63AAE8D6-1DFF-4DD4-BD9A-49272FE52904";
@@ -128,11 +128,11 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (146,51);
+pos = (165,51);
 ref = brevecomb;
 }
 );
-width = 776;
+width = 802;
 },
 {
 layerId = "C17B1F32-8075-45B4-AA59-7DAFF0D7E404";
@@ -141,11 +141,11 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (209,57);
+pos = (213,57);
 ref = brevecomb;
 }
 );
-width = 814;
+width = 819;
 },
 {
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
@@ -154,11 +154,167 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (167,51);
+pos = (181,51);
 ref = brevecomb;
 }
 );
-width = 852;
+width = 886;
+},
+{
+layerId = "F809B810-8CF1-453B-A5BE-CA3BE927A72B";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (72,57);
+ref = brevecomb;
+}
+);
+width = 361;
+},
+{
+layerId = "BBBD8BC5-1445-4217-985E-4C596438DA38";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (58,51);
+ref = brevecomb;
+}
+);
+width = 484;
+},
+{
+layerId = "E97B55C1-E583-4247-91FF-22E95A4A75BA";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (237,51);
+ref = brevecomb;
+}
+);
+width = 766;
+},
+{
+layerId = "0B275536-62AC-4C56-AB54-CAFC17136928";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (180,51);
+ref = brevecomb;
+}
+);
+width = 760;
+},
+{
+layerId = "672F45B7-BA56-43A0-BBB6-CC0745727C88";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (260,57);
+ref = brevecomb;
+}
+);
+width = 820;
+},
+{
+layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (218,56);
+ref = brevecomb;
+}
+);
+width = 866;
+},
+{
+layerId = "A312EA11-A86D-4039-A6A0-3473E7FCFCBA";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (84,57);
+ref = brevecomb;
+}
+);
+width = 370;
+},
+{
+layerId = "6E33102A-8120-45EB-96FA-BF5C616DF6D0";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (49,51);
+ref = brevecomb;
+}
+);
+width = 481;
+},
+{
+layerId = "CD1FE38A-850D-424C-9763-FD0BB7EF0F65";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (211,57);
+ref = brevecomb;
+}
+);
+width = 719;
+},
+{
+layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (176,51);
+ref = brevecomb;
+}
+);
+width = 755;
+},
+{
+layerId = "81AB4C8E-4968-429F-824B-C4C034789BE2";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (223,57);
+ref = brevecomb;
+}
+);
+width = 809;
+},
+{
+layerId = "FDCDCD6C-7FEE-4790-B9C8-1B5EEA7E5598";
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (193,51);
+ref = brevecomb;
+}
+);
+width = 856;
 }
 );
 }

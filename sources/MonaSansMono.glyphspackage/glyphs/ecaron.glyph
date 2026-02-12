@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = ecaron;
+kernLeft = egrave;
+kernRight = eacute;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (5,-155);
+ref = caroncomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (1,-134);
+ref = caroncomb;
+}
+);
+width = 618;
+}
+);
+unicode = 283;
+}

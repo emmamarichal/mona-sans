@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = Ecircumflexacute;
+kernRight = E;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (82,57);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (85,51);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7870;
+}

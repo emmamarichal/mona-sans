@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = Gcommaaccent.ss07;
+kernLeft = O;
+kernRight = G.ss06;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (-23,0);
+ref = commaaccentcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = G.ss07;
+},
+{
+pos = (-21,0);
+ref = commaaccentcomb;
+}
+);
+width = 618;
+}
+);
+}

@@ -1,0 +1,103 @@
+{
+glyphname = idotless;
+kernLeft = n;
+kernRight = a;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = ogonek;
+pos = (328,0);
+},
+{
+name = top;
+pos = (308,517);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(328,0,l),
+(328,517,l),
+(291,517,l),
+(291,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(527,0,l),
+(527,32,l),
+(91,32,l),
+(91,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(294,485,l),
+(294,517,l),
+(91,517,l),
+(91,485,l)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = ogonek;
+pos = (405,0);
+},
+{
+name = top;
+pos = (310,544);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(405,0,l),
+(405,544,l),
+(214,544,l),
+(214,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(551,0,l),
+(551,143,l),
+(65,143,l),
+(65,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(221,401,l),
+(221,544,l),
+(65,544,l),
+(65,401,l)
+);
+}
+);
+width = 618;
+}
+);
+metricRight = l;
+unicode = 305;
+}

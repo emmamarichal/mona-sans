@@ -1,0 +1,36 @@
+{
+color = 6;
+glyphname = emdash.case;
+kernLeft = hyphen.case;
+kernRight = hyphen.case;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+pos = (0,106);
+ref = emdash;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+pos = (0,93);
+ref = emdash;
+}
+);
+width = 618;
+}
+);
+metricLeft = emdash;
+metricRight = emdash;
+userData = {
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
+}

@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = ohorntilde;
+kernLeft = egrave;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (3,-155);
+ref = tildecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = ohorn;
+},
+{
+pos = (-1,-134);
+ref = tildecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7905;
+}

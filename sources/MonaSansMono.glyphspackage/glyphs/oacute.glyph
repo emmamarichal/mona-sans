@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = oacute;
+kernLeft = e;
+kernRight = o;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (40,-155);
+ref = acutecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (48,-134);
+ref = acutecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 243;
+}

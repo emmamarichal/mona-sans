@@ -1,0 +1,41 @@
+{
+color = 6;
+glyphname = colon.ss01;
+kernLeft = colon.ss01;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = period.ss01;
+},
+{
+alignment = 1;
+anchor = top;
+pos = (0,430);
+ref = period.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = period.ss01;
+},
+{
+alignment = 1;
+anchor = top;
+pos = (0,306);
+ref = period.ss01;
+}
+);
+width = 618;
+}
+);
+metricLeft = period;
+metricRight = period;
+}

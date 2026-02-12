@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = odieresis.ss01;
+kernLeft = egrave;
+kernRight = o;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (0,-155);
+ref = dieresiscomb.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (0,-134);
+ref = dieresiscomb.ss01;
+}
+);
+width = 618;
+}
+);
+}

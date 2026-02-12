@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = quotesinglbase;
+kernRight = quotedblbase;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = comma;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = comma;
+}
+);
+width = 618;
+}
+);
+unicode = 8218;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

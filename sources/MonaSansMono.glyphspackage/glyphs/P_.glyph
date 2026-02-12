@@ -1,0 +1,196 @@
+{
+glyphname = P;
+kernLeft = H;
+kernRight = P;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (299,0);
+},
+{
+name = top;
+pos = (299,729);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(139,0,l),
+(139,704,l),
+(126,692,l),
+(338,692,ls),
+(455,692,o),
+(521,623,o),
+(521,509,cs),
+(521,398,o),
+(457,325,o),
+(338,325,cs),
+(130,325,l),
+(130,289,l),
+(340,289,ls),
+(475,289,o),
+(562,375,o),
+(562,509,cs),
+(562,649,o),
+(477,729,o),
+(341,729,cs),
+(100,729,l),
+(100,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+10
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+9
+);
+stem = -2;
+target = (
+1,
+0
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+10
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+1,
+4
+);
+stem = -2;
+target = (
+0,
+5
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (305,0);
+},
+{
+name = top;
+pos = (305,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(232,0,l),
+(232,583,l),
+(210,559,l),
+(324,559,ls),
+(367,559,o),
+(421,549,o),
+(421,474,cs),
+(421,396,o),
+(367,387,o),
+(324,387,cs),
+(216,387,l),
+(216,232,l),
+(360,232,ls),
+(531,232,o),
+(627,334,o),
+(627,482,cs),
+(627,639,o),
+(521,729,o),
+(360,729,cs),
+(29,729,l),
+(29,0,l)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(254,0,l),
+(254,581,l),
+(233,559,l),
+(319,559,ls),
+(360,559,o),
+(393,538,o),
+(393,475,cs),
+(393,425,o),
+(374,387,o),
+(319,387,cs),
+(239,387,l),
+(239,222,l),
+(336,222,ls),
+(494,222,o),
+(600,316,o),
+(600,477,cs),
+(600,630,o),
+(517,729,o),
+(336,729,cs),
+(50,729,l),
+(50,0,l)
+);
+}
+);
+width = 618;
+}
+);
+metricLeft = H;
+unicode = 80;
+userData = {
+KernOnName = P;
+};
+}

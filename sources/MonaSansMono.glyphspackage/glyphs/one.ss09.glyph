@@ -1,0 +1,97 @@
+{
+glyphname = one.ss09;
+kernLeft = one;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(349,0,l),
+(349,729,l),
+(310,729,l),
+(304,659,o),
+(282,619,o),
+(185,617,cs),
+(91,615,l),
+(91,585,l),
+(312,585,l),
+(312,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+9
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+6
+);
+stem = -2;
+target = (
+0,
+7
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+9
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(443,0,l),
+(443,729,l),
+(262,729,l),
+(251,651,o),
+(194,602,o),
+(91,595,cs),
+(29,591,l),
+(29,446,l),
+(250,451,l),
+(250,0,l)
+);
+}
+);
+width = 618;
+}
+);
+userData = {
+KernOnName = one;
+};
+}

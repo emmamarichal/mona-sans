@@ -1,0 +1,112 @@
+{
+color = 6;
+glyphname = zerosuperior;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+pos = (0,376);
+ref = zeroinferior;
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -25;
+width = 60;
+};
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = zeroinferior;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = zeroinferior;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+11
+);
+stem = -2;
+target = (
+0,
+11
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+1,
+5
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+1,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+1,
+8
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+pos = (0,376);
+ref = zeroinferior;
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -300;
+width = 60;
+};
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = zeroinferior;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = zeroinferior;
+};
+width = 618;
+}
+);
+unicode = 8304;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+RMXScaler = {
+source = zero;
+};
+};
+}

@@ -1,0 +1,202 @@
+{
+glyphname = n;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (312,0);
+},
+{
+name = top;
+pos = (312,517);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(150,0,l),
+(150,274,ls),
+(150,401,o),
+(223,491,o),
+(330,491,cs),
+(429,491,o),
+(478,430,o),
+(478,294,cs),
+(478,0,l),
+(515,0,l),
+(515,300,ls),
+(515,462,o),
+(440,525,o),
+(337,525,cs),
+(261,525,o),
+(192,482,o),
+(160,400,c),
+(150,400,l),
+(148,517,l),
+(114,517,l),
+(114,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+20
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+13
+);
+stem = -2;
+target = (
+0,
+4
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+19
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+20
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+0,
+9
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (312,0);
+},
+{
+name = top;
+pos = (312,544);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(230,0,l),
+(230,288,ls),
+(230,353,o),
+(262,400,o),
+(326,400,cs),
+(386,400,o),
+(410,364,o),
+(410,291,cs),
+(410,0,l),
+(601,0,l),
+(601,321,ls),
+(601,469,o),
+(534,554,o),
+(411,554,cs),
+(331,554,o),
+(267,518,o),
+(238,455,c),
+(230,455,l),
+(207,544,l),
+(39,544,l),
+(39,0,l)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(243,0,l),
+(243,308,ls),
+(243,351,o),
+(266,400,o),
+(318,400,cs),
+(367,400,o),
+(385,363,o),
+(385,291,cs),
+(385,0,l),
+(576,0,l),
+(576,333,ls),
+(576,494,o),
+(498,554,o),
+(399,554,cs),
+(331,554,o),
+(280,520,o),
+(257,455,c),
+(243,455,l),
+(236,544,l),
+(52,544,l),
+(52,0,l)
+);
+}
+);
+width = 618;
+}
+);
+metricLeft = l;
+unicode = 110;
+userData = {
+KernOnName = n;
+};
+}

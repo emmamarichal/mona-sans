@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = icircumflex;
+kernLeft = icircumflex;
+kernRight = icircumflex;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-1,-155);
+ref = circumflexcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (1,-134);
+ref = circumflexcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 238;
+}

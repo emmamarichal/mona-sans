@@ -1,0 +1,200 @@
+{
+glyphname = D;
+kernLeft = H;
+kernRight = D;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (304,0);
+},
+{
+name = center;
+pos = (127,365);
+},
+{
+name = top;
+pos = (304,729);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(307,0,ls),
+(463,0,o),
+(558,144,o),
+(558,364,cs),
+(558,585,o),
+(463,729,o),
+(307,729,cs),
+(92,729,l),
+(92,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(130,693,l),
+(303,693,ls),
+(435,693,o),
+(520,570,o),
+(520,365,cs),
+(520,167,o),
+(439,37,o),
+(303,37,cs),
+(130,37,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+8
+);
+stem = -2;
+target = (
+0,
+8
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+7
+);
+stem = -2;
+target = (
+1,
+0
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+1,
+8
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+1,
+4
+);
+stem = -2;
+target = (
+0,
+3
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = center;
+pos = (178,365);
+},
+{
+name = top;
+pos = (309,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,0,ls),
+(543,0,o),
+(661,147,o),
+(661,364,cs),
+(661,581,o),
+(544,729,o),
+(319,729,cs),
+(-10,729,l),
+(-10,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(193,557,l),
+(283,557,ls),
+(378,557,o),
+(449,527,o),
+(449,368,cs),
+(449,198,o),
+(374,172,o),
+(283,172,cs),
+(193,172,l)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,0,ls),
+(499,0,o),
+(590,147,o),
+(590,364,cs),
+(590,581,o),
+(500,729,o),
+(319,729,cs),
+(50,729,l),
+(50,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(255,558,l),
+(282,558,ls),
+(336,558,o),
+(381,526,o),
+(381,368,cs),
+(381,200,o),
+(330,171,o),
+(282,171,cs),
+(255,171,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+};
+width = 618;
+}
+);
+unicode = 68;
+}

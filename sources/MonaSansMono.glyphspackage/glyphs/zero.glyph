@@ -1,0 +1,128 @@
+{
+glyphname = zero;
+kernLeft = zero;
+kernRight = zero;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = zero.tf;
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+11
+);
+stem = -2;
+target = (
+0,
+11
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+1,
+5
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+1,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+1,
+8
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(483,-6,o),
+(598,126,o),
+(598,362,cs),
+(598,583,o),
+(496,730,o),
+(315,730,cs),
+(142,730,o),
+(26,598,o),
+(26,364,cs),
+(26,142,o),
+(129,-6,o),
+(311,-6,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(260,154,o),
+(216,181,o),
+(216,363,cs),
+(216,544,o),
+(260,571,o),
+(312,571,cs),
+(364,571,o),
+(408,544,o),
+(408,363,cs),
+(408,181,o),
+(364,154,o),
+(312,154,cs)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+ref = zero.tf;
+}
+);
+width = 618;
+}
+);
+metricRight = "=|";
+unicode = 48;
+userData = {
+KernOnName = zero;
+};
+}

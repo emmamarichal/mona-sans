@@ -1,0 +1,39 @@
+{
+color = 6;
+glyphname = ldot.ss01.ss04;
+kernLeft = l.ss03;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = -1;
+pos = (-90,0);
+ref = l.ss04;
+},
+{
+alignment = -1;
+pos = (207,18);
+ref = periodcentered.loclCAT.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = -1;
+pos = (-100,0);
+ref = l.ss04;
+},
+{
+alignment = -1;
+pos = (197,20);
+ref = periodcentered.loclCAT.ss01;
+}
+);
+width = 618;
+}
+);
+}

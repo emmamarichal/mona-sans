@@ -1,0 +1,39 @@
+{
+glyphname = ldot.ss03;
+kernLeft = l.ss02;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = l.ss03;
+},
+{
+alignment = 1;
+pos = (200,27);
+ref = periodcentered.loclCAT;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = l.ss03;
+},
+{
+alignment = 1;
+pos = (218,27);
+ref = periodcentered.loclCAT;
+}
+);
+width = 618;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+R = NoKerning;
+};
+};
+}

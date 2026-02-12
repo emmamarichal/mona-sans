@@ -1,0 +1,73 @@
+{
+glyphname = period.ss01;
+kernLeft = period.ss01;
+kernRight = period.ss01;
+layers = (
+{
+anchors = (
+{
+name = "#entry";
+pos = (224,0);
+},
+{
+name = "#exit";
+pos = (410,0);
+},
+{
+name = _top;
+pos = (310,87);
+},
+{
+name = top;
+pos = (310,517);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(350,0,l),
+(350,87,l),
+(268,87,l),
+(268,0,l)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = "#entry";
+pos = (174,0);
+},
+{
+name = "#exit";
+pos = (452,0);
+},
+{
+name = _top;
+pos = (309,238);
+},
+{
+name = top;
+pos = (309,544);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(432,0,l),
+(432,238,l),
+(186,238,l),
+(186,0,l)
+);
+}
+);
+width = 618;
+}
+);
+}

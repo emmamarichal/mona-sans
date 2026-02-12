@@ -1,0 +1,41 @@
+{
+color = 6;
+glyphname = guilsinglright;
+kernLeft = guillemetright;
+kernRight = guillemetright;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = 3;
+angle = 180;
+pos = (618,598);
+ref = guilsinglleft;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 3;
+angle = 180;
+pos = (618,608);
+ref = guilsinglleft;
+}
+);
+width = 618;
+}
+);
+metricLeft = guillemetright;
+metricRight = guillemetright;
+unicode = 8250;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

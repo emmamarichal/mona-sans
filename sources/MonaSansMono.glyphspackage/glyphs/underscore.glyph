@@ -1,0 +1,44 @@
+{
+glyphname = underscore;
+kernLeft = underscore;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(474,-33,l),
+(474,0,l),
+(144,0,l),
+(144,-33,l)
+);
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(511,-160,l),
+(511,0,l),
+(107,0,l),
+(107,-160,l)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 95;
+userData = {
+KernOnName = underscore;
+KernOnSpecialSpacing = {
+L = underscore;
+R = underscore;
+};
+};
+}

@@ -1,0 +1,33 @@
+{
+color = 6;
+glyphname = jacute;
+kernRight = jacute;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (109,-155);
+ref = acutecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (108,-134);
+ref = acutecomb;
+}
+);
+width = 618;
+}
+);
+}

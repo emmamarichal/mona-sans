@@ -1,0 +1,216 @@
+{
+glyphname = o;
+kernLeft = e;
+kernRight = o;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = center;
+pos = (310,259);
+},
+{
+name = ogonek;
+pos = (540,10);
+},
+{
+name = top;
+pos = (310,517);
+},
+{
+name = topright;
+pos = (396,507);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(455,-8,o),
+(552,101,o),
+(552,258,cs),
+(552,417,o),
+(455,525,o),
+(311,525,cs),
+(165,525,o),
+(67,415,o),
+(67,257,cs),
+(67,100,o),
+(165,-8,o),
+(311,-8,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(184,28,o),
+(105,120,o),
+(105,257,cs),
+(105,400,o),
+(188,490,o),
+(311,490,cs),
+(437,490,o),
+(514,397,o),
+(514,258,cs),
+(514,117,o),
+(432,28,o),
+(310,28,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+8
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+1,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+11
+);
+stem = -2;
+target = (
+1,
+11
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+1,
+5
+);
+stem = -2;
+target = (
+0,
+5
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = center;
+pos = (309,272);
+},
+{
+name = ogonek;
+pos = (552,10);
+},
+{
+name = top;
+pos = (309,544);
+},
+{
+name = topright;
+pos = (385,524);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,364,o),
+(258,400,o),
+(309,400,cs),
+(360,400,o),
+(394,364,o),
+(394,272,cs),
+(394,180,o),
+(360,144,o),
+(309,144,cs),
+(258,144,o),
+(224,180,o),
+(224,272,cs)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(488,-10,o),
+(588,103,o),
+(588,272,cs),
+(588,452,o),
+(476,554,o),
+(309,554,cs),
+(130,554,o),
+(30,441,o),
+(30,272,cs),
+(30,92,o),
+(142,-10,o),
+(309,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(257,143,o),
+(223,179,o),
+(223,272,cs),
+(223,365,o),
+(257,401,o),
+(309,401,cs),
+(361,401,o),
+(395,365,o),
+(395,272,cs),
+(395,179,o),
+(361,143,o),
+(309,143,cs)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 111;
+userData = {
+KernOnName = o;
+};
+}

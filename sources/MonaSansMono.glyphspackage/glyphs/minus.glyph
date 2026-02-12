@@ -1,0 +1,57 @@
+{
+glyphname = minus;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(548,345,l),
+(548,377,l),
+(70,377,l),
+(70,345,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+12,
+12
+);
+stem = -2;
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(546,286,l),
+(546,435,l),
+(73,435,l),
+(73,286,l)
+);
+}
+);
+width = 618;
+}
+);
+metricWidth = zero.tf;
+unicode = 8722;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

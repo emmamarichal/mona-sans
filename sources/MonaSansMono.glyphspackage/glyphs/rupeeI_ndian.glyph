@@ -1,0 +1,184 @@
+{
+glyphname = rupeeIndian;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(496,0,l),
+(467,206,ls),
+(457,276,o),
+(422,322,o),
+(362,334,c),
+(362,340,l),
+(450,358,o),
+(509,420,o),
+(515,507,c),
+(587,507,l),
+(587,541,l),
+(514,541,l),
+(511,610,o),
+(468,671,o),
+(414,691,c),
+(414,694,l),
+(587,694,l),
+(587,729,l),
+(41,729,l),
+(41,694,l),
+(289,694,ls),
+(392,694,o),
+(461,647,o),
+(474,542,c),
+(41,542,l),
+(41,507,l),
+(474,507,l),
+(467,414,o),
+(406,359,o),
+(281,359,cs),
+(41,359,l),
+(41,323,l),
+(279,323,ls),
+(350,323,o),
+(415,303,o),
+(430,197,cs),
+(458,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = f;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+30
+);
+stem = -2;
+type = Anchor;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+280.732,
+59.071
+);
+stem = -2;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+687.643,
+1066.179
+);
+stem = -2;
+type = TTStem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(515,0,l),
+(459,175,ls),
+(433,255,o),
+(403,291,o),
+(345,305,c),
+(345,312,l),
+(417,325,o),
+(471,362,o),
+(491,423,c),
+(578,423,l),
+(578,539,l),
+(493,539,l),
+(487,565,o),
+(468,592,o),
+(445,606,c),
+(445,613,l),
+(578,613,l),
+(578,729,l),
+(42,729,l),
+(42,587,l),
+(185,587,ls),
+(242,587,o),
+(272,568,o),
+(283,533,c),
+(42,533,l),
+(42,438,l),
+(284,438,l),
+(275,404,o),
+(247,384,o),
+(192,384,cs),
+(42,384,l),
+(42,244,l),
+(129,244,ls),
+(198,244,o),
+(218,230,o),
+(243,156,cs),
+(295,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = f;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+33
+);
+stem = -2;
+type = Anchor;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+211,
+173
+);
+stem = -2;
+type = TTStem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+19
+);
+stem = -2;
+target = (
+0,
+27
+);
+type = TTStem;
+}
+);
+};
+width = 618;
+}
+);
+unicode = 8377;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
+}

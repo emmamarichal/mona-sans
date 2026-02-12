@@ -1,0 +1,216 @@
+{
+glyphname = M;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = top;
+pos = (309,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(2,0,l),
+(2,420,l),
+(0,686,l),
+(6,686,l),
+(292,0,l),
+(328,0,l),
+(613,686,l),
+(620,686,l),
+(617,420,l),
+(617,0,l),
+(656,0,l),
+(656,729,l),
+(594,729,l),
+(310,50,l),
+(308,50,l),
+(26,729,l),
+(-36,729,l),
+(-36,0,l)
+);
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(131,0,l),
+(131,411,l),
+(127,699,l),
+(137,699,l),
+(188,506,l),
+(291,180,l),
+(326,180,l),
+(427,506,l),
+(480,699,l),
+(490,699,l),
+(486,411,l),
+(486,0,l),
+(521,0,l),
+(521,729,l),
+(463,729,l),
+(365,420,l),
+(314,233,l),
+(304,233,l),
+(252,420,l),
+(155,729,l),
+(96,729,l),
+(96,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = H;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+16
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+15
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+16
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+0,
+9
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = top;
+pos = (309,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(102,0,l),
+(102,233,l),
+(99,518,l),
+(108,518,l),
+(228,0,l),
+(394,0,l),
+(514,518,l),
+(521,518,l),
+(519,235,l),
+(519,0,l),
+(715,0,l),
+(715,729,l),
+(409,729,l),
+(315,333,l),
+(307,333,l),
+(210,729,l),
+(-96,729,l),
+(-96,0,l)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(216,0,l),
+(216,301,l),
+(199,510,l),
+(212,510,l),
+(232,350,l),
+(272,115,l),
+(347,115,l),
+(376,346,l),
+(407,510,l),
+(420,510,l),
+(402,301,l),
+(402,0,l),
+(569,0,l),
+(569,729,l),
+(365,729,l),
+(336,541,l),
+(317,409,l),
+(304,409,l),
+(285,541,l),
+(252,729,l),
+(49,729,l),
+(49,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = H;
+};
+width = 618;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 77;
+}

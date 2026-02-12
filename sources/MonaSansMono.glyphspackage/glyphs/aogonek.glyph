@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = aogonek;
+kernLeft = a;
+kernRight = g;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (153,0);
+ref = ogonekcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (139,0);
+ref = ogonekcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 261;
+}

@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = Abrevetilde;
+kernRight = A;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (-1,57);
+ref = brevecomb_tildecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (0,51);
+ref = brevecomb_tildecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7860;
+}

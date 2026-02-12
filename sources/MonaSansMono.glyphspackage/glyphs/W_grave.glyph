@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = Wgrave;
+kernLeft = W;
+kernRight = W;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (-40,57);
+ref = gravecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = W;
+},
+{
+pos = (-49,51);
+ref = gravecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7808;
+}

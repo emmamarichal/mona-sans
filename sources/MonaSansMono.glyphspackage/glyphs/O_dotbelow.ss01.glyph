@@ -1,0 +1,33 @@
+{
+color = 6;
+glyphname = Odotbelow.ss01;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (-1,0);
+ref = dotbelowcomb.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = O;
+},
+{
+ref = dotbelowcomb.ss01;
+}
+);
+width = 618;
+}
+);
+}

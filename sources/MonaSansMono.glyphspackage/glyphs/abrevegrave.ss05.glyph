@@ -1,0 +1,33 @@
+{
+color = 6;
+glyphname = abrevegrave.ss05;
+kernLeft = a.ss04;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (-9,-161);
+ref = brevecomb_gravecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (5,-134);
+ref = brevecomb_gravecomb;
+}
+);
+width = 618;
+}
+);
+}

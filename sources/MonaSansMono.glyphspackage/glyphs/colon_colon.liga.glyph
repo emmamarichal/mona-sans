@@ -1,0 +1,37 @@
+{
+glyphname = colon_colon.liga;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = -1;
+pos = (-551,1);
+ref = colon;
+},
+{
+alignment = -1;
+pos = (-65,1);
+ref = colon;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = -1;
+pos = (-551,1);
+ref = colon;
+},
+{
+alignment = -1;
+pos = (-65,1);
+ref = colon;
+}
+);
+width = 618;
+}
+);
+}

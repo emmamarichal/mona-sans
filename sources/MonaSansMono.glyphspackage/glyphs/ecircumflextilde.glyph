@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = ecircumflextilde;
+kernLeft = egrave;
+kernRight = eacute;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (13,-155);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (1,-134);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7877;
+}

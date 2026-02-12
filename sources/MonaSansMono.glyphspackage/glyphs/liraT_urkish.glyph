@@ -1,0 +1,156 @@
+{
+glyphname = liraTurkish;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(193,0,ls),
+(406,0,o),
+(542,105,o),
+(571,317,c),
+(534,317,l),
+(509,146,o),
+(403,36,o),
+(192,36,c),
+(192,729,l),
+(154,729,l),
+(154,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(426,436,l),
+(426,471,l),
+(52,321,l),
+(52,286,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(426,595,l),
+(426,630,l),
+(52,480,l),
+(52,445,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+3
+);
+stem = -2;
+target = (
+0,
+22
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+14
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+13
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+22
+);
+stem = -2;
+target = (
+0,
+3
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,0,ls),
+(451,0,o),
+(609,119,o),
+(618,331,c),
+(420,331,l),
+(412,244,o),
+(378,185,o),
+(256,184,c),
+(256,729,l),
+(66,729,l),
+(66,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(395,367,l),
+(395,509,l),
+(0,347,l),
+(0,205,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(395,566,l),
+(395,708,l),
+(0,546,l),
+(0,404,l)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 8378;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
+}

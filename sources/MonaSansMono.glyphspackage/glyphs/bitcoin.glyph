@@ -1,0 +1,329 @@
+{
+color = 6;
+glyphname = bitcoin;
+layers = (
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (278,0);
+},
+{
+name = center;
+pos = (278,365);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(176,-85,l),
+(176,22,l),
+(144,22,l),
+(144,-85,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,-85,l),
+(326,22,l),
+(294,22,l),
+(294,-85,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(176,714,l),
+(176,814,l),
+(144,814,l),
+(144,714,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(326,714,l),
+(326,814,l),
+(294,814,l),
+(294,714,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(303,0,ls),
+(446,0,o),
+(537,78,o),
+(537,200,cs),
+(537,285,o),
+(488,356,o),
+(391,374,c),
+(391,377,l),
+(479,397,o),
+(518,464,o),
+(518,543,cs),
+(518,654,o),
+(439,729,o),
+(304,729,cs),
+(19,729,l),
+(19,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(57,356,l),
+(321,356,ls),
+(433,356,o),
+(497,298,o),
+(497,202,cs),
+(497,104,o),
+(431,36,o),
+(303,36,cs),
+(57,36,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(57,694,l),
+(303,694,ls),
+(410,694,o),
+(480,635,o),
+(480,538,cs),
+(480,450,o),
+(424,391,o),
+(319,391,cs),
+(57,391,l)
+);
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = _B.currency;
+},
+{
+pos = (-24,0);
+ref = _bitcoin.bars;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = B;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = B;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+background = {
+anchors = (
+{
+name = bottom;
+pos = (275,0);
+},
+{
+name = center;
+pos = (275,365);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(198,-85,l),
+(198,90,l),
+(88,90,l),
+(88,-85,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(377,-85,l),
+(377,90,l),
+(267,90,l),
+(267,-85,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(198,689,l),
+(198,815,l),
+(89,815,l),
+(89,689,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(377,689,l),
+(377,815,l),
+(268,815,l),
+(268,689,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(304,0,ls),
+(492,0,o),
+(581,85,o),
+(581,212,cs),
+(581,293,o),
+(537,359,o),
+(458,376,c),
+(458,385,l),
+(520,405,o),
+(561,467,o),
+(561,541,cs),
+(561,654,o),
+(488,729,o),
+(333,729,cs),
+(-31,729,l),
+(-31,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(166,299,l),
+(280,299,ls),
+(339,299,o),
+(365,273,o),
+(365,226,cs),
+(365,179,o),
+(339,153,o),
+(280,153,cs),
+(166,153,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(166,576,l),
+(271,576,ls),
+(317,576,o),
+(347,555,o),
+(347,511,cs),
+(347,472,o),
+(323,446,o),
+(271,446,cs),
+(166,446,l)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = _B.currency;
+},
+{
+pos = (-26,0);
+ref = _bitcoin.bars;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = B;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = B;
+};
+width = 618;
+}
+);
+unicode = 8383;
+userData = {
+KernOnSpecialSpacing = {
+L = symbols;
+R = symbols;
+};
+};
+}

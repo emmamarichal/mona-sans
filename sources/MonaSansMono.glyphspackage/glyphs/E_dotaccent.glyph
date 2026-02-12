@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = Edotaccent;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (31,57);
+ref = dotaccentcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (3,51);
+ref = dotaccentcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 278;
+}

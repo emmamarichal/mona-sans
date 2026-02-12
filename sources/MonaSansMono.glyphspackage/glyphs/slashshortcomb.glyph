@@ -1,0 +1,50 @@
+{
+glyphname = slashshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (309,342);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(503,376,l),
+(503,413,l),
+(115,308,l),
+(115,270,l)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (310,302);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(549,306,l),
+(549,459,l),
+(70,298,l),
+(70,144,l)
+);
+}
+);
+width = 618;
+}
+);
+metricLeft = "=40";
+metricRight = "=40";
+unicode = 823;
+}

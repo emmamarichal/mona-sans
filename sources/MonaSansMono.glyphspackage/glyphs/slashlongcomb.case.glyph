@@ -1,0 +1,55 @@
+{
+glyphname = slashlongcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (309,324);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(34,-81,l),
+(628,729,l),
+(587,729,l),
+(-10,-81,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.originalWidth = 441;
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (310,324);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(88,-81,l),
+(682,729,l),
+(533,729,l),
+(-64,-81,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.originalWidth = 552;
+};
+width = 618;
+}
+);
+metricLeft = "=40";
+metricRight = "=40";
+}

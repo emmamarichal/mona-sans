@@ -1,0 +1,65 @@
+{
+export = 0;
+glyphname = f_f_i.liga;
+kernLeft = f;
+kernRight = i;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-90,0);
+ref = f;
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (618,0);
+ref = f;
+},
+{
+pos = (1236,0);
+ref = i;
+}
+);
+width = 1854;
+},
+{
+background = {
+shapes = (
+{
+pos = (-195,0);
+ref = f;
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+alignment = -1;
+pos = (1,0);
+ref = f;
+scale = (0.8,1);
+},
+{
+alignment = -1;
+pos = (369,0);
+ref = f;
+scale = (0.8,1);
+},
+{
+alignment = -1;
+pos = (747,0);
+ref = i;
+scale = (0.8,1);
+}
+);
+width = 1236;
+}
+);
+}

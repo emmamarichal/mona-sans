@@ -1,0 +1,33 @@
+{
+color = 6;
+glyphname = Ibreve;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (-1,51);
+ref = brevecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (1,51);
+ref = brevecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 300;
+}

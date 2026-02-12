@@ -1,0 +1,36 @@
+{
+color = 6;
+glyphname = hyphen.case;
+kernLeft = hyphen.case;
+kernRight = hyphen.case;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+pos = (0,106);
+ref = hyphen;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+pos = (0,93);
+ref = hyphen;
+}
+);
+width = 618;
+}
+);
+metricLeft = hyphen;
+metricRight = hyphen;
+userData = {
+KernOnSpecialSpacing = {
+L = hyphen;
+R = hyphen;
+};
+};
+}

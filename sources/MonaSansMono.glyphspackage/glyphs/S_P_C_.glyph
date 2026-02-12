@@ -1,0 +1,13 @@
+{
+glyphname = SPC;
+layers = (
+{
+layerId = m020;
+width = 618;
+},
+{
+layerId = m019;
+width = 618;
+}
+);
+}

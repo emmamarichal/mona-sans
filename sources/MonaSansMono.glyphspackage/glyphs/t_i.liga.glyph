@@ -1,0 +1,36 @@
+{
+export = 0;
+glyphname = t_i.liga;
+kernLeft = t;
+kernRight = i;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (618,0);
+ref = i;
+}
+);
+width = 1236;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (618,0);
+ref = i;
+}
+);
+width = 1236;
+}
+);
+metricLeft = t;
+metricRight = i;
+}

@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = Ohornacute;
+kernLeft = O;
+kernRight = Ohorn;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (39,57);
+ref = acutecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (49,51);
+ref = acutecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7898;
+}

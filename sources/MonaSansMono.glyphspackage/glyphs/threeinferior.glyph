@@ -1,0 +1,261 @@
+{
+glyphname = threeinferior;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (211,174);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(294,-45,o),
+(352,4,o),
+(352,78,cs),
+(352,133,o),
+(322,173,o),
+(272,184,c),
+(272,187,l),
+(316,200,o),
+(349,236,o),
+(349,287,cs),
+(349,354,o),
+(298,398,o),
+(216,398,cs),
+(140,398,o),
+(83,353,o),
+(79,278,c),
+(114,278,l),
+(117,332,o),
+(157,368,o),
+(216,368,cs),
+(274,368,o),
+(314,338,o),
+(314,284,cs),
+(314,233,o),
+(277,198,o),
+(210,198,cs),
+(178,198,l),
+(178,170,l),
+(219,170,ls),
+(277,170,o),
+(316,141,o),
+(316,80,cs),
+(316,22,o),
+(273,-15,o),
+(207,-15,cs),
+(151,-15,o),
+(108,18,o),
+(104,75,c),
+(70,75,l),
+(73,4,o),
+(127,-45,o),
+(207,-45,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -25;
+width = 60;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+34
+);
+stem = -2;
+target = (
+0,
+41
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+26
+);
+stem = -2;
+target = (
+0,
+27
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+12
+);
+stem = -2;
+target = (
+0,
+19
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+38
+);
+stem = -2;
+target = (
+0,
+37
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+27
+);
+stem = -2;
+target = (
+0,
+5
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+31
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+15
+);
+stem = -2;
+target = (
+0,
+16
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+22
+);
+stem = -2;
+target = (
+0,
+9
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (217,174);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(314,-46,o),
+(387,1,o),
+(387,87,cs),
+(387,131,o),
+(362,169,o),
+(317,182,c),
+(317,187,l),
+(350,200,o),
+(376,234,o),
+(376,276,cs),
+(376,353,o),
+(312,398,o),
+(220,398,cs),
+(117,398,o),
+(52,343,o),
+(49,256,c),
+(173,256,l),
+(174,278,o),
+(189,292,o),
+(215,292,cs),
+(238,292,o),
+(251,281,o),
+(251,260,cs),
+(251,240,o),
+(237,225,o),
+(212,225,cs),
+(164,225,l),
+(164,133,l),
+(216,133,ls),
+(244,133,o),
+(258,120,o),
+(258,98,cs),
+(258,76,o),
+(243,59,o),
+(216,59,cs),
+(190,59,o),
+(170,73,o),
+(170,98,c),
+(46,98,l),
+(50,11,o),
+(110,-46,o),
+(216,-46,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 60;
+weight = -300;
+width = 60;
+};
+};
+width = 618;
+}
+);
+unicode = 8323;
+userData = {
+KernOnSpecialSpacing = {
+L = superiors;
+R = superiors;
+};
+RMXScaler = {
+source = three;
+};
+};
+}

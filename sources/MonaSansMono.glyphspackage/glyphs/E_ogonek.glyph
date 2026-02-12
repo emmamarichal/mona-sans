@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = Eogonek;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (181,0);
+ref = ogonek;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (136,0);
+ref = ogonek;
+}
+);
+width = 618;
+}
+);
+unicode = 280;
+}

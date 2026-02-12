@@ -1,0 +1,49 @@
+{
+glyphname = dotbelowcomb.ss01;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (310,0);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(328,-140,l),
+(328,-84,l),
+(291,-84,l),
+(291,-140,l)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (310,0);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(405,-178,l),
+(405,-50,l),
+(214,-50,l),
+(214,-178,l)
+);
+}
+);
+width = 618;
+}
+);
+metricLeft = "=40";
+metricRight = "=40";
+}

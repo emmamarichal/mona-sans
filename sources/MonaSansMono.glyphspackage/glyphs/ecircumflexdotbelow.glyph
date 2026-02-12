@@ -1,0 +1,43 @@
+{
+color = 6;
+glyphname = ecircumflexdotbelow;
+kernLeft = egrave;
+kernRight = eacute;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (7,0);
+ref = dotbelowcomb;
+},
+{
+pos = (5,-155);
+ref = circumflexcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (7,0);
+ref = dotbelowcomb;
+},
+{
+pos = (1,-134);
+ref = circumflexcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7879;
+}

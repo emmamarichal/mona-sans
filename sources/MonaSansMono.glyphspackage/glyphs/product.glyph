@@ -1,0 +1,104 @@
+{
+glyphname = product;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(86,-151,l),
+(86,693,l),
+(532,693,l),
+(532,-151,l),
+(570,-151,l),
+(570,729,l),
+(48,729,l),
+(48,-151,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+11
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+0,
+9
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+11
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+3
+);
+stem = -2;
+target = (
+0,
+4
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(220,-151,l),
+(220,547,l),
+(398,547,l),
+(398,-151,l),
+(601,-151,l),
+(601,729,l),
+(17,729,l),
+(17,-151,l)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 8719;
+}

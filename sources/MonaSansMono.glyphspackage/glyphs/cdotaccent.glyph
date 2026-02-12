@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = cdotaccent;
+kernLeft = e;
+kernRight = c;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (18,-155);
+ref = dotaccentcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = c;
+},
+{
+pos = (3,-134);
+ref = dotaccentcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 267;
+}

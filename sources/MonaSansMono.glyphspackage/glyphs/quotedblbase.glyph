@@ -1,0 +1,80 @@
+{
+color = 6;
+glyphname = quotedblbase;
+kernRight = quotedblbase;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (310,0);
+ref = comma;
+},
+{
+pos = (439,0);
+ref = comma;
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+alignment = -1;
+pos = (-98,0);
+ref = comma;
+},
+{
+alignment = -1;
+pos = (91,0);
+ref = comma;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
+};
+width = 618;
+},
+{
+background = {
+shapes = (
+{
+pos = (124,0);
+ref = comma;
+},
+{
+pos = (378,0);
+ref = comma;
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+alignment = -1;
+pos = (-106,2);
+ref = comma;
+scale = (0.9,0.9);
+},
+{
+alignment = -1;
+pos = (168,2);
+ref = comma;
+scale = (0.9,0.9);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = comma;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = comma;
+};
+width = 618;
+}
+);
+unicode = 8222;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

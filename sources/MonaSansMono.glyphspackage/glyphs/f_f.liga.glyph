@@ -1,0 +1,116 @@
+{
+export = 0;
+glyphname = f_f.liga;
+kernLeft = f;
+kernRight = f;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (8,0);
+ref = f;
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (618,0);
+ref = f;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = f;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = f;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+21
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+}
+);
+};
+width = 1236;
+},
+{
+background = {
+shapes = (
+{
+pos = (-54,0);
+ref = f;
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (618,0);
+ref = f;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = f;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = f;
+};
+width = 1236;
+}
+);
+metricLeft = f;
+metricRight = f;
+}

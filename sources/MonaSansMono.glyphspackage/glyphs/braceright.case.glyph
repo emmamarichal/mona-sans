@@ -1,0 +1,129 @@
+{
+color = 6;
+glyphname = braceright.case;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+angle = 180;
+pos = (618,729);
+ref = braceleft.case;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = braceright;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = braceright;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+31
+);
+stem = -2;
+target = (
+0,
+30
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+7
+);
+stem = -2;
+target = (
+0,
+10
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+19
+);
+stem = -2;
+target = (
+0,
+18
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+29
+);
+stem = -2;
+target = (
+0,
+3
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+25
+);
+stem = -2;
+target = (
+0,
+8
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+31
+);
+stem = -2;
+target = (
+0,
+3
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+angle = 180;
+pos = (618,729);
+ref = braceleft.case;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = braceright;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = braceright;
+};
+width = 618;
+}
+);
+metricLeft = braceright;
+metricRight = braceright;
+userData = {
+KernOnSpecialSpacing = {
+L = parenthesis;
+};
+};
+}

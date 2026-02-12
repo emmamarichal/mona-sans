@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = agrave.ss05;
+kernLeft = a.ss04;
+kernRight = a.ss04;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (-49,-155);
+ref = gravecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (-44,-134);
+ref = gravecomb;
+}
+);
+width = 618;
+}
+);
+}

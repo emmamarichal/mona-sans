@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = idotbelow.dotless;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (1,0);
+ref = dotbelowcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (1,0);
+ref = dotbelowcomb;
+}
+);
+width = 618;
+}
+);
+}

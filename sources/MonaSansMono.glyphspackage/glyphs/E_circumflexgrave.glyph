@@ -1,0 +1,33 @@
+{
+color = 6;
+glyphname = Ecircumflexgrave;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (60,57);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (45,51);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7872;
+}

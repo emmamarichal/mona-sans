@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = ntilde;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (5,-155);
+ref = tildecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = n;
+},
+{
+pos = (2,-134);
+ref = tildecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 241;
+}

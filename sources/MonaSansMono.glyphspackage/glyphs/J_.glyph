@@ -1,0 +1,206 @@
+{
+glyphname = J;
+kernLeft = J;
+kernRight = J;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (391,0);
+},
+{
+name = top;
+pos = (457,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(345,-8,o),
+(410,44,o),
+(410,162,cs),
+(410,729,l),
+(372,729,l),
+(372,167,ls),
+(372,66,o),
+(320,27,o),
+(235,27,cs),
+(198,27,o),
+(168,36,o),
+(148,50,c),
+(148,13,l),
+(168,1,o),
+(199,-8,o),
+(237,-8,cs)
+);
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,0,ls),
+(429,0,o),
+(476,57,o),
+(476,170,cs),
+(476,729,l),
+(438,729,l),
+(438,175,ls),
+(438,81,o),
+(410,35,o),
+(318,35,cs),
+(84,35,l),
+(84,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(474,693,l),
+(474,729,l),
+(84,729,l),
+(84,693,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+0,
+15
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+4
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+12
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (370,0);
+},
+{
+name = top;
+pos = (422,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,-7,o),
+(469,59,o),
+(469,227,cs),
+(469,729,l),
+(267,729,l),
+(267,241,ls),
+(267,187,o),
+(242,158,o),
+(177,158,cs),
+(149,158,o),
+(127,164,o),
+(109,172,c),
+(109,12,l),
+(134,1,o),
+(179,-7,o),
+(222,-7,cs)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(302,0,ls),
+(449,0,o),
+(523,74,o),
+(523,221,cs),
+(523,729,l),
+(321,729,l),
+(321,252,ls),
+(321,196,o),
+(297,174,o),
+(241,174,cs),
+(83,174,l),
+(83,0,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(522,555,l),
+(522,729,l),
+(83,729,l),
+(83,555,l)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 74;
+}

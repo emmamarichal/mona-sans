@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = uring;
+kernLeft = u;
+kernRight = a;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (-4,-155);
+ref = ringcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (-4,-134);
+ref = ringcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 367;
+}

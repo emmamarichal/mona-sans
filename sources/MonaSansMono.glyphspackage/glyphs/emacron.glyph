@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = emacron;
+kernLeft = egrave;
+kernRight = eacute;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (4,-155);
+ref = macroncomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (0,-134);
+ref = macroncomb;
+}
+);
+width = 618;
+}
+);
+unicode = 275;
+}

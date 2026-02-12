@@ -1,0 +1,33 @@
+{
+glyphname = bar_bar.liga;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+pos = (-501,0);
+ref = bar;
+},
+{
+pos = (-115,0);
+ref = bar;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+pos = (-502,0);
+ref = bar;
+},
+{
+pos = (-117,0);
+ref = bar;
+}
+);
+width = 618;
+}
+);
+}

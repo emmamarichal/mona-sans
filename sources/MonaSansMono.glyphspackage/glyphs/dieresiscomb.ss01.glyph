@@ -1,0 +1,67 @@
+{
+glyphname = dieresiscomb.ss01;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (310,672);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(404,770,l),
+(404,882,l),
+(367,882,l),
+(367,770,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(252,770,l),
+(252,882,l),
+(215,882,l),
+(215,770,l)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (309,678);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,735,l),
+(500,863,l),
+(339,863,l),
+(339,735,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(279,735,l),
+(279,863,l),
+(118,863,l),
+(118,735,l)
+);
+}
+);
+width = 618;
+}
+);
+metricLeft = "=40";
+metricRight = "=40";
+}

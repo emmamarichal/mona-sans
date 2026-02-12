@@ -1,0 +1,27 @@
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = m019;
+userData = {
+com.schriftgestaltung.Glyphs.glyph.widthMetricsKey = space;
+};
+width = 618;
+},
+{
+layerId = m020;
+userData = {
+com.schriftgestaltung.Glyphs.glyph.widthMetricsKey = space;
+};
+width = 618;
+}
+);
+metricWidth = space;
+unicode = 160;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

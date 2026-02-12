@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = gdotaccent.ss01;
+kernLeft = g;
+kernRight = g;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (1,-155);
+ref = dotaccentcomb.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = g;
+},
+{
+pos = (1,-134);
+ref = dotaccentcomb.ss01;
+}
+);
+width = 618;
+}
+);
+}

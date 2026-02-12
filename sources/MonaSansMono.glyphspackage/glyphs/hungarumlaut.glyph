@@ -1,0 +1,27 @@
+{
+color = 6;
+glyphname = hungarumlaut;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = hungarumlautcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = hungarumlautcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 733;
+}

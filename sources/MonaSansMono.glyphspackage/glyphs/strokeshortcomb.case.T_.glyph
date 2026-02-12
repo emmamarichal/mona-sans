@@ -1,0 +1,50 @@
+{
+export = 0;
+glyphname = strokeshortcomb.case.T;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (309,354);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(499,337,l),
+(499,371,l),
+(119,371,l),
+(119,337,l)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (310,347);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(530,264,l),
+(530,430,l),
+(89,430,l),
+(89,264,l)
+);
+}
+);
+width = 618;
+}
+);
+metricLeft = "=40";
+metricRight = "=40";
+}

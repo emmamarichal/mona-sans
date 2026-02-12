@@ -1,0 +1,28 @@
+{
+color = 6;
+glyphname = questiondown.ss01.case;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+pos = (0,213);
+ref = questiondown.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+pos = (0,184);
+ref = questiondown.ss01;
+}
+);
+width = 618;
+}
+);
+metricLeft = questiondown.ss01;
+metricRight = questiondown.ss01;
+}

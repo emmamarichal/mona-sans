@@ -1,0 +1,28 @@
+{
+color = 6;
+glyphname = exclamdown.case;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+pos = (0,213);
+ref = exclamdown;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+pos = (0,184);
+ref = exclamdown;
+}
+);
+width = 618;
+}
+);
+metricLeft = exclamdown;
+metricRight = exclamdown;
+}

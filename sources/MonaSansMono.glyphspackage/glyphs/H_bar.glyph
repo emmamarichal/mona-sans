@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = Hbar;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (31,223);
+ref = strokelongcomb;
+scale = (0.9,1);
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = H;
+},
+{
+pos = (0,226);
+ref = strokelongcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 294;
+}

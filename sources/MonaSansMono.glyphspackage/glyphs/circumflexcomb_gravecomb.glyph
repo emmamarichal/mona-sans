@@ -1,0 +1,73 @@
+{
+glyphname = circumflexcomb_gravecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (281,672);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(196,746,l),
+(281,858,l),
+(367,746,l),
+(406,746,l),
+(302,882,l),
+(260,882,l),
+(157,746,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(462,836,l),
+(367,972,l),
+(326,972,l),
+(424,836,l)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (274,678);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(225,735,l),
+(274,801,l),
+(323,735,l),
+(481,735,l),
+(366,884,l),
+(182,884,l),
+(67,735,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(551,833,l),
+(508,972,l),
+(360,972,l),
+(447,833,l)
+);
+}
+);
+width = 618;
+}
+);
+metricLeft = "=40";
+metricRight = "=40";
+}

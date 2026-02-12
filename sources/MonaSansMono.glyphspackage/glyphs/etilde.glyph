@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = etilde;
+kernLeft = egrave;
+kernRight = eacute;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (7,-155);
+ref = tildecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = e;
+},
+{
+pos = (0,-134);
+ref = tildecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7869;
+}

@@ -1,0 +1,52 @@
+{
+export = 0;
+glyphname = f_y.liga;
+kernLeft = f;
+kernRight = y;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-74,0);
+ref = f;
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (618,0);
+ref = y;
+}
+);
+width = 1236;
+},
+{
+background = {
+shapes = (
+{
+pos = (-134,0);
+ref = f;
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+ref = f;
+},
+{
+pos = (618,0);
+ref = y;
+}
+);
+width = 1236;
+}
+);
+metricLeft = f;
+metricRight = y;
+}

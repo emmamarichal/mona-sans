@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = Idotbelow.ss02;
+kernLeft = I.ss02;
+kernRight = I.ss02;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = I.ss02;
+},
+{
+ref = dotbelowcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = I.ss02;
+},
+{
+ref = dotbelowcomb;
+}
+);
+width = 618;
+}
+);
+}

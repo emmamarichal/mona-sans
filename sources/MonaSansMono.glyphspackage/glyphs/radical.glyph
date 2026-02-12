@@ -1,0 +1,100 @@
+{
+glyphname = radical;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(301,-151,l),
+(608,729,l),
+(566,729,l),
+(278,-105,l),
+(299,-90,l),
+(264,-90,l),
+(285,-105,l),
+(124,369,l),
+(19,369,l),
+(19,332,l),
+(95,332,l),
+(262,-151,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+4
+);
+stem = -2;
+target = (
+0,
+9
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+6
+);
+stem = -2;
+target = (
+0,
+7
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+2
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(435,-151,l),
+(618,729,l),
+(403,729,l),
+(280,-36,l),
+(385,47,l),
+(205,47,l),
+(308,-36,l),
+(215,443,l),
+(0,443,l),
+(0,262,l),
+(57,262,l),
+(154,-151,l)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 8730;
+}

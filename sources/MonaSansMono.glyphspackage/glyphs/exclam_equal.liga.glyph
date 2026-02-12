@@ -1,0 +1,41 @@
+{
+glyphname = exclam_equal.liga;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = equal_equal.liga;
+},
+{
+closed = 1;
+nodes = (
+(-125,81,l),
+(158,650,l),
+(123,650,l),
+(-162,81,l)
+);
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = equal_equal.liga;
+},
+{
+closed = 1;
+nodes = (
+(-75,61,l),
+(230,670,l),
+(89,670,l),
+(-216,61,l)
+);
+}
+);
+width = 618;
+}
+);
+}

@@ -1,0 +1,48 @@
+{
+color = 6;
+glyphname = quoteright;
+kernLeft = quoteright;
+kernRight = quoteright;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = 3;
+pos = (0,652);
+ref = quotesinglbase;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quotedblright;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quotedblright;
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 3;
+pos = (0,501);
+ref = quotesinglbase;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = quotedblright;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = quotedblright;
+};
+width = 618;
+}
+);
+metricLeft = quotedblright;
+metricRight = quotedblright;
+unicode = 8217;
+userData = {
+KernOnName = quoteright;
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

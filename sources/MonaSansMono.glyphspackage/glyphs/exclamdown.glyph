@@ -1,0 +1,46 @@
+{
+color = 6;
+glyphname = exclamdown;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (618,517);
+ref = exclam;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = exclam;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = exclam;
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (618,544);
+ref = exclam;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = exclam;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = exclam;
+};
+width = 618;
+}
+);
+metricLeft = exclam;
+metricRight = exclam;
+unicode = 161;
+userData = {
+KernOnSpecialSpacing = {
+R = "spaced-off";
+};
+};
+}

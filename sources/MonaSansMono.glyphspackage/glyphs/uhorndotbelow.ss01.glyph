@@ -1,0 +1,33 @@
+{
+color = 6;
+glyphname = uhorndotbelow.ss01;
+kernLeft = u;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (-14,0);
+ref = dotbelowcomb.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = uhorn;
+},
+{
+pos = (-19,0);
+ref = dotbelowcomb.ss01;
+}
+);
+width = 618;
+}
+);
+}

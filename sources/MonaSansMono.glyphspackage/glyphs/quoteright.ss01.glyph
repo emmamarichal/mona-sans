@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = quoteright.ss01;
+kernLeft = quoteright.ss01;
+kernRight = quoteright.ss01;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = 3;
+pos = (0,649);
+ref = comma.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 3;
+pos = (0,511);
+ref = comma.ss01;
+}
+);
+width = 618;
+}
+);
+metricLeft = comma.ss01;
+metricRight = comma.ss01;
+}

@@ -1,0 +1,33 @@
+{
+glyphname = plus_plus.liga;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+pos = (-554,0);
+ref = plus;
+},
+{
+pos = (-66,0);
+ref = plus;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+pos = (-559,0);
+ref = plus;
+},
+{
+pos = (-62,0);
+ref = plus;
+}
+);
+width = 618;
+}
+);
+}

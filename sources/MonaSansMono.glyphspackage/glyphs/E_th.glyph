@@ -1,0 +1,37 @@
+{
+color = 7;
+glyphname = Eth;
+kernRight = D;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (-95,-23);
+ref = strokeshortcomb.case;
+scale = (0.8,1);
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (-87,-13);
+ref = strokeshortcomb.case;
+scale = (0.84,1);
+}
+);
+width = 618;
+}
+);
+metricRight = D;
+unicode = 208;
+}

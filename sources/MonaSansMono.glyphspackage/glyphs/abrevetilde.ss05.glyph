@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = abrevetilde.ss05;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (-10,-155);
+ref = brevecomb_tildecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (5,-134);
+ref = brevecomb_tildecomb;
+}
+);
+width = 618;
+}
+);
+}

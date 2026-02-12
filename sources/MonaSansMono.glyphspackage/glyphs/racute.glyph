@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = racute;
+kernRight = r;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (40,-155);
+ref = acutecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = r;
+},
+{
+pos = (44,-134);
+ref = acutecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 341;
+}

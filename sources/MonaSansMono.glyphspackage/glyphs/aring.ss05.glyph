@@ -1,0 +1,34 @@
+{
+color = 6;
+glyphname = aring.ss05;
+kernLeft = a.ss04;
+kernRight = a.ss04;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (-9,-155);
+ref = ringcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (5,-134);
+ref = ringcomb;
+}
+);
+width = 618;
+}
+);
+}

@@ -1,0 +1,65 @@
+{
+color = 6;
+glyphname = quotedblbase.ss01;
+kernRight = quotedblbase.ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (456,0);
+ref = comma.ss01;
+},
+{
+pos = (316,0);
+ref = comma.ss01;
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+alignment = -1;
+pos = (-82,0);
+ref = comma.ss01;
+},
+{
+alignment = -1;
+pos = (88,0);
+ref = comma.ss01;
+}
+);
+width = 618;
+},
+{
+background = {
+shapes = (
+{
+pos = (364,0);
+ref = comma.ss01;
+},
+{
+pos = (104,0);
+ref = comma.ss01;
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+alignment = -1;
+pos = (-107,0);
+ref = comma.ss01;
+scale = (0.9,0.9);
+},
+{
+alignment = -1;
+pos = (169,0);
+ref = comma.ss01;
+scale = (0.9,0.9);
+}
+);
+width = 618;
+}
+);
+}

@@ -1,0 +1,33 @@
+{
+color = 7;
+glyphname = lslash.ss03;
+kernLeft = lslash;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (-13,23);
+ref = slashshortcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = l.ss03;
+},
+{
+pos = (-16,63);
+ref = slashshortcomb;
+}
+);
+width = 618;
+}
+);
+}

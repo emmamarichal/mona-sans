@@ -1,0 +1,41 @@
+{
+color = 6;
+glyphname = Ldot;
+kernLeft = H;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = 1;
+pos = (245,-14);
+ref = periodcentered.loclCAT.case;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = L;
+},
+{
+alignment = 1;
+pos = (318,-30);
+ref = periodcentered.loclCAT.case;
+}
+);
+width = 618;
+}
+);
+unicode = 319;
+userData = {
+KernOnSpecialSpacing = {
+R = NoKerning;
+};
+};
+}

@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = abreve;
+kernLeft = a;
+kernRight = a;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (4,-161);
+ref = brevecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = a;
+},
+{
+pos = (1,-134);
+ref = brevecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 259;
+}

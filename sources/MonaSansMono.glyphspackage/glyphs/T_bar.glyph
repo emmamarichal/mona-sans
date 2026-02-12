@@ -1,0 +1,33 @@
+{
+color = 6;
+glyphname = Tbar;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (0,11);
+ref = strokeshortcomb.case.T;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (-4,-23);
+ref = strokeshortcomb.case.T;
+}
+);
+width = 618;
+}
+);
+unicode = 358;
+}

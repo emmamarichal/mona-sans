@@ -1,0 +1,197 @@
+{
+glyphname = five.dnom;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(301,-5,o),
+(356,48,o),
+(356,127,cs),
+(356,203,o),
+(305,254,o),
+(230,254,cs),
+(187,254,o),
+(151,235,o),
+(134,208,c),
+(132,208,l),
+(144,368,l),
+(346,368,l),
+(346,397,l),
+(117,397,l),
+(101,176,l),
+(134,176,l),
+(147,205,o),
+(179,227,o),
+(223,227,cs),
+(283,227,o),
+(323,190,o),
+(323,126,cs),
+(323,66,o),
+(286,23,o),
+(221,23,cs),
+(168,23,o),
+(131,56,o),
+(128,104,c),
+(96,104,l),
+(99,39,o),
+(150,-5,o),
+(221,-5,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 55;
+weight = -40;
+width = 55;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+24
+);
+stem = -2;
+target = (
+0,
+31
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+0,
+18
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+13
+);
+stem = -2;
+target = (
+0,
+10
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+21
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+28
+);
+stem = -2;
+target = (
+0,
+27
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(309,-5,o),
+(372,48,o),
+(372,128,cs),
+(372,200,o),
+(323,246,o),
+(250,246,cs),
+(223,246,o),
+(196,238,o),
+(188,231,c),
+(184,233,l),
+(191,277,l),
+(361,277,l),
+(361,375,l),
+(92,375,l),
+(75,136,l),
+(182,136,l),
+(186,150,o),
+(202,158,o),
+(219,158,cs),
+(242,158,o),
+(258,144,o),
+(258,124,cs),
+(258,108,o),
+(243,90,o),
+(218,90,cs),
+(198,90,o),
+(183,98,o),
+(179,109,c),
+(66,109,l),
+(73,41,o),
+(126,-5,o),
+(216,-5,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 52;
+weight = -370;
+width = 54;
+};
+};
+width = 618;
+}
+);
+metricWidth = H;
+userData = {
+KernOnSpecialSpacing = {
+L = "fraction numbers";
+R = "fraction numbers";
+};
+RMXScaler = {
+source = five;
+};
+};
+}

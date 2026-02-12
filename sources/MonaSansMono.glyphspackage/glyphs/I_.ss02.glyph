@@ -1,0 +1,157 @@
+{
+glyphname = I.ss02;
+kernLeft = I.ss02;
+kernRight = I.ss02;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = ogonek;
+pos = (506,0);
+},
+{
+name = top;
+pos = (309,729);
+},
+{
+name = topleft;
+pos = (130,729);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(328,27,l),
+(328,703,l),
+(290,703,l),
+(290,27,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(506,693,l),
+(506,729,l),
+(112,729,l),
+(112,693,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(506,0,l),
+(506,36,l),
+(112,36,l),
+(112,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+3
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+2
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+3
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = ogonek;
+pos = (566,0);
+},
+{
+name = top;
+pos = (309,729);
+},
+{
+name = topleft;
+pos = (63,729);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(408,158,l),
+(408,571,l),
+(204,571,l),
+(204,158,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(566,555,l),
+(566,729,l),
+(52,729,l),
+(52,555,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(566,0,l),
+(566,174,l),
+(52,174,l),
+(52,0,l)
+);
+}
+);
+width = 618;
+}
+);
+}

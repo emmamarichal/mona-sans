@@ -1,0 +1,234 @@
+{
+glyphname = O;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = center;
+pos = (309,365);
+},
+{
+name = ogonek;
+pos = (542,10);
+},
+{
+name = top;
+pos = (309,729);
+},
+{
+name = topleft;
+pos = (31,729);
+},
+{
+name = topright;
+pos = (432,699);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(464,-8,o),
+(568,140,o),
+(568,364,cs),
+(568,587,o),
+(466,736,o),
+(309,736,cs),
+(153,736,o),
+(50,588,o),
+(50,364,cs),
+(50,142,o),
+(152,-8,o),
+(309,-8,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(175,28,o),
+(92,164,o),
+(92,364,cs),
+(92,564,o),
+(174,700,o),
+(309,700,cs),
+(443,700,o),
+(526,565,o),
+(526,364,cs),
+(526,164,o),
+(443,28,o),
+(309,28,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+1,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+1,
+5
+);
+stem = -2;
+target = (
+0,
+5
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (310,0);
+},
+{
+name = center;
+pos = (310,365);
+},
+{
+name = ogonek;
+pos = (556,10);
+},
+{
+name = top;
+pos = (310,729);
+},
+{
+name = topleft;
+pos = (16,729);
+},
+{
+name = topright;
+pos = (427,709);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(534,-10,o),
+(683,121,o),
+(683,365,cs),
+(683,608,o),
+(534,739,o),
+(310,739,cs),
+(86,739,o),
+(-63,608,o),
+(-63,365,cs),
+(-63,121,o),
+(86,-10,o),
+(310,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(214,166,o),
+(150,222,o),
+(150,365,cs),
+(150,507,o),
+(214,563,o),
+(310,563,cs),
+(406,563,o),
+(470,507,o),
+(470,365,cs),
+(470,222,o),
+(406,166,o),
+(310,166,cs)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(482,-10,o),
+(598,122,o),
+(598,365,cs),
+(598,607,o),
+(481,739,o),
+(309,739,cs),
+(136,739,o),
+(20,607,o),
+(20,365,cs),
+(20,122,o),
+(137,-10,o),
+(309,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(264,162,o),
+(230,220,o),
+(230,365,cs),
+(230,509,o),
+(264,567,o),
+(309,567,cs),
+(354,567,o),
+(388,509,o),
+(388,365,cs),
+(388,221,o),
+(354,162,o),
+(309,162,cs)
+);
+}
+);
+width = 618;
+}
+);
+metricRight = "=|";
+unicode = 79;
+userData = {
+KernOnName = O;
+};
+}

@@ -1,0 +1,27 @@
+{
+color = 6;
+glyphname = dieresis;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = dieresiscomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = dieresiscomb;
+}
+);
+width = 618;
+}
+);
+unicode = 168;
+}

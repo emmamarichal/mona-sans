@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = Rcaron;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (-12,57);
+ref = caroncomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (-17,51);
+ref = caroncomb;
+}
+);
+width = 618;
+}
+);
+unicode = 344;
+}

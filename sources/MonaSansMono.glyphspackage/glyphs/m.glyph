@@ -1,0 +1,206 @@
+{
+glyphname = m;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (312,0);
+},
+{
+name = top;
+pos = (312,517);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(117,0,l),
+(117,338,ls),
+(117,427,o),
+(157,491,o),
+(213,491,cs),
+(270,491,o),
+(296,446,o),
+(296,355,cs),
+(296,0,l),
+(331,0,l),
+(331,338,ls),
+(331,427,o),
+(372,491,o),
+(430,491,cs),
+(486,491,o),
+(510,446,o),
+(510,355,cs),
+(510,0,l),
+(546,0,l),
+(546,360,ls),
+(546,478,o),
+(501,525,o),
+(436,525,cs),
+(392,525,o),
+(348,495,o),
+(328,430,c),
+(318,430,l),
+(303,497,o),
+(269,525,o),
+(219,525,cs),
+(177,525,o),
+(139,493,o),
+(121,435,c),
+(111,435,l),
+(109,517,l),
+(81,517,l),
+(81,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = n;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = n;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+21
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+-20
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = top;
+pos = (309,544);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(182,0,l),
+(182,352,ls),
+(182,373,o),
+(191,395,o),
+(210,395,cs),
+(229,395,o),
+(234,376,o),
+(234,342,cs),
+(235,0,l),
+(386,0,l),
+(387,356,ls),
+(387,376,o),
+(395,399,o),
+(414,399,cs),
+(433,399,o),
+(440,379,o),
+(440,345,cs),
+(439,0,l),
+(585,0,l),
+(585,397,ls),
+(585,510,o),
+(539,552,o),
+(477,552,cs),
+(431,552,o),
+(388,523,o),
+(377,464,c),
+(367,464,l),
+(352,524,o),
+(321,552,o),
+(274,552,cs),
+(238,552,o),
+(196,529,o),
+(183,469,c),
+(173,469,l),
+(168,544,l),
+(37,544,l),
+(37,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = n;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = n;
+};
+width = 618;
+}
+);
+metricLeft = l;
+metricRight = n;
+unicode = 109;
+}

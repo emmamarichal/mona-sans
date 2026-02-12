@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = Scedilla;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-2,0);
+ref = cedillacomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-21,0);
+ref = cedillacomb;
+}
+);
+width = 618;
+}
+);
+unicode = 350;
+}

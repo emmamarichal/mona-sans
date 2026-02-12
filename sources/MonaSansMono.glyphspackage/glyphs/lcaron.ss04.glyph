@@ -1,0 +1,40 @@
+{
+color = 6;
+glyphname = lcaron.ss04;
+kernLeft = l.ss03;
+kernRight = lcaron;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = -1;
+pos = (-71,0);
+ref = l.ss04;
+},
+{
+alignment = -1;
+pos = (168,0);
+ref = caroncomb.alt;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = -1;
+pos = (-71,0);
+ref = l.ss04;
+},
+{
+alignment = -1;
+pos = (208,0);
+ref = caroncomb.alt;
+}
+);
+width = 618;
+}
+);
+}

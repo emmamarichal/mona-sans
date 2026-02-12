@@ -1,0 +1,99 @@
+{
+color = 0;
+glyphname = notequal;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(206,101,l),
+(449,630,l),
+(414,630,l),
+(169,101,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(548,235,l),
+(548,267,l),
+(70,267,l),
+(70,235,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(548,455,l),
+(548,487,l),
+(70,487,l),
+(70,455,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+-2,
+-2
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+-2,
+-2
+);
+stem = -2;
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(248,101,l),
+(491,630,l),
+(372,630,l),
+(127,101,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(546,166,l),
+(546,315,l),
+(73,315,l),
+(73,166,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(546,406,l),
+(546,555,l),
+(73,555,l),
+(73,406,l)
+);
+}
+);
+width = 618;
+}
+);
+metricLeft = equal;
+metricRight = equal;
+unicode = 8800;
+}

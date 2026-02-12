@@ -1,0 +1,106 @@
+{
+glyphname = equal;
+layers = (
+{
+anchors = (
+{
+name = center;
+pos = (309,366);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(548,455,l),
+(548,487,l),
+(70,487,l),
+(70,455,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(548,235,l),
+(548,267,l),
+(70,267,l),
+(70,235,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+2
+);
+stem = -2;
+target = (
+1,
+3
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+2
+);
+stem = -2;
+target = (
+0,
+3
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = center;
+pos = (310,366);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(546,406,l),
+(546,555,l),
+(73,555,l),
+(73,406,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(546,166,l),
+(546,315,l),
+(73,315,l),
+(73,166,l)
+);
+}
+);
+width = 618;
+}
+);
+metricWidth = zero.tf;
+unicode = 61;
+userData = {
+KernOnName = equal;
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

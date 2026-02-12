@@ -1,0 +1,31 @@
+{
+color = 6;
+glyphname = Ydotbelow.ss01;
+kernRight = Y;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = Y;
+},
+{
+ref = dotbelowcomb.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = Y;
+},
+{
+ref = dotbelowcomb.ss01;
+}
+);
+width = 618;
+}
+);
+}

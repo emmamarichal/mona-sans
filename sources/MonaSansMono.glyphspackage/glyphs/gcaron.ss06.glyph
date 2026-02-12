@@ -1,0 +1,33 @@
+{
+color = 6;
+glyphname = gcaron.ss06;
+kernRight = g.ss05;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = g.ss06;
+},
+{
+pos = (-2,-156);
+ref = caroncomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = g.ss06;
+},
+{
+pos = (-11,-134);
+ref = caroncomb;
+}
+);
+width = 618;
+}
+);
+}

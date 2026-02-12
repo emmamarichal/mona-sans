@@ -1,0 +1,190 @@
+{
+glyphname = braceleft.case;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(487,-63,l),
+(487,-31,l),
+(290,-31,l),
+(290,262,ls),
+(290,320,o),
+(257,362,o),
+(220,364,c),
+(220,368,l),
+(255,369,o),
+(290,409,o),
+(290,470,cs),
+(290,761,l),
+(487,761,l),
+(487,793,l),
+(295,793,ls),
+(267,793,o),
+(254,775,o),
+(254,750,cs),
+(254,470,ls),
+(254,414,o),
+(222,384,o),
+(191,384,cs),
+(100,384,l),
+(100,347,l),
+(191,347,ls),
+(222,347,o),
+(254,317,o),
+(254,262,cs),
+(254,-20,ls),
+(254,-45,o),
+(267,-63,o),
+(295,-63,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = braceleft;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = braceleft;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+31
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+23
+);
+stem = -2;
+target = (
+0,
+22
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+11
+);
+stem = -2;
+target = (
+0,
+14
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+28
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+28
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+23
+);
+stem = -2;
+target = (
+0,
+6
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(527,-63,l),
+(527,70,l),
+(377,70,l),
+(377,231,ls),
+(377,294,o),
+(356,344,o),
+(288,369,c),
+(288,372,l),
+(341,384,o),
+(377,419,o),
+(377,505,cs),
+(377,659,l),
+(527,659,l),
+(527,793,l),
+(327,793,ls),
+(240,793,o),
+(199,738,o),
+(199,667,cs),
+(199,512,ls),
+(199,465,o),
+(176,434,o),
+(136,434,cs),
+(73,434,l),
+(73,295,l),
+(136,295,ls),
+(174,295,o),
+(199,267,o),
+(199,219,cs),
+(199,63,ls),
+(199,-8,o),
+(240,-63,o),
+(327,-63,cs)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = braceleft;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = braceleft;
+};
+width = 618;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

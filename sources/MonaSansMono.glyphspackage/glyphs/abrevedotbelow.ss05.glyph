@@ -1,0 +1,41 @@
+{
+color = 6;
+glyphname = abrevedotbelow.ss05;
+kernLeft = a.ss04;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (-10,0);
+ref = dotbelowcomb.ss01;
+},
+{
+pos = (-9,-161);
+ref = brevecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = a.ss05;
+},
+{
+pos = (-11,0);
+ref = dotbelowcomb.ss01;
+},
+{
+pos = (5,-134);
+ref = brevecomb;
+}
+);
+width = 618;
+}
+);
+}

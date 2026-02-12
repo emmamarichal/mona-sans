@@ -1,0 +1,55 @@
+Starting Mona Sans Google Fonts build process...
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+[1/841] buildVariable
+FAILED: /var/folders/c8/prxw74zj4qsczvrt0l8cjm7w0000gn/T/tmp4eaghyil 
+/Library/Developer/CommandLineTools/usr/bin/python3 -m gftools.builder.jobrunner fontmake --output-path /var/folders/c8/prxw74zj4qsczvrt0l8cjm7w0000gn/T/tmp4eaghyil -o variable -g MonaSans.glyphspackage --filter ...  --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter 
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+
+Command failed:
+fontmake --output-path /var/folders/c8/prxw74zj4qsczvrt0l8cjm7w0000gn/T/tmp4eaghyil -o variable -g MonaSans.glyphspackage --filter ... --filter FlattenComponentsFilter --filter DecomposeTransformedComponentsFilter
+
+INFO:fontmake.font_project:Building master UFOs and designspace from Glyphs source
+INFO:glyphsLib.parser:Parsing .glyphs file
+INFO:glyphsLib.builder:Running 'propagate_all_anchors' transformation
+INFO:fontmake.font_project:Loading 36 DesignSpace source UFOs
+fontmake: Error: In 'MonaSans.glyphspackage' -> 'master_ufo/MonaSans.designspace': can't specify output path because there are several VFs to build
+
+[2/841] instantiateUfo
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+fontmake -i Mona Sans Display ExtraLight -o ufo -g MonaSans.glyphspackage --ufo-structure=json --instance-dir instance_ufos
+[3/841] instantiateUfo
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+fontmake -i Mona Sans Display Light -o ufo -g MonaSans.glyphspackage --ufo-structure=json --instance-dir instance_ufos
+[4/841] instantiateUfo
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+fontmake -i Mona Sans Display SemiCondensed Black -o ufo -g MonaSans.glyphspackage --ufo-structure=json --instance-dir instance_ufos
+[5/841] instantiateUfo
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+fontmake -i Mona Sans Display SemiCondensed Regular -o ufo -g MonaSans.glyphspackage --ufo-structure=json --instance-dir instance_ufos
+[6/841] instantiateUfo
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+fontmake -i Mona Sans Display SemiCondensed ExtraBold -o ufo -g MonaSans.glyphspackage --ufo-structure=json --instance-dir instance_ufos
+[7/841] instantiateUfo
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+fontmake -i Mona Sans Display SemiCondensed Light -o ufo -g MonaSans.glyphspackage --ufo-structure=json --instance-dir instance_ufos
+[8/841] instantiateUfo
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+fontmake -i Mona Sans Display SemiCondensed Medium -o ufo -g MonaSans.glyphspackage --ufo-structure=json --instance-dir instance_ufos
+[9/841] instantiateUfo
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+fontmake -i Mona Sans Display SemiCondensed SemiBold -o ufo -g MonaSans.glyphspackage --ufo-structure=json --instance-dir instance_ufos
+[10/841] instantiateUfo
+/Users/kylebenson/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+fontmake -i Mona Sans Display SemiCondensed Bold -o ufo -g MonaSans.glyphspackage --ufo-structure=json --instance-dir instance_ufos
+ninja: build stopped: subcommand failed.

@@ -1,0 +1,47 @@
+{
+glyphname = checkmark;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(618,557,l),
+(593,582,l),
+(170,187,l),
+(24,372,l),
+(0,347,l),
+(169,137,l)
+);
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(619,495,l),
+(497,622,l),
+(214,317,l),
+(119,422,l),
+(0,299,l),
+(214,67,l)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 10003;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+com.schriftgestaltung.Glyphs.lastChange = "2017-05-03 17:15:08 +0000";
+};
+}

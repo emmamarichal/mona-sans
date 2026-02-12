@@ -1,0 +1,33 @@
+{
+glyphname = hyphen_hyphen.liga;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+pos = (-572,0);
+ref = hyphen;
+},
+{
+pos = (-45,0);
+ref = hyphen;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+pos = (-583,0);
+ref = hyphen;
+},
+{
+pos = (-37,0);
+ref = hyphen;
+}
+);
+width = 618;
+}
+);
+}

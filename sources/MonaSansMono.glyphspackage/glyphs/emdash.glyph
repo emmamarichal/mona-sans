@@ -1,0 +1,68 @@
+{
+glyphname = emdash;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(618,242,l),
+(618,275,l),
+(0,275,l),
+(0,242,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = hyphen;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = hyphen;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+2
+);
+stem = -2;
+target = (
+0,
+3
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(616,192,l),
+(616,352,l),
+(0,352,l),
+(0,192,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = hyphen;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = hyphen;
+};
+width = 618;
+}
+);
+unicode = 8212;
+userData = {
+KernOnSpecialSpacing = {
+L = dashes;
+R = dashes;
+};
+};
+}

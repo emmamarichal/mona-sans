@@ -1,0 +1,62 @@
+{
+glyphname = slashlongcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (310,259);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(96,-60,l),
+(564,577,l),
+(524,577,l),
+(55,-60,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.originalWidth = 441;
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (309,272);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(121,-60,l),
+(609,604,l),
+(499,604,l),
+(9,-60,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.originalWidth = 552;
+};
+width = 618;
+}
+);
+metricLeft = "=40";
+metricRight = "=40";
+unicode = 824;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

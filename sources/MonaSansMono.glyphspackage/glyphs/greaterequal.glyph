@@ -1,0 +1,98 @@
+{
+glyphname = greaterequal;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(553,339,l),
+(553,383,l),
+(72,589,l),
+(72,553,l),
+(520,363,l),
+(520,359,l),
+(72,169,l),
+(72,133,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(553,0,l),
+(553,32,l),
+(72,32,l),
+(72,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+2
+);
+stem = -2;
+target = (
+1,
+3
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+1,
+0
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(568,307,l),
+(568,516,l),
+(60,659,l),
+(60,489,l),
+(377,416,l),
+(377,407,l),
+(60,328,l),
+(60,158,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(568,0,l),
+(568,132,l),
+(60,132,l),
+(60,0,l)
+);
+}
+);
+width = 618;
+}
+);
+metricWidth = zero.tf;
+unicode = 8805;
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2017-05-03 17:00:02 +0000";
+};
+}

@@ -1,0 +1,340 @@
+{
+color = 0;
+glyphname = seven.blackCircled;
+layers = (
+{
+anchors = (
+{
+name = center;
+pos = (308,363);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(597,-10,o),
+(748,140,o),
+(748,363,cs),
+(748,587,o),
+(597,736,o),
+(372,736,cs),
+(148,736,o),
+(-3,587,o),
+(-3,363,cs),
+(-3,140,o),
+(148,-10,o),
+(372,-10,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(329,315,o),
+(398,429,o),
+(473,539,c),
+(260,539,l),
+(260,445,l),
+(231,445,l),
+(231,570,l),
+(514,570,l),
+(514,546,l),
+(436,431,o),
+(366,322,o),
+(366,137,c),
+(329,137,l)
+);
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(488,66,o),
+(608,186,o),
+(608,363,cs),
+(608,542,o),
+(488,661,o),
+(308,661,cs),
+(130,661,o),
+(10,542,o),
+(10,363,cs),
+(10,186,o),
+(130,66,o),
+(308,66,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(275,335,o),
+(329,426,o),
+(389,513,c),
+(220,513,l),
+(220,439,l),
+(196,439,l),
+(196,538,l),
+(422,538,l),
+(422,518,l),
+(359,427,o),
+(303,340,o),
+(303,193,c),
+(275,193,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+21
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+112,
+21
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+617,
+32
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+354,
+33
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+459,
+37
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+105,
+21
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+610,
+36
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+298,
+35
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+409,
+43
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+-19,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+-19,
+0
+);
+stem = -2;
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = center;
+pos = (308,365);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(602,-9,o),
+(766,141,o),
+(766,365,cs),
+(766,589,o),
+(602,739,o),
+(379,739,cs),
+(155,739,o),
+(-9,589,o),
+(-9,365,cs),
+(-9,141,o),
+(155,-9,o),
+(379,-9,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(300,293,o),
+(351,395,o),
+(397,459,c),
+(308,459,l),
+(308,397,l),
+(207,397,l),
+(207,570,l),
+(548,570,l),
+(548,476,l),
+(482,384,o),
+(437,306,o),
+(437,137,c),
+(300,137,l)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(482,75,o),
+(609,191,o),
+(609,365,cs),
+(609,538,o),
+(482,655,o),
+(309,655,cs),
+(136,655,o),
+(9,538,o),
+(9,365,cs),
+(9,191,o),
+(136,75,o),
+(309,75,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(249,320,o),
+(288,399,o),
+(324,449,c),
+(255,449,l),
+(255,401,l),
+(177,401,l),
+(177,535,l),
+(441,535,l),
+(441,462,l),
+(390,390,o),
+(355,330,o),
+(355,199,c),
+(249,199,l)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 10108;
+userData = {
+RMXScaler = {
+source = seven;
+};
+};
+}

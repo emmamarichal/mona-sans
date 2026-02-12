@@ -1,0 +1,42 @@
+{
+color = 6;
+glyphname = ocircumflexdotbelow;
+kernLeft = egrave;
+kernRight = o;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (1,0);
+ref = dotbelowcomb;
+},
+{
+pos = (1,-155);
+ref = circumflexcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = o;
+},
+{
+ref = dotbelowcomb;
+},
+{
+pos = (0,-134);
+ref = circumflexcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7897;
+}

@@ -1,0 +1,97 @@
+{
+glyphname = period;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+anchors = (
+{
+name = "#entry";
+pos = (216,0);
+},
+{
+name = "#exit";
+pos = (402,0);
+},
+{
+name = _top;
+pos = (309,83);
+},
+{
+name = top;
+pos = (309,524);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(336,-7,o),
+(356,12,o),
+(356,38,cs),
+(356,64,o),
+(336,83,o),
+(309,83,cs),
+(282,83,o),
+(262,64,o),
+(262,38,cs),
+(262,12,o),
+(282,-7,o),
+(309,-7,cs)
+);
+}
+);
+width = 618;
+},
+{
+anchors = (
+{
+name = "#entry";
+pos = (160,0);
+},
+{
+name = "#exit";
+pos = (458,0);
+},
+{
+name = _top;
+pos = (309,243);
+},
+{
+name = top;
+pos = (309,552);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(384,-8,o),
+(435,42,o),
+(435,118,cs),
+(435,193,o),
+(384,243,o),
+(309,243,cs),
+(234,243,o),
+(183,193,o),
+(183,118,cs),
+(183,42,o),
+(234,-8,o),
+(309,-8,cs)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 46;
+userData = {
+KernOnName = period;
+KernOnSpecialSpacing = {
+L = period;
+R = period;
+};
+};
+}

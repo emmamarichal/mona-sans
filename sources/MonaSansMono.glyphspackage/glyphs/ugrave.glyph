@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = ugrave;
+kernLeft = u;
+kernRight = a;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (-44,-155);
+ref = gravecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = u;
+},
+{
+pos = (-53,-134);
+ref = gravecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 249;
+}

@@ -1,0 +1,192 @@
+{
+glyphname = N;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = top;
+pos = (309,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(59,0,l),
+(59,436,l),
+(56,686,l),
+(61,686,l),
+(542,0,l),
+(597,0,l),
+(597,729,l),
+(559,729,l),
+(559,303,l),
+(563,43,l),
+(558,43,l),
+(76,729,l),
+(21,729,l),
+(21,0,l)
+);
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(153,0,l),
+(153,432,l),
+(151,672,l),
+(154,672,l),
+(452,0,l),
+(503,0,l),
+(503,729,l),
+(465,729,l),
+(465,308,l),
+(468,58,l),
+(464,58,l),
+(167,729,l),
+(115,729,l),
+(115,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = H;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+10
+);
+stem = -2;
+target = (
+0,
+13
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+12
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+13
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+8
+);
+stem = -2;
+target = (
+0,
+5
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = top;
+pos = (309,729);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,0,l),
+(180,236,l),
+(175,431,l),
+(183,431,l),
+(420,0,l),
+(645,0,l),
+(645,729,l),
+(450,729,l),
+(450,504,l),
+(457,282,l),
+(449,282,l),
+(212,729,l),
+(-27,729,l),
+(-27,0,l)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,0,l),
+(250,176,l),
+(247,371,l),
+(263,371,l),
+(378,0,l),
+(558,0,l),
+(558,729,l),
+(381,729,l),
+(381,564,l),
+(383,349,l),
+(367,349,l),
+(255,729,l),
+(60,729,l),
+(60,0,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = H;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = H;
+};
+width = 618;
+}
+);
+metricLeft = H;
+metricRight = H;
+unicode = 78;
+}

@@ -1,0 +1,35 @@
+{
+color = 6;
+glyphname = Ahookabove;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (0,57);
+ref = hookabovecomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (7,51);
+ref = hookabovecomb;
+}
+);
+width = 618;
+}
+);
+unicode = 7842;
+}

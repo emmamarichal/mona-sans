@@ -1,0 +1,33 @@
+{
+color = 6;
+glyphname = Ydieresis.ss01;
+kernRight = Y;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (0,57);
+ref = dieresiscomb.ss01;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (1,51);
+ref = dieresiscomb.ss01;
+}
+);
+width = 618;
+}
+);
+}

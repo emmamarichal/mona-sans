@@ -1,0 +1,27 @@
+{
+color = 6;
+glyphname = dotaccent;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = dotaccentcomb;
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = dotaccentcomb;
+}
+);
+width = 618;
+}
+);
+unicode = 729;
+}
