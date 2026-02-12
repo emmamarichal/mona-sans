@@ -1,2 +1,7 @@
 .DS_Store
 *).glyphs
+
+# Ignore ninja and ufo build files
+sources/instance_ufos
+sources/.ninja_log
+sources/build.ninja
