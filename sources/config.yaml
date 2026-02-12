@@ -4,14 +4,15 @@ familyName: "Mona Sans"
 outputDir: "../googlefonts"
 buildVariable: true
 splitItalic: true
-buildWebfont: False
-buildOTF: False
-buildTTF: False
+buildWebfont: false
+buildOTF: false
+buildTTF: false
 axisOrder:
   - wdth
   - wght
+  - opsz
 stat:
-  MonaSans[wdth,wght].ttf:
+  MonaSans[wdth,wght,opsz].ttf:
   - name: Width
     tag: wdth
     values:
@@ -49,6 +50,14 @@ stat:
       value: 800
     - name: Black
       value: 900
+  - name: Optical Size
+    tag: opsz
+    values:
+    - name: 20pt
+      value: 20
+      flags: 2
+    - name: 72pt
+      value: 72
   - name: Italic
     tag: ital
     values:
@@ -57,7 +66,7 @@ stat:
       flags: 2
     - name: Italic
       value: 1
-  MonaSans-Italic[wdth,wght].ttf:
+  MonaSans-Italic[wdth,wght,opsz].ttf:
   - name: Width
     tag: wdth
     values:
@@ -95,6 +104,14 @@ stat:
       value: 800
     - name: Black
       value: 900
+  - name: Optical Size
+    tag: opsz
+    values:
+    - name: 20pt
+      value: 20
+      flags: 2
+    - name: 72pt
+      value: 72
   - name: Italic
     tag: ital
     values:
