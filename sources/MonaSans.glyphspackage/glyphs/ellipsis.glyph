@@ -1050,7 +1050,7 @@ pos = (300,0);
 ref = period;
 }
 );
-width = 424;
+width = 380;
 },
 {
 background = {
@@ -1210,7 +1210,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = period;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
 };
-width = 542;
+width = 502;
 },
 {
 background = {
@@ -1292,7 +1292,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = period;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
 };
-width = 768;
+width = 776;
 },
 {
 background = {
@@ -1370,7 +1370,7 @@ pos = (318,0);
 ref = period;
 }
 );
-width = 460;
+width = 440;
 },
 {
 background = {
@@ -1448,7 +1448,7 @@ pos = (600,0);
 ref = period;
 }
 );
-width = 862;
+width = 888;
 },
 {
 background = {

@@ -24,7 +24,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (52,-137);
+pos = (60,-137);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (87,-129);
+pos = (93,-129);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (84,-161);
+pos = (87,-161);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (92,-134);
+pos = (91,-134);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-18,-137);
+pos = (-10,-137);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (26,-129);
+pos = (32,-129);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -182,7 +182,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (55,-137);
+pos = (45,-137);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -195,7 +195,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (91,-161);
+pos = (71,-161);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -223,7 +223,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (111,-155);
+pos = (101,-155);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -236,7 +236,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (87,-129);
+pos = (77,-129);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -249,7 +249,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-7,-157);
+pos = (-30,-157);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -262,7 +262,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-18,-137);
+pos = (-29,-137);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -275,7 +275,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (23,-155);
+pos = (-1,-155);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -288,7 +288,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (12,-134);
+pos = (-17,-134);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -301,7 +301,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (29,-155);
+pos = (19,-155);
 ref = brevecomb_hookabovecomb;
 }
 );
@@ -314,7 +314,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (26,-129);
+pos = (11,-129);
 ref = brevecomb_hookabovecomb;
 }
 );

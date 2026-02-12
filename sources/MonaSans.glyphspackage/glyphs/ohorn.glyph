@@ -25,7 +25,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (259,-11);
+pos = (267,-11);
 ref = horncomb;
 }
 );
@@ -53,7 +53,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (404,-86);
+pos = (410,-86);
 ref = horncomb;
 }
 );
@@ -67,7 +67,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (336,-2);
+pos = (339,-2);
 ref = horncomb;
 }
 );
@@ -81,7 +81,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (335,-66);
+pos = (334,-66);
 ref = horncomb;
 }
 );
@@ -109,7 +109,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (233,-11);
+pos = (241,-11);
 ref = horncomb;
 }
 );
@@ -165,7 +165,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (360,-98);
+pos = (366,-98);
 ref = horncomb;
 }
 );
@@ -179,7 +179,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (181,-9);
+pos = (161,-9);
 ref = horncomb;
 }
 );
@@ -193,7 +193,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (262,-11);
+pos = (252,-11);
 ref = horncomb;
 }
 );
@@ -207,7 +207,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (345,-2);
+pos = (325,-2);
 ref = horncomb;
 }
 );
@@ -221,7 +221,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (344,-66);
+pos = (323,-66);
 ref = horncomb;
 }
 );
@@ -235,7 +235,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (414,-18);
+pos = (404,-18);
 ref = horncomb;
 }
 );
@@ -249,7 +249,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (414,-86);
+pos = (404,-86);
 ref = horncomb;
 }
 );
@@ -263,7 +263,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (168,-9);
+pos = (145,-9);
 ref = horncomb;
 }
 );
@@ -277,7 +277,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (237,-11);
+pos = (226,-11);
 ref = horncomb;
 }
 );
@@ -291,7 +291,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (329,-3);
+pos = (305,-3);
 ref = horncomb;
 }
 );
@@ -305,7 +305,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (314,-66);
+pos = (285,-66);
 ref = horncomb;
 }
 );
@@ -319,7 +319,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (379,-18);
+pos = (369,-18);
 ref = horncomb;
 }
 );
@@ -333,7 +333,7 @@ alignment = -1;
 ref = o;
 },
 {
-pos = (382,-98);
+pos = (367,-98);
 ref = horncomb;
 }
 );

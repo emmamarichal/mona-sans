@@ -24,7 +24,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (112,51);
+pos = (120,51);
 ref = acutecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (256,56);
+pos = (262,56);
 ref = acutecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (249,57);
+pos = (252,57);
 ref = acutecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (222,51);
+pos = (221,51);
 ref = acutecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (121,51);
+pos = (129,51);
 ref = acutecomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (236,56);
+pos = (242,56);
 ref = acutecomb;
 }
 );
@@ -182,7 +182,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (116,51);
+pos = (106,51);
 ref = acutecomb;
 }
 );
@@ -240,7 +240,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (260,56);
+pos = (250,56);
 ref = acutecomb;
 }
 );
@@ -253,7 +253,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (121,57);
+pos = (98,57);
 ref = acutecomb;
 }
 );
@@ -266,7 +266,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (121,51);
+pos = (110,51);
 ref = acutecomb;
 }
 );
@@ -279,7 +279,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (232,57);
+pos = (208,57);
 ref = acutecomb;
 }
 );
@@ -292,7 +292,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (204,51);
+pos = (175,51);
 ref = acutecomb;
 }
 );
@@ -305,7 +305,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (252,57);
+pos = (242,57);
 ref = acutecomb;
 }
 );
@@ -318,7 +318,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (243,56);
+pos = (228,56);
 ref = acutecomb;
 }
 );

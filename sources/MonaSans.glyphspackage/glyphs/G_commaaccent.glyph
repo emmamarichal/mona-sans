@@ -24,7 +24,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (63,0);
+pos = (71,0);
 ref = commaaccentcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (242,0);
+pos = (248,0);
 ref = commaaccentcomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (296,0);
+pos = (299,0);
 ref = commaaccentcomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (229,0);
+pos = (228,0);
 ref = commaaccentcomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (89,0);
+pos = (97,0);
 ref = commaaccentcomb;
 }
 );
@@ -151,9 +151,11 @@ width = 837;
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
 shapes = (
 {
+alignment = -1;
 ref = G;
 },
 {
+alignment = -1;
 pos = (298,0);
 ref = commaaccentcomb;
 }
@@ -167,7 +169,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (102,0);
+pos = (82,0);
 ref = commaaccentcomb;
 }
 );
@@ -180,7 +182,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (66,0);
+pos = (56,0);
 ref = commaaccentcomb;
 }
 );
@@ -193,7 +195,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (307,0);
+pos = (287,0);
 ref = commaaccentcomb;
 }
 );
@@ -206,7 +208,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (217,0);
+pos = (196,0);
 ref = commaaccentcomb;
 }
 );
@@ -219,7 +221,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (331,0);
+pos = (321,0);
 ref = commaaccentcomb;
 }
 );
@@ -232,7 +234,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (256,0);
+pos = (246,0);
 ref = commaaccentcomb;
 }
 );
@@ -245,7 +247,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (111,0);
+pos = (88,0);
 ref = commaaccentcomb;
 }
 );
@@ -258,7 +260,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (84,0);
+pos = (73,0);
 ref = commaaccentcomb;
 }
 );
@@ -271,7 +273,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (322,0);
+pos = (298,0);
 ref = commaaccentcomb;
 }
 );
@@ -284,7 +286,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (282,0);
+pos = (253,0);
 ref = commaaccentcomb;
 }
 );
@@ -297,7 +299,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (366,0);
+pos = (356,0);
 ref = commaaccentcomb;
 }
 );
@@ -310,7 +312,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (310,0);
+pos = (295,0);
 ref = commaaccentcomb;
 }
 );

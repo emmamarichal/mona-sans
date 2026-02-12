@@ -24,7 +24,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (26,-137);
+pos = (34,-137);
 ref = gravecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (126,-129);
+pos = (132,-129);
 ref = gravecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (163,-155);
+pos = (166,-155);
 ref = gravecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (116,-134);
+pos = (115,-134);
 ref = gravecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (13,-137);
+pos = (21,-137);
 ref = gravecomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (105,-129);
+pos = (111,-129);
 ref = gravecomb;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (41,-156);
+pos = (21,-156);
 ref = gravecomb;
 }
 );
@@ -180,11 +180,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (27,-137);
+pos = (19,-137);
 ref = gravecomb;
 }
 );
-width = 450;
+width = 452;
 },
 {
 layerId = "E97B55C1-E583-4247-91FF-22E95A4A75BA";
@@ -193,11 +193,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (166,-155);
+pos = (149,-155);
 ref = gravecomb;
 }
 );
-width = 545;
+width = 548;
 },
 {
 layerId = "0B275536-62AC-4C56-AB54-CAFC17136928";
@@ -206,7 +206,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (120,-134);
+pos = (99,-134);
 ref = gravecomb;
 }
 );
@@ -219,11 +219,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (200,-155);
+pos = (194,-155);
 ref = gravecomb;
 }
 );
-width = 647;
+width = 651;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";
@@ -232,7 +232,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (140,-129);
+pos = (130,-129);
 ref = gravecomb;
 }
 );
@@ -245,7 +245,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (6,-156);
+pos = (-17,-156);
 ref = gravecomb;
 }
 );
@@ -258,7 +258,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (15,-137);
+pos = (4,-137);
 ref = gravecomb;
 }
 );
@@ -271,11 +271,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (148,-155);
+pos = (125,-155);
 ref = gravecomb;
 }
 );
-width = 541;
+width = 542;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -284,7 +284,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (90,-134);
+pos = (61,-134);
 ref = gravecomb;
 }
 );
@@ -297,7 +297,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (165,-155);
+pos = (155,-155);
 ref = gravecomb;
 }
 );
@@ -310,7 +310,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (116,-129);
+pos = (101,-129);
 ref = gravecomb;
 }
 );

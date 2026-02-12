@@ -20,7 +20,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 403;
+width = 387;
 },
 {
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
@@ -40,7 +40,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 539;
+width = 527;
 },
 {
 layerId = m019;
@@ -50,7 +50,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 396;
+width = 391;
 },
 {
 layerId = m020;
@@ -60,7 +60,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 465;
+width = 469;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -80,7 +80,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 404;
+width = 388;
 },
 {
 layerId = "095FE76F-1953-440B-9108-AA0678D151F9";
@@ -120,7 +120,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 540;
+width = 528;
 },
 {
 layerId = "F809B810-8CF1-453B-A5BE-CA3BE927A72B";
@@ -190,7 +190,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 227;
+width = 273;
 },
 {
 layerId = "6E33102A-8120-45EB-96FA-BF5C616DF6D0";
@@ -200,7 +200,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 366;
+width = 388;
 },
 {
 layerId = "CD1FE38A-850D-424C-9763-FD0BB7EF0F65";
@@ -210,7 +210,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 352;
+width = 400;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -220,7 +220,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 389;
+width = 447;
 },
 {
 layerId = "81AB4C8E-4968-429F-824B-C4C034789BE2";
@@ -230,7 +230,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 436;
+width = 456;
 },
 {
 layerId = "FDCDCD6C-7FEE-4790-B9C8-1B5EEA7E5598";
@@ -240,7 +240,7 @@ alignment = 1;
 ref = macroncomb;
 }
 );
-width = 498;
+width = 528;
 }
 );
 unicode = 175;

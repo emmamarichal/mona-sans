@@ -199,10 +199,11 @@ nodes = (
 layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 ref = whiteCircle;
 },
 {
+alignment = -1;
 pos = (199,189);
 ref = sixinferior;
 }

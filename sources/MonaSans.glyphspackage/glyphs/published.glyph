@@ -1199,7 +1199,7 @@ pos = (243,0);
 ref = _published.P;
 }
 );
-width = 698;
+width = 658;
 },
 {
 background = {
@@ -1283,7 +1283,7 @@ pos = (193,0);
 ref = _published.P;
 }
 );
-width = 706;
+width = 686;
 },
 {
 background = {
@@ -1469,7 +1469,7 @@ type = Stem;
 }
 );
 };
-width = 871;
+width = 831;
 },
 {
 background = {
@@ -1557,7 +1557,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = copyright;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = copyright;
 };
-width = 835;
+width = 813;
 },
 {
 background = {
@@ -1641,7 +1641,7 @@ pos = (266,0);
 ref = _published.P;
 }
 );
-width = 884;
+width = 864;
 },
 {
 background = {
@@ -1725,7 +1725,7 @@ pos = (212,0);
 ref = _published.P;
 }
 );
-width = 860;
+width = 840;
 },
 {
 background = {

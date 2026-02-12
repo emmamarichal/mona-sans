@@ -24,7 +24,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (18,-137);
+pos = (26,-137);
 ref = circumflexcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (69,-129);
+pos = (75,-129);
 ref = circumflexcomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (135,-155);
+pos = (138,-155);
 ref = circumflexcomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (76,-134);
+pos = (75,-134);
 ref = circumflexcomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-4,-137);
+pos = (4,-137);
 ref = circumflexcomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (46,-129);
+pos = (52,-129);
 ref = circumflexcomb;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (46,-156);
+pos = (26,-156);
 ref = circumflexcomb;
 }
 );
@@ -180,11 +180,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (19,-137);
+pos = (11,-137);
 ref = circumflexcomb;
 }
 );
-width = 450;
+width = 452;
 },
 {
 layerId = "E97B55C1-E583-4247-91FF-22E95A4A75BA";
@@ -193,11 +193,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (136,-155);
+pos = (119,-155);
 ref = circumflexcomb;
 }
 );
-width = 545;
+width = 548;
 },
 {
 layerId = "0B275536-62AC-4C56-AB54-CAFC17136928";
@@ -206,7 +206,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (82,-134);
+pos = (61,-134);
 ref = circumflexcomb;
 }
 );
@@ -219,11 +219,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (165,-155);
+pos = (159,-155);
 ref = circumflexcomb;
 }
 );
-width = 647;
+width = 651;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";
@@ -232,7 +232,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (83,-129);
+pos = (73,-129);
 ref = circumflexcomb;
 }
 );
@@ -245,7 +245,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (9,-156);
+pos = (-14,-156);
 ref = circumflexcomb;
 }
 );
@@ -258,7 +258,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-2,-137);
+pos = (-13,-137);
 ref = circumflexcomb;
 }
 );
@@ -271,11 +271,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (115,-155);
+pos = (92,-155);
 ref = circumflexcomb;
 }
 );
-width = 541;
+width = 542;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -284,7 +284,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-134);
+pos = (28,-134);
 ref = circumflexcomb;
 }
 );
@@ -297,7 +297,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (129,-155);
+pos = (119,-155);
 ref = circumflexcomb;
 }
 );
@@ -310,7 +310,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (57,-129);
+pos = (42,-129);
 ref = circumflexcomb;
 }
 );

@@ -22,7 +22,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (7,0);
+pos = (15,0);
 ref = ogonekcomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-43,0);
+pos = (-37,0);
 ref = ogonekcomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-38,0);
+pos = (-35,0);
 ref = ogonekcomb;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-23,0);
+pos = (-24,0);
 ref = ogonekcomb;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (5,0);
+pos = (13,0);
 ref = ogonekcomb;
 }
 );
@@ -139,11 +139,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-77,0);
+pos = (-76,0);
 ref = ogonekcomb;
 }
 );
-width = 168;
+width = 170;
 },
 {
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
@@ -152,7 +152,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-43,0);
+pos = (-37,0);
 ref = ogonekcomb;
 }
 );
@@ -165,7 +165,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-50,0);
+pos = (-70,0);
 ref = ogonekcomb;
 }
 );
@@ -178,7 +178,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (6,0);
+pos = (-4,0);
 ref = ogonekcomb;
 }
 );
@@ -191,7 +191,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-46,0);
+pos = (-66,0);
 ref = ogonekcomb;
 }
 );
@@ -204,7 +204,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-39,0);
+pos = (-60,0);
 ref = ogonekcomb;
 }
 );
@@ -247,7 +247,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-42,0);
+pos = (-65,0);
 ref = ogonekcomb;
 }
 );
@@ -260,7 +260,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (5,0);
+pos = (-6,0);
 ref = ogonekcomb;
 }
 );
@@ -273,11 +273,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-37,0);
+pos = (-59,0);
 ref = ogonekcomb;
 }
 );
-width = 158;
+width = 162;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -286,7 +286,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-34,0);
+pos = (-63,0);
 ref = ogonekcomb;
 }
 );
@@ -299,7 +299,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-77,0);
+pos = (-87,0);
 ref = ogonekcomb;
 }
 );
@@ -312,7 +312,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-43,0);
+pos = (-58,0);
 ref = ogonekcomb;
 }
 );

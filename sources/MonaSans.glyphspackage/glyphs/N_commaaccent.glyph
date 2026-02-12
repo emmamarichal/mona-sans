@@ -23,7 +23,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (62,0);
+pos = (70,0);
 ref = commaaccentcomb;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (257,0);
+pos = (263,0);
 ref = commaaccentcomb;
 }
 );
@@ -62,11 +62,11 @@ shapes = (
 ref = N;
 },
 {
-pos = (263,0);
+pos = (265,0);
 ref = commaaccentcomb;
 }
 );
-width = 743;
+width = 742;
 },
 {
 layerId = m020;
@@ -75,7 +75,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (227,0);
+pos = (226,0);
 ref = commaaccentcomb;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (62,0);
+pos = (70,0);
 ref = commaaccentcomb;
 }
 );
@@ -153,7 +153,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (257,0);
+pos = (263,0);
 ref = commaaccentcomb;
 }
 );
@@ -166,7 +166,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (104,0);
+pos = (84,0);
 ref = commaaccentcomb;
 }
 );
@@ -179,7 +179,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (61,0);
+pos = (51,0);
 ref = commaaccentcomb;
 }
 );
@@ -192,7 +192,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (272,0);
+pos = (252,0);
 ref = commaaccentcomb;
 }
 );
@@ -205,7 +205,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (217,0);
+pos = (196,0);
 ref = commaaccentcomb;
 }
 );
@@ -248,7 +248,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (120,0);
+pos = (97,0);
 ref = commaaccentcomb;
 }
 );
@@ -261,7 +261,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (62,0);
+pos = (51,0);
 ref = commaaccentcomb;
 }
 );
@@ -274,7 +274,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (269,0);
+pos = (245,0);
 ref = commaaccentcomb;
 }
 );
@@ -287,7 +287,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (214,0);
+pos = (185,0);
 ref = commaaccentcomb;
 }
 );
@@ -300,7 +300,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (297,0);
+pos = (287,0);
 ref = commaaccentcomb;
 }
 );
@@ -313,7 +313,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (257,0);
+pos = (242,0);
 ref = commaaccentcomb;
 }
 );

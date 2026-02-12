@@ -218,7 +218,7 @@ type = Stem;
 }
 );
 };
-width = 593;
+width = 582;
 },
 {
 background = {
@@ -271,7 +271,7 @@ nodes = (
 );
 }
 );
-width = 581;
+width = 574;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -481,7 +481,7 @@ nodes = (
 );
 }
 );
-width = 440;
+width = 480;
 },
 {
 background = {
@@ -534,7 +534,7 @@ nodes = (
 );
 }
 );
-width = 464;
+width = 466;
 },
 {
 layerId = "E97B55C1-E583-4247-91FF-22E95A4A75BA";
@@ -610,7 +610,7 @@ type = Stem;
 }
 );
 };
-width = 560;
+width = 600;
 },
 {
 background = {
@@ -663,7 +663,7 @@ nodes = (
 );
 }
 );
-width = 562;
+width = 600;
 },
 {
 layerId = "672F45B7-BA56-43A0-BBB6-CC0745727C88";
@@ -693,7 +693,7 @@ nodes = (
 );
 }
 );
-width = 700;
+width = 720;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";
@@ -723,7 +723,7 @@ nodes = (
 );
 }
 );
-width = 700;
+width = 720;
 },
 {
 layerId = "A312EA11-A86D-4039-A6A0-3473E7FCFCBA";

@@ -80,7 +80,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (593,729);
+pos = (582,729);
 ref = six.tf;
 }
 );
@@ -162,7 +162,7 @@ type = Stem;
 }
 );
 };
-width = 593;
+width = 582;
 },
 {
 layerId = m020;
@@ -170,7 +170,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (581,729);
+pos = (574,729);
 ref = six.tf;
 }
 );
@@ -181,7 +181,7 @@ monoWidth = 600;
 useSpacing = 70;
 };
 };
-width = 581;
+width = 574;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -315,7 +315,7 @@ shapes = (
 {
 alignment = 1;
 angle = 180;
-pos = (464,729);
+pos = (466,729);
 ref = six.tf;
 }
 );
@@ -326,7 +326,7 @@ monoWidth = 500;
 useSpacing = 70;
 };
 };
-width = 464;
+width = 466;
 },
 {
 layerId = "E97B55C1-E583-4247-91FF-22E95A4A75BA";

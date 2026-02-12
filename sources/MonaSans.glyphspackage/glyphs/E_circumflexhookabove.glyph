@@ -24,7 +24,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (-16,51);
+pos = (-8,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (99,56);
+pos = (105,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (174,57);
+pos = (177,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -76,11 +76,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (75,51);
+pos = (79,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 627;
+width = 632;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -102,7 +102,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (-1,51);
+pos = (7,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -151,9 +151,11 @@ width = 653;
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
 shapes = (
 {
+alignment = -1;
 ref = E;
 },
 {
+alignment = -1;
 pos = (105,56);
 ref = circumflexcomb_hookabovecomb;
 }
@@ -167,7 +169,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (51,57);
+pos = (31,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -180,7 +182,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (-17,51);
+pos = (-27,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -193,7 +195,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (142,57);
+pos = (122,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -206,7 +208,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (69,51);
+pos = (48,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -234,7 +236,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (94,56);
+pos = (84,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -247,7 +249,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (50,57);
+pos = (27,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -260,7 +262,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (-1,51);
+pos = (-12,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -273,7 +275,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (172,57);
+pos = (148,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -286,7 +288,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (96,51);
+pos = (67,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -299,7 +301,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (182,57);
+pos = (172,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -312,7 +314,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (105,56);
+pos = (90,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );

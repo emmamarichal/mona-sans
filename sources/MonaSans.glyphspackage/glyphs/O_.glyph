@@ -1713,7 +1713,7 @@ nodes = (
 );
 }
 );
-width = 767;
+width = 766;
 },
 {
 anchors = (

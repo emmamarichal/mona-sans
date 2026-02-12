@@ -24,7 +24,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (-44,51);
+pos = (-36,51);
 ref = circumflexcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (28,56);
+pos = (34,56);
 ref = circumflexcomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (105,57);
+pos = (108,57);
 ref = circumflexcomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (26,51);
+pos = (25,51);
 ref = circumflexcomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (-35,51);
+pos = (-27,51);
 ref = circumflexcomb;
 }
 );
@@ -151,9 +151,11 @@ width = 386;
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
 shapes = (
 {
+alignment = -1;
 ref = J;
 },
 {
+alignment = -1;
 pos = (-4,56);
 ref = circumflexcomb;
 }
@@ -167,7 +169,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (-18,57);
+pos = (-38,57);
 ref = circumflexcomb;
 }
 );
@@ -180,7 +182,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (-43,51);
+pos = (-53,51);
 ref = circumflexcomb;
 }
 );
@@ -193,7 +195,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (102,57);
+pos = (82,57);
 ref = circumflexcomb;
 }
 );
@@ -206,7 +208,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (31,51);
+pos = (10,51);
 ref = circumflexcomb;
 }
 );
@@ -219,7 +221,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (167,57);
+pos = (157,57);
 ref = circumflexcomb;
 }
 );
@@ -232,7 +234,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (28,56);
+pos = (18,56);
 ref = circumflexcomb;
 }
 );
@@ -245,7 +247,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (-4,57);
+pos = (-27,57);
 ref = circumflexcomb;
 }
 );
@@ -258,7 +260,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (-35,51);
+pos = (-46,51);
 ref = circumflexcomb;
 }
 );
@@ -271,7 +273,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (116,57);
+pos = (92,57);
 ref = circumflexcomb;
 }
 );
@@ -284,7 +286,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (42,51);
+pos = (13,51);
 ref = circumflexcomb;
 }
 );
@@ -297,7 +299,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (132,57);
+pos = (122,57);
 ref = circumflexcomb;
 }
 );
@@ -310,7 +312,7 @@ shapes = (
 ref = J;
 },
 {
-pos = (1,56);
+pos = (-14,56);
 ref = circumflexcomb;
 }
 );

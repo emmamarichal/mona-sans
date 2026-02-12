@@ -951,7 +951,7 @@ nodes = (
 );
 }
 );
-width = 599;
+width = 600;
 },
 {
 layerId = "672F45B7-BA56-43A0-BBB6-CC0745727C88";
@@ -1189,7 +1189,7 @@ nodes = (
 );
 }
 );
-width = 577;
+width = 576;
 },
 {
 background = {
@@ -1267,7 +1267,7 @@ nodes = (
 );
 }
 );
-width = 599;
+width = 598;
 },
 {
 background = {

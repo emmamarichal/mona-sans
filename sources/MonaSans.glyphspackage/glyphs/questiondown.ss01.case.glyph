@@ -120,7 +120,7 @@ pos = (38,185);
 ref = questiondown.ss01;
 }
 );
-width = 616;
+width = 618;
 },
 {
 layerId = "F809B810-8CF1-453B-A5BE-CA3BE927A72B";
@@ -151,7 +151,7 @@ pos = (0,213);
 ref = questiondown.ss01;
 }
 );
-width = 509;
+width = 472;
 },
 {
 layerId = "0B275536-62AC-4C56-AB54-CAFC17136928";
@@ -162,7 +162,7 @@ pos = (0,184);
 ref = questiondown.ss01;
 }
 );
-width = 552;
+width = 559;
 },
 {
 layerId = "672F45B7-BA56-43A0-BBB6-CC0745727C88";
@@ -173,7 +173,7 @@ pos = (0,213);
 ref = questiondown.ss01;
 }
 );
-width = 528;
+width = 548;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";

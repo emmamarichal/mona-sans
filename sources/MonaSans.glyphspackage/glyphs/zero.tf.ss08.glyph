@@ -63,11 +63,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (73,0);
+pos = (81,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 496;
+width = 480;
 },
 {
 background = {
@@ -264,11 +264,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (154,0);
+pos = (160,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 732;
+width = 720;
 },
 {
 background = {
@@ -331,7 +331,7 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (35,0);
+pos = (32,0);
 ref = _zero.tf.slash.ss08;
 }
 );
@@ -423,7 +423,7 @@ type = Stem;
 }
 );
 };
-width = 582;
+width = 600;
 },
 {
 background = {
@@ -486,11 +486,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (88,0);
+pos = (83,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 574;
+width = 600;
 },
 {
 background = {
@@ -620,11 +620,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (138,0);
+pos = (146,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 496;
+width = 480;
 },
 {
 background = {
@@ -888,11 +888,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (181,0);
+pos = (187,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 732;
+width = 720;
 },
 {
 background = {
@@ -1023,11 +1023,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (76,0);
+pos = (66,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 466;
+width = 480;
 },
 {
 background = {
@@ -1251,7 +1251,7 @@ pos = (93,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 578;
+width = 600;
 },
 {
 background = {
@@ -1450,11 +1450,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (67,0);
+pos = (44,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 434;
+width = 480;
 },
 {
 background = {
@@ -1517,11 +1517,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (138,0);
+pos = (127,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 458;
+width = 480;
 },
 {
 background = {
@@ -1584,11 +1584,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (53,0);
+pos = (29,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 552;
+width = 600;
 },
 {
 background = {
@@ -1651,11 +1651,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (145,0);
+pos = (116,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 542;
+width = 600;
 },
 {
 background = {
@@ -1718,11 +1718,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (52,0);
+pos = (42,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 700;
+width = 720;
 },
 {
 background = {
@@ -1785,11 +1785,11 @@ alignment = 1;
 ref = _zero.tf.base;
 },
 {
-pos = (181,0);
+pos = (166,0);
 ref = _zero.tf.slash.ss08;
 }
 );
-width = 690;
+width = 720;
 }
 );
 metricWidth = zero.tf;

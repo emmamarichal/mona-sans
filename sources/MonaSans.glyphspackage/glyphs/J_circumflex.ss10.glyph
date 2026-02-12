@@ -21,7 +21,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (130,51);
+pos = (138,51);
 ref = circumflexcomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (342,57);
+pos = (345,57);
 ref = circumflexcomb;
 }
 );
@@ -47,7 +47,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (230,51);
+pos = (229,51);
 ref = circumflexcomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (312,56);
+pos = (318,56);
 ref = circumflexcomb;
 }
 );
@@ -99,7 +99,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (122,51);
+pos = (130,51);
 ref = circumflexcomb;
 }
 );
@@ -151,7 +151,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (317,56);
+pos = (323,56);
 ref = circumflexcomb;
 }
 );
@@ -164,7 +164,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (162,57);
+pos = (142,57);
 ref = circumflexcomb;
 }
 );
@@ -177,7 +177,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (124,51);
+pos = (114,51);
 ref = circumflexcomb;
 }
 );
@@ -190,7 +190,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (397,57);
+pos = (377,57);
 ref = circumflexcomb;
 }
 );
@@ -203,7 +203,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (296,51);
+pos = (275,51);
 ref = circumflexcomb;
 }
 );
@@ -216,7 +216,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (424,57);
+pos = (414,57);
 ref = circumflexcomb;
 }
 );
@@ -229,11 +229,11 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (328,56);
+pos = (320,56);
 ref = circumflexcomb;
 }
 );
-width = 730;
+width = 732;
 },
 {
 layerId = "A312EA11-A86D-4039-A6A0-3473E7FCFCBA";
@@ -242,11 +242,11 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (197,57);
+pos = (174,57);
 ref = circumflexcomb;
 }
 );
-width = 352;
+width = 356;
 },
 {
 layerId = "6E33102A-8120-45EB-96FA-BF5C616DF6D0";
@@ -255,7 +255,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (115,51);
+pos = (104,51);
 ref = circumflexcomb;
 }
 );
@@ -268,7 +268,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (393,57);
+pos = (369,57);
 ref = circumflexcomb;
 }
 );
@@ -281,7 +281,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (297,51);
+pos = (268,51);
 ref = circumflexcomb;
 }
 );
@@ -294,7 +294,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (455,57);
+pos = (445,57);
 ref = circumflexcomb;
 }
 );
@@ -307,7 +307,7 @@ shapes = (
 ref = J.ss10;
 },
 {
-pos = (316,56);
+pos = (301,56);
 ref = circumflexcomb;
 }
 );

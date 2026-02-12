@@ -664,7 +664,7 @@ type = Stem;
 }
 );
 };
-width = 826;
+width = 825;
 },
 {
 background = {
@@ -828,7 +828,7 @@ nodes = (
 );
 }
 );
-width = 847;
+width = 849;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

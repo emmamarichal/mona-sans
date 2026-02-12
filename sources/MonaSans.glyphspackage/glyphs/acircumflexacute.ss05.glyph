@@ -23,7 +23,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (40,-137);
+pos = (48,-137);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (58,-129);
+pos = (64,-129);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -62,7 +62,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (88,-155);
+pos = (91,-155);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (60,-134);
+pos = (59,-134);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-27,-137);
+pos = (-19,-137);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -153,7 +153,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (4,-129);
+pos = (10,-129);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -181,7 +181,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (43,-137);
+pos = (33,-137);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -194,7 +194,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (95,-155);
+pos = (75,-155);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -222,7 +222,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (106,-155);
+pos = (96,-155);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -235,7 +235,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (58,-129);
+pos = (48,-129);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -248,7 +248,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-17,-156);
+pos = (-40,-156);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -261,7 +261,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-27,-137);
+pos = (-38,-137);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -274,7 +274,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (32,-155);
+pos = (8,-155);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -287,7 +287,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-5,-134);
+pos = (-34,-134);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -300,7 +300,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (30,-155);
+pos = (20,-155);
 ref = circumflexcomb_acutecomb;
 }
 );
@@ -313,7 +313,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (4,-129);
+pos = (-11,-129);
 ref = circumflexcomb_acutecomb;
 }
 );

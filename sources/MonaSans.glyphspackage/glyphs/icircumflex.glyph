@@ -24,7 +24,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-101,-137);
+pos = (-93,-137);
 ref = circumflexcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-137,-129);
+pos = (-131,-129);
 ref = circumflexcomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-59,-155);
+pos = (-56,-155);
 ref = circumflexcomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-88,-134);
+pos = (-89,-134);
 ref = circumflexcomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-131,-137);
+pos = (-123,-137);
 ref = circumflexcomb;
 }
 );
@@ -141,11 +141,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-128,-155);
+pos = (-127,-155);
 ref = circumflexcomb;
 }
 );
-width = 168;
+width = 170;
 },
 {
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
@@ -154,7 +154,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-167,-129);
+pos = (-161,-129);
 ref = circumflexcomb;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-58,-156);
+pos = (-78,-156);
 ref = circumflexcomb;
 }
 );
@@ -180,7 +180,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-102,-137);
+pos = (-112,-137);
 ref = circumflexcomb;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-67,-155);
+pos = (-87,-155);
 ref = circumflexcomb;
 }
 );
@@ -206,7 +206,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-100,-134);
+pos = (-121,-134);
 ref = circumflexcomb;
 }
 );
@@ -249,7 +249,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-87,-156);
+pos = (-110,-156);
 ref = circumflexcomb;
 }
 );
@@ -262,7 +262,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-131,-137);
+pos = (-142,-137);
 ref = circumflexcomb;
 }
 );
@@ -275,11 +275,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-95,-155);
+pos = (-117,-155);
 ref = circumflexcomb;
 }
 );
-width = 158;
+width = 162;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -288,7 +288,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-121,-134);
+pos = (-150,-134);
 ref = circumflexcomb;
 }
 );
@@ -301,7 +301,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-128,-155);
+pos = (-138,-155);
 ref = circumflexcomb;
 }
 );
@@ -314,7 +314,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-167,-129);
+pos = (-182,-129);
 ref = circumflexcomb;
 }
 );

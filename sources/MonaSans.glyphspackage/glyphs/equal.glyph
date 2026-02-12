@@ -181,7 +181,7 @@ type = Stem;
 }
 );
 };
-width = 593;
+width = 582;
 },
 {
 anchors = (
@@ -211,7 +211,7 @@ nodes = (
 );
 }
 );
-width = 581;
+width = 574;
 },
 {
 anchors = (
@@ -421,7 +421,7 @@ nodes = (
 );
 }
 );
-width = 440;
+width = 480;
 },
 {
 anchors = (
@@ -451,7 +451,7 @@ nodes = (
 );
 }
 );
-width = 460;
+width = 466;
 },
 {
 anchors = (
@@ -513,7 +513,7 @@ type = Stem;
 }
 );
 };
-width = 560;
+width = 600;
 },
 {
 anchors = (
@@ -543,7 +543,7 @@ nodes = (
 );
 }
 );
-width = 552;
+width = 600;
 },
 {
 anchors = (
@@ -573,7 +573,7 @@ nodes = (
 );
 }
 );
-width = 700;
+width = 720;
 },
 {
 anchors = (
@@ -603,7 +603,7 @@ nodes = (
 );
 }
 );
-width = 700;
+width = 720;
 },
 {
 anchors = (

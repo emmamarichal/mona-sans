@@ -22,7 +22,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-79,-137);
+pos = (-71,-137);
 ref = brevecomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-85,-129);
+pos = (-79,-129);
 ref = brevecomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-63,-161);
+pos = (-60,-161);
 ref = brevecomb;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-60,-134);
+pos = (-61,-134);
 ref = brevecomb;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-109,-137);
+pos = (-101,-137);
 ref = brevecomb;
 }
 );
@@ -139,11 +139,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-127,-155);
+pos = (-126,-155);
 ref = brevecomb;
 }
 );
-width = 168;
+width = 170;
 },
 {
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
@@ -152,7 +152,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-113,-134);
+pos = (-107,-134);
 ref = brevecomb;
 }
 );
@@ -165,7 +165,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-53,-156);
+pos = (-73,-156);
 ref = brevecomb;
 }
 );
@@ -178,7 +178,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-80,-137);
+pos = (-90,-137);
 ref = brevecomb;
 }
 );
@@ -191,7 +191,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-71,-161);
+pos = (-91,-161);
 ref = brevecomb;
 }
 );
@@ -204,7 +204,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-72,-134);
+pos = (-93,-134);
 ref = brevecomb;
 }
 );
@@ -247,7 +247,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-86,-156);
+pos = (-109,-156);
 ref = brevecomb;
 }
 );
@@ -260,7 +260,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-109,-137);
+pos = (-120,-137);
 ref = brevecomb;
 }
 );
@@ -273,11 +273,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-99,-155);
+pos = (-121,-155);
 ref = brevecomb;
 }
 );
-width = 158;
+width = 162;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -286,7 +286,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-104,-134);
+pos = (-133,-134);
 ref = brevecomb;
 }
 );
@@ -299,7 +299,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-127,-155);
+pos = (-137,-155);
 ref = brevecomb;
 }
 );
@@ -312,7 +312,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-113,-134);
+pos = (-128,-134);
 ref = brevecomb;
 }
 );

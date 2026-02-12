@@ -292,7 +292,7 @@ type = Stem;
 }
 );
 };
-width = 398;
+width = 399;
 },
 {
 layerId = m020;
@@ -339,7 +339,7 @@ weight = -370;
 width = 54;
 };
 };
-width = 355;
+width = 357;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

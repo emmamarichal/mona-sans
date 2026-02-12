@@ -151,9 +151,11 @@ width = 817;
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
 shapes = (
 {
+alignment = -1;
 ref = C;
 },
 {
+alignment = -1;
 pos = (262,56);
 ref = dotaccentcomb;
 }

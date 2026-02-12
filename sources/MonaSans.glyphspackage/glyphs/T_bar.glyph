@@ -22,7 +22,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (1,-1);
+pos = (9,-1);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -45,9 +45,11 @@ width = 655;
 layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
 shapes = (
 {
+alignment = -1;
 ref = T;
 },
 {
+alignment = -1;
 pos = (53,-23);
 ref = strokeshortcomb.case.T;
 }
@@ -61,7 +63,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (101,11);
+pos = (98,11);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -74,7 +76,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (70,-23);
+pos = (65,-23);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -100,7 +102,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (-1,-1);
+pos = (7,-1);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -149,9 +151,11 @@ width = 648;
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
 shapes = (
 {
+alignment = -1;
 ref = T;
 },
 {
+alignment = -1;
 pos = (33,-23);
 ref = strokeshortcomb.case.T;
 }
@@ -165,7 +169,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (10,11);
+pos = (-10,11);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -178,7 +182,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (2,-1);
+pos = (-8,-1);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -191,7 +195,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (62,11);
+pos = (42,11);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -219,7 +223,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (96,10);
+pos = (86,10);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -232,7 +236,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (79,-23);
+pos = (69,-23);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -245,7 +249,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (5,11);
+pos = (-18,11);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -258,7 +262,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (-1,-1);
+pos = (-12,-1);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -271,7 +275,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (62,11);
+pos = (38,11);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -284,7 +288,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (66,-23);
+pos = (37,-23);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -297,7 +301,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (61,10);
+pos = (51,10);
 ref = strokeshortcomb.case.T;
 }
 );
@@ -310,7 +314,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (74,-23);
+pos = (59,-23);
 ref = strokeshortcomb.case.T;
 }
 );

@@ -22,7 +22,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-6,0);
+pos = (2,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (21,0);
+pos = (27,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (64,0);
+pos = (67,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -74,11 +74,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (29,0);
+pos = (28,0);
 ref = dotbelowcomb.ss01;
 }
 );
-width = 327;
+width = 326;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -100,7 +100,6 @@ shapes = (
 ref = I;
 },
 {
-pos = (-8,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -152,7 +151,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (22,0);
+pos = (28,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -165,7 +164,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (23,0);
+pos = (3,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -178,7 +177,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-7,0);
+pos = (-17,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -191,7 +190,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (50,0);
+pos = (30,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -204,7 +203,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (17,0);
+pos = (-4,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -217,7 +216,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (32,0);
+pos = (22,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -230,7 +229,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (16,0);
+pos = (6,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -243,7 +242,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (26,0);
+pos = (3,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -256,7 +255,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-8,0);
+pos = (-19,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -269,7 +268,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (54,0);
+pos = (30,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -282,7 +281,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (24,0);
+pos = (-5,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -295,7 +294,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (31,0);
+pos = (21,0);
 ref = dotbelowcomb.ss01;
 }
 );
@@ -308,7 +307,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (22,0);
+pos = (7,0);
 ref = dotbelowcomb.ss01;
 }
 );

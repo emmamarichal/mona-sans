@@ -330,7 +330,7 @@ type = Stem;
 }
 );
 };
-width = 421;
+width = 420;
 },
 {
 anchors = (
@@ -383,7 +383,7 @@ weight = -300;
 width = 60;
 };
 };
-width = 388;
+width = 389;
 },
 {
 anchors = (

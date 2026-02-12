@@ -298,7 +298,7 @@ nodes = (
 );
 }
 );
-width = 24;
+width = 21;
 },
 {
 layerId = "BBBD8BC5-1445-4217-985E-4C596438DA38";

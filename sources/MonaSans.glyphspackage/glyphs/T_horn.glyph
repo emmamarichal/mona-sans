@@ -342,7 +342,7 @@ pos = (88,0);
 ref = _Thorn.bowl;
 }
 );
-width = 622;
+width = 629;
 },
 {
 background = {
@@ -410,7 +410,7 @@ pos = (183,0);
 ref = _Thorn.bowl;
 }
 );
-width = 660;
+width = 650;
 },
 {
 background = {
@@ -886,7 +886,7 @@ pos = (40,0);
 ref = _Thorn.bowl;
 }
 );
-width = 330;
+width = 333;
 },
 {
 background = {
@@ -1022,7 +1022,7 @@ pos = (70,0);
 ref = _Thorn.bowl;
 }
 );
-width = 589;
+width = 585;
 },
 {
 background = {
@@ -1090,7 +1090,7 @@ pos = (168,0);
 ref = _Thorn.bowl;
 }
 );
-width = 618;
+width = 622;
 },
 {
 background = {
@@ -1226,7 +1226,7 @@ pos = (159,0);
 ref = _Thorn.bowl;
 }
 );
-width = 689;
+width = 694;
 },
 {
 background = {
@@ -1294,7 +1294,7 @@ pos = (25,0);
 ref = _Thorn.bowl;
 }
 );
-width = 344;
+width = 351;
 },
 {
 background = {
@@ -1498,7 +1498,7 @@ pos = (161,0);
 ref = _Thorn.bowl;
 }
 );
-width = 621;
+width = 629;
 },
 {
 background = {
@@ -1566,7 +1566,7 @@ pos = (36,0);
 ref = _Thorn.bowl;
 }
 );
-width = 694;
+width = 692;
 },
 {
 background = {
@@ -1634,7 +1634,7 @@ pos = (176,0);
 ref = _Thorn.bowl;
 }
 );
-width = 722;
+width = 728;
 }
 );
 metricLeft = H;

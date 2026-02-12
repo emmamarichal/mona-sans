@@ -26,7 +26,7 @@ pos = (7,0);
 ref = t;
 },
 {
-pos = (-23,-1);
+pos = (-15,-1);
 ref = strokeshortcomb.t;
 }
 );
@@ -56,7 +56,7 @@ pos = (17,0);
 ref = t;
 },
 {
-pos = (-19,-1);
+pos = (-13,-1);
 ref = strokeshortcomb.t;
 }
 );
@@ -71,7 +71,7 @@ pos = (14,0);
 ref = t;
 },
 {
-pos = (2,0);
+pos = (-1,0);
 ref = strokeshortcomb.t;
 }
 );
@@ -86,7 +86,7 @@ pos = (18,0);
 ref = t;
 },
 {
-pos = (-1,-5);
+pos = (-6,-5);
 ref = strokeshortcomb.t;
 }
 );
@@ -116,7 +116,7 @@ pos = (7,0);
 ref = t;
 },
 {
-pos = (-23,-1);
+pos = (-15,-1);
 ref = strokeshortcomb.t;
 }
 );
@@ -176,7 +176,7 @@ pos = (18,0);
 ref = t;
 },
 {
-pos = (-20,-1);
+pos = (-14,-1);
 ref = strokeshortcomb.t;
 }
 );
@@ -191,7 +191,7 @@ pos = (6,0);
 ref = t;
 },
 {
-pos = (6,0);
+pos = (-14,0);
 ref = strokeshortcomb.t;
 }
 );
@@ -206,7 +206,7 @@ pos = (7,0);
 ref = t;
 },
 {
-pos = (-10,-1);
+pos = (-20,-1);
 ref = strokeshortcomb.t;
 }
 );
@@ -221,7 +221,7 @@ pos = (14,0);
 ref = t;
 },
 {
-pos = (-3,0);
+pos = (-23,0);
 ref = strokeshortcomb.t;
 }
 );
@@ -236,7 +236,7 @@ pos = (18,0);
 ref = t;
 },
 {
-pos = (-1,-5);
+pos = (-22,-5);
 ref = strokeshortcomb.t;
 }
 );
@@ -251,7 +251,7 @@ pos = (11,0);
 ref = t;
 },
 {
-pos = (-13,0);
+pos = (-23,0);
 ref = strokeshortcomb.t;
 }
 );
@@ -266,7 +266,7 @@ pos = (17,0);
 ref = t;
 },
 {
-pos = (-14,-1);
+pos = (-24,-1);
 ref = strokeshortcomb.t;
 }
 );
@@ -281,7 +281,7 @@ pos = (6,0);
 ref = t;
 },
 {
-pos = (9,0);
+pos = (-14,0);
 ref = strokeshortcomb.t;
 }
 );
@@ -296,7 +296,7 @@ pos = (7,0);
 ref = t;
 },
 {
-pos = (-7,-1);
+pos = (-18,-1);
 ref = strokeshortcomb.t;
 }
 );
@@ -311,7 +311,7 @@ pos = (14,0);
 ref = t;
 },
 {
-pos = (7,0);
+pos = (-17,0);
 ref = strokeshortcomb.t;
 }
 );
@@ -326,7 +326,7 @@ pos = (19,0);
 ref = t;
 },
 {
-pos = (3,-5);
+pos = (-26,-5);
 ref = strokeshortcomb.t;
 }
 );
@@ -341,7 +341,7 @@ pos = (11,0);
 ref = t;
 },
 {
-pos = (-19,0);
+pos = (-29,0);
 ref = strokeshortcomb.t;
 }
 );
@@ -356,7 +356,7 @@ pos = (18,0);
 ref = t;
 },
 {
-pos = (-9,-1);
+pos = (-24,-1);
 ref = strokeshortcomb.t;
 }
 );

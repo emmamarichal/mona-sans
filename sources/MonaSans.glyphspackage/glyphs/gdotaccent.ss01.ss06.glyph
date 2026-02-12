@@ -23,7 +23,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (93,-137);
+pos = (101,-137);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (155,-129);
+pos = (161,-129);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -62,7 +62,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (194,-156);
+pos = (197,-156);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (137,-134);
+pos = (136,-134);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (36,-137);
+pos = (44,-137);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -153,7 +153,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (102,-134);
+pos = (108,-134);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -166,7 +166,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (121,-156);
+pos = (101,-156);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -179,7 +179,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (98,-137);
+pos = (88,-137);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -192,7 +192,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (196,-156);
+pos = (176,-156);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -220,7 +220,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (210,-155);
+pos = (200,-155);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -233,7 +233,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (160,-129);
+pos = (150,-129);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -246,7 +246,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (68,-156);
+pos = (45,-156);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -259,7 +259,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (36,-137);
+pos = (25,-137);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -272,7 +272,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (143,-155);
+pos = (119,-155);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -285,7 +285,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (90,-134);
+pos = (61,-134);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -298,7 +298,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (168,-155);
+pos = (158,-155);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -311,7 +311,7 @@ shapes = (
 ref = g.ss06;
 },
 {
-pos = (102,-134);
+pos = (87,-134);
 ref = dotaccentcomb.ss01;
 }
 );

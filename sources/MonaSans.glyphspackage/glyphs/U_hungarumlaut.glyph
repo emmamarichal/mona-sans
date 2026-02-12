@@ -24,7 +24,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (55,51);
+pos = (63,51);
 ref = hungarumlautcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (183,56);
+pos = (189,56);
 ref = hungarumlautcomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (239,57);
+pos = (242,57);
 ref = hungarumlautcomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (160,51);
+pos = (159,51);
 ref = hungarumlautcomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (57,51);
+pos = (65,51);
 ref = hungarumlautcomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (185,56);
+pos = (191,56);
 ref = hungarumlautcomb;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (105,57);
+pos = (85,57);
 ref = hungarumlautcomb;
 }
 );
@@ -255,7 +255,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (129,57);
+pos = (106,57);
 ref = hungarumlautcomb;
 }
 );
@@ -268,7 +268,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (57,51);
+pos = (46,51);
 ref = hungarumlautcomb;
 }
 );
@@ -281,7 +281,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (244,57);
+pos = (220,57);
 ref = hungarumlautcomb;
 }
 );
@@ -294,7 +294,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (160,51);
+pos = (131,51);
 ref = hungarumlautcomb;
 }
 );
@@ -307,7 +307,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (260,57);
+pos = (250,57);
 ref = hungarumlautcomb;
 }
 );
@@ -320,7 +320,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (185,56);
+pos = (170,56);
 ref = hungarumlautcomb;
 }
 );

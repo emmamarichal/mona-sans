@@ -74,7 +74,7 @@ nodes = (
 );
 }
 );
-width = 77;
+width = 78;
 },
 {
 layerId = m020;
@@ -89,7 +89,7 @@ nodes = (
 );
 }
 );
-width = 173;
+width = 174;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -194,7 +194,7 @@ nodes = (
 );
 }
 );
-width = 24;
+width = 21;
 },
 {
 layerId = "BBBD8BC5-1445-4217-985E-4C596438DA38";

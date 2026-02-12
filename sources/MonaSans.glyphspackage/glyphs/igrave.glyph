@@ -24,7 +24,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-93,-137);
+pos = (-85,-137);
 ref = gravecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-80,-129);
+pos = (-74,-129);
 ref = gravecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-31,-155);
+pos = (-28,-155);
 ref = gravecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-48,-134);
+pos = (-49,-134);
 ref = gravecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-114,-137);
+pos = (-106,-137);
 ref = gravecomb;
 }
 );
@@ -141,11 +141,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-92,-155);
+pos = (-91,-155);
 ref = gravecomb;
 }
 );
-width = 168;
+width = 170;
 },
 {
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
@@ -154,7 +154,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-108,-129);
+pos = (-102,-129);
 ref = gravecomb;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-63,-156);
+pos = (-83,-156);
 ref = gravecomb;
 }
 );
@@ -180,7 +180,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-94,-137);
+pos = (-104,-137);
 ref = gravecomb;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-37,-155);
+pos = (-57,-155);
 ref = gravecomb;
 }
 );
@@ -206,7 +206,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-62,-134);
+pos = (-83,-134);
 ref = gravecomb;
 }
 );
@@ -249,7 +249,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-90,-156);
+pos = (-113,-156);
 ref = gravecomb;
 }
 );
@@ -262,7 +262,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-114,-137);
+pos = (-125,-137);
 ref = gravecomb;
 }
 );
@@ -275,11 +275,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-62,-155);
+pos = (-84,-155);
 ref = gravecomb;
 }
 );
-width = 158;
+width = 162;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -288,7 +288,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-88,-134);
+pos = (-117,-134);
 ref = gravecomb;
 }
 );
@@ -301,7 +301,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-92,-155);
+pos = (-102,-155);
 ref = gravecomb;
 }
 );
@@ -314,7 +314,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-108,-129);
+pos = (-123,-129);
 ref = gravecomb;
 }
 );

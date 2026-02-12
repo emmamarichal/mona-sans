@@ -816,7 +816,7 @@ type = Stem;
 }
 );
 };
-width = 1148;
+width = 1149;
 },
 {
 layerId = m020;
@@ -937,7 +937,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = percent;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = percent;
 };
-width = 1194;
+width = 1195;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";

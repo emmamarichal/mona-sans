@@ -293,11 +293,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (333,626);
+pos = (313,626);
 ref = bracketleft;
 }
 );
-width = 333;
+width = 313;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";
@@ -305,11 +305,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (396,626);
+pos = (376,626);
 ref = bracketleft;
 }
 );
-width = 396;
+width = 376;
 },
 {
 layerId = "A312EA11-A86D-4039-A6A0-3473E7FCFCBA";

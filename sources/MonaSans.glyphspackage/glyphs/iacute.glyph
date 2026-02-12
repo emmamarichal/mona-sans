@@ -24,7 +24,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (4,-137);
+pos = (12,-137);
 ref = acutecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (37,-129);
+pos = (43,-129);
 ref = acutecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (48,-155);
+pos = (51,-155);
 ref = acutecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (41,-134);
+pos = (40,-134);
 ref = acutecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-24,-137);
+pos = (-16,-137);
 ref = acutecomb;
 }
 );
@@ -141,11 +141,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-5,-155);
+pos = (-4,-155);
 ref = acutecomb;
 }
 );
-width = 168;
+width = 170;
 },
 {
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
@@ -154,7 +154,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (9,-129);
+pos = (15,-129);
 ref = acutecomb;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (15,-156);
+pos = (-5,-156);
 ref = acutecomb;
 }
 );
@@ -180,7 +180,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (3,-137);
+pos = (-7,-137);
 ref = acutecomb;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (42,-155);
+pos = (22,-155);
 ref = acutecomb;
 }
 );
@@ -206,7 +206,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (35,-134);
+pos = (14,-134);
 ref = acutecomb;
 }
 );
@@ -249,7 +249,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-13,-156);
+pos = (-36,-156);
 ref = acutecomb;
 }
 );
@@ -262,7 +262,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-24,-137);
+pos = (-35,-137);
 ref = acutecomb;
 }
 );
@@ -275,11 +275,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (15,-155);
+pos = (-7,-155);
 ref = acutecomb;
 }
 );
-width = 158;
+width = 162;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -288,7 +288,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (13,-134);
+pos = (-16,-134);
 ref = acutecomb;
 }
 );
@@ -301,7 +301,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-5,-155);
+pos = (-15,-155);
 ref = acutecomb;
 }
 );
@@ -314,7 +314,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (9,-129);
+pos = (-6,-129);
 ref = acutecomb;
 }
 );

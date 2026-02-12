@@ -236,7 +236,7 @@ pos = (291,0);
 ref = i;
 }
 );
-width = 459;
+width = 461;
 },
 {
 background = {
@@ -383,13 +383,13 @@ pos = (467,0);
 ref = i;
 }
 );
-width = 754;
+width = 748;
 },
 {
 background = {
 shapes = (
 {
-pos = (12,0);
+pos = (32,0);
 ref = f;
 }
 );
@@ -450,7 +450,7 @@ pos = (257,0);
 ref = i;
 }
 );
-width = 415;
+width = 419;
 },
 {
 background = {

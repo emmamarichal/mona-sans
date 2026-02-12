@@ -1326,7 +1326,7 @@ nodes = (
 );
 }
 );
-width = 829;
+width = 869;
 },
 {
 layerId = "BBBD8BC5-1445-4217-985E-4C596438DA38";
@@ -1419,7 +1419,7 @@ nodes = (
 );
 }
 );
-width = 818;
+width = 838;
 },
 {
 layerId = "E97B55C1-E583-4247-91FF-22E95A4A75BA";
@@ -1626,7 +1626,7 @@ type = Stem;
 }
 );
 };
-width = 829;
+width = 869;
 },
 {
 layerId = "0B275536-62AC-4C56-AB54-CAFC17136928";
@@ -1816,7 +1816,7 @@ nodes = (
 );
 }
 );
-width = 849;
+width = 869;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";
@@ -1909,7 +1909,7 @@ nodes = (
 );
 }
 );
-width = 818;
+width = 838;
 },
 {
 layerId = "A312EA11-A86D-4039-A6A0-3473E7FCFCBA";
