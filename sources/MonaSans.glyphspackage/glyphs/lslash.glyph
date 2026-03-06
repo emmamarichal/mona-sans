@@ -28,7 +28,7 @@ pos = (18,0);
 ref = l;
 },
 {
-pos = (-28,73);
+pos = (-20,73);
 ref = slashshortcomb;
 }
 );
@@ -58,7 +58,7 @@ pos = (18,0);
 ref = l;
 },
 {
-pos = (-23,63);
+pos = (-17,63);
 ref = slashshortcomb;
 }
 );
@@ -73,7 +73,7 @@ pos = (18,0);
 ref = l;
 },
 {
-pos = (-10,23);
+pos = (-7,23);
 ref = slashshortcomb;
 }
 );
@@ -88,7 +88,7 @@ pos = (16,0);
 ref = l;
 },
 {
-pos = (-1,63);
+pos = (-2,63);
 ref = slashshortcomb;
 }
 );
@@ -118,7 +118,7 @@ pos = (20,0);
 ref = l;
 },
 {
-pos = (-12,73);
+pos = (-4,73);
 ref = slashshortcomb;
 }
 );
@@ -178,7 +178,7 @@ pos = (18,0);
 ref = l;
 },
 {
-pos = (-10,63);
+pos = (-4,63);
 ref = slashshortcomb;
 }
 );
@@ -193,7 +193,7 @@ pos = (7,0);
 ref = l;
 },
 {
-pos = (-24,11);
+pos = (-44,11);
 ref = slashshortcomb;
 }
 );
@@ -208,7 +208,7 @@ pos = (18,0);
 ref = l;
 },
 {
-pos = (-28,73);
+pos = (-38,73);
 ref = slashshortcomb;
 }
 );
@@ -223,7 +223,7 @@ pos = (18,0);
 ref = l;
 },
 {
-pos = (-18,23);
+pos = (-38,23);
 ref = slashshortcomb;
 }
 );
@@ -238,7 +238,7 @@ pos = (16,0);
 ref = l;
 },
 {
-pos = (-17,63);
+pos = (-38,63);
 ref = slashshortcomb;
 }
 );
@@ -253,7 +253,7 @@ pos = (25,0);
 ref = l;
 },
 {
-pos = (-23,23);
+pos = (-33,23);
 ref = slashshortcomb;
 }
 );
@@ -268,7 +268,7 @@ pos = (18,0);
 ref = l;
 },
 {
-pos = (-26,63);
+pos = (-36,63);
 ref = slashshortcomb;
 }
 );
@@ -283,7 +283,7 @@ pos = (6,0);
 ref = l;
 },
 {
-pos = (-19,11);
+pos = (-42,11);
 ref = slashshortcomb;
 }
 );
@@ -298,7 +298,7 @@ pos = (20,0);
 ref = l;
 },
 {
-pos = (-12,73);
+pos = (-23,73);
 ref = slashshortcomb;
 }
 );
@@ -313,7 +313,7 @@ pos = (20,0);
 ref = l;
 },
 {
-pos = (-4,23);
+pos = (-28,23);
 ref = slashshortcomb;
 }
 );
@@ -328,7 +328,7 @@ pos = (16,0);
 ref = l;
 },
 {
-pos = (0,63);
+pos = (-29,63);
 ref = slashshortcomb;
 }
 );
@@ -343,7 +343,7 @@ pos = (29,0);
 ref = l;
 },
 {
-pos = (-14,23);
+pos = (-24,23);
 ref = slashshortcomb;
 }
 );
@@ -358,7 +358,7 @@ pos = (18,0);
 ref = l;
 },
 {
-pos = (-11,63);
+pos = (-26,63);
 ref = slashshortcomb;
 }
 );

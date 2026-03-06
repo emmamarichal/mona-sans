@@ -27,7 +27,7 @@ pos = (15,0);
 ref = L;
 },
 {
-pos = (-27,-38);
+pos = (-19,-38);
 ref = slashshortcomb.case;
 }
 );
@@ -57,7 +57,7 @@ pos = (18,0);
 ref = L;
 },
 {
-pos = (-33,70);
+pos = (-27,70);
 ref = slashshortcomb.case;
 }
 );
@@ -72,7 +72,7 @@ pos = (33,0);
 ref = L;
 },
 {
-pos = (4,25);
+pos = (7,25);
 ref = slashshortcomb.case;
 }
 );
@@ -87,7 +87,7 @@ pos = (28,0);
 ref = L;
 },
 {
-pos = (-7,60);
+pos = (-8,60);
 ref = slashshortcomb.case;
 }
 );
@@ -117,7 +117,7 @@ pos = (19,0);
 ref = L;
 },
 {
-pos = (-33,-30);
+pos = (-25,-30);
 ref = slashshortcomb.case;
 }
 );
@@ -177,7 +177,7 @@ pos = (19,0);
 ref = L;
 },
 {
-pos = (-18,70);
+pos = (-12,70);
 ref = slashshortcomb.case;
 }
 );
@@ -192,7 +192,7 @@ pos = (8,0);
 ref = L;
 },
 {
-pos = (-16,23);
+pos = (-36,23);
 ref = slashshortcomb.case;
 }
 );
@@ -207,7 +207,7 @@ pos = (15,0);
 ref = L;
 },
 {
-pos = (-28,-38);
+pos = (-38,-38);
 ref = slashshortcomb.case;
 }
 );
@@ -222,7 +222,7 @@ pos = (33,0);
 ref = L;
 },
 {
-pos = (-12,25);
+pos = (-32,25);
 ref = slashshortcomb.case;
 }
 );
@@ -237,7 +237,7 @@ pos = (28,0);
 ref = L;
 },
 {
-pos = (-26,60);
+pos = (-47,60);
 ref = slashshortcomb.case;
 }
 );
@@ -252,7 +252,7 @@ pos = (53,0);
 ref = L;
 },
 {
-pos = (-21,71);
+pos = (-31,71);
 ref = slashshortcomb.case;
 }
 );
@@ -267,7 +267,7 @@ pos = (18,0);
 ref = L;
 },
 {
-pos = (-38,70);
+pos = (-48,70);
 ref = slashshortcomb.case;
 }
 );
@@ -282,7 +282,7 @@ pos = (6,0);
 ref = L;
 },
 {
-pos = (0,71);
+pos = (-23,71);
 ref = slashshortcomb.case;
 }
 );
@@ -297,7 +297,7 @@ pos = (19,0);
 ref = L;
 },
 {
-pos = (-33,-30);
+pos = (-44,-30);
 ref = slashshortcomb.case;
 }
 );
@@ -312,7 +312,7 @@ pos = (39,0);
 ref = L;
 },
 {
-pos = (6,71);
+pos = (-18,71);
 ref = slashshortcomb.case;
 }
 );
@@ -327,7 +327,7 @@ pos = (29,0);
 ref = L;
 },
 {
-pos = (-4,65);
+pos = (-33,65);
 ref = slashshortcomb.case;
 }
 );
@@ -342,7 +342,7 @@ pos = (54,0);
 ref = L;
 },
 {
-pos = (3,71);
+pos = (-7,71);
 ref = slashshortcomb.case;
 }
 );
@@ -357,7 +357,7 @@ pos = (19,0);
 ref = L;
 },
 {
-pos = (-6,70);
+pos = (-21,70);
 ref = slashshortcomb.case;
 }
 );

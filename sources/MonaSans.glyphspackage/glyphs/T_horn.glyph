@@ -134,7 +134,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (150,0);
+pos = (158,0);
 ref = _Thorn.bowl;
 }
 );
@@ -270,7 +270,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (164,0);
+pos = (170,0);
 ref = _Thorn.bowl;
 }
 );
@@ -338,7 +338,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (88,0);
+pos = (85,0);
 ref = _Thorn.bowl;
 }
 );
@@ -406,7 +406,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (183,0);
+pos = (178,0);
 ref = _Thorn.bowl;
 }
 );
@@ -542,7 +542,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (86,0);
+pos = (94,0);
 ref = _Thorn.bowl;
 }
 );
@@ -814,7 +814,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (176,0);
+pos = (182,0);
 ref = _Thorn.bowl;
 }
 );
@@ -882,7 +882,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (40,0);
+pos = (20,0);
 ref = _Thorn.bowl;
 }
 );
@@ -950,7 +950,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (149,0);
+pos = (139,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1018,7 +1018,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (70,0);
+pos = (50,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1086,7 +1086,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (168,0);
+pos = (147,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1154,7 +1154,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (59,0);
+pos = (49,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1222,7 +1222,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (159,0);
+pos = (149,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1290,7 +1290,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (25,0);
+pos = (2,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1358,7 +1358,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (86,0);
+pos = (75,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1426,7 +1426,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (56,0);
+pos = (32,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1494,7 +1494,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (161,0);
+pos = (132,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1562,7 +1562,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (36,0);
+pos = (26,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1630,7 +1630,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (176,0);
+pos = (161,0);
 ref = _Thorn.bowl;
 }
 );

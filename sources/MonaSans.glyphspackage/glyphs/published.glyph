@@ -81,7 +81,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (193,0);
+pos = (201,0);
 ref = _published.P;
 }
 );
@@ -333,7 +333,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (212,0);
+pos = (218,0);
 ref = _published.P;
 }
 );
@@ -417,7 +417,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (293,0);
+pos = (290,0);
 ref = _published.P;
 }
 );
@@ -603,7 +603,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (224,0);
+pos = (219,0);
 ref = _published.P;
 }
 );
@@ -775,7 +775,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (157,0);
+pos = (165,0);
 ref = _published.P;
 }
 );
@@ -1111,7 +1111,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (181,0);
+pos = (187,0);
 ref = _published.P;
 }
 );
@@ -1805,7 +1805,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (215,0);
+pos = (192,0);
 ref = _published.P;
 }
 );
@@ -1889,7 +1889,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (157,0);
+pos = (146,0);
 ref = _published.P;
 }
 );
@@ -1973,7 +1973,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (262,0);
+pos = (238,0);
 ref = _published.P;
 }
 );
@@ -2057,7 +2057,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (192,0);
+pos = (163,0);
 ref = _published.P;
 }
 );
@@ -2141,7 +2141,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (234,0);
+pos = (224,0);
 ref = _published.P;
 }
 );
@@ -2225,7 +2225,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (181,0);
+pos = (166,0);
 ref = _published.P;
 }
 );

@@ -1,5 +1,5 @@
 {
-.appVersion = "3507";
+.appVersion = "3516";
 .formatVersion = 3;
 axes = (
 {
@@ -48,10 +48,6 @@ value = 1;
 {
 name = "Use Extension Kerning";
 value = 1;
-},
-{
-name = "Write DisplayStrings";
-value = 0;
 },
 {
 name = "Variable Font Origin";
@@ -103,6 +99,7 @@ feature ss07;
 feature ss08;
 feature ss09;
 feature ss10;
+feature rvrn;
 ";
 tag = aalt;
 },
@@ -612,18 +609,9 @@ value = "J with bowl";
 tag = ss10;
 },
 {
-code = "#ifdef VARIABLE
-condition opsz < 38;
-sub a by a.ss05;
-sub Q by Q.ss09;
-sub J by J.ss10;
-#endif
-";
-tag = rlig;
-},
-{
 code = "pos @All <14 0 14 0 (opsz:20) 9 0 9 0 (opsz:34) 4 0 4 0 (opsz:42) 17 0 17 0 (opsz:64) -2 0 -2 0 (opsz:100) 0 0 0 0>;
 ";
+disabled = 1;
 tag = kern;
 }
 );
@@ -649,7 +637,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -741,7 +729,7 @@ pos = -167;
 {
 }
 );
-name = "Condensed ExtraLight";
+name = "8pt Condensed ExtraLight";
 stemValues = (
 30,
 27,
@@ -875,7 +863,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -967,7 +955,7 @@ pos = -167;
 {
 }
 );
-name = "Condensed Black";
+name = "8pt Condensed Black";
 stemValues = (
 156,
 137,
@@ -1098,7 +1086,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -1199,7 +1187,7 @@ pos = -182;
 {
 }
 );
-name = ExtraLight;
+name = "8pt ExtraLight";
 stemValues = (
 36,
 35,
@@ -1330,7 +1318,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -1423,7 +1411,7 @@ pos = -182;
 {
 }
 );
-name = Black;
+name = "8pt Black";
 stemValues = (
 172,
 153,
@@ -1551,7 +1539,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -1643,7 +1631,7 @@ pos = -167;
 {
 }
 );
-name = "Expanded ExtraLight";
+name = "8pt Expanded ExtraLight";
 stemValues = (
 36,
 35,
@@ -1774,7 +1762,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -1874,7 +1862,7 @@ pos = -167;
 {
 }
 );
-name = "Expanded Black";
+name = "8pt Expanded Black";
 stemValues = (
 178,
 166,
@@ -2000,7 +1988,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -2110,7 +2098,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Condensed ExtraLight Italic";
+name = "8pt Condensed ExtraLight Italic";
 stemValues = (
 30,
 27,
@@ -2240,7 +2228,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -2333,7 +2321,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Condensed Black Italic";
+name = "8pt Condensed Black Italic";
 stemValues = (
 156,
 137,
@@ -2465,7 +2453,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -2563,7 +2551,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "ExtraLight Italic";
+name = "8pt ExtraLight Italic";
 stemValues = (
 36,
 35,
@@ -2693,7 +2681,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -2795,7 +2783,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Black Italic";
+name = "8pt Black Italic";
 stemValues = (
 172,
 153,
@@ -2920,7 +2908,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -3013,7 +3001,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Expanded ExtraLight Italic";
+name = "8pt Expanded ExtraLight Italic";
 stemValues = (
 38,
 35,
@@ -3143,7 +3131,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 8;
 },
 {
 Axis = Italic;
@@ -3241,7 +3229,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Expanded Black Italic";
+name = "8pt Expanded Black Italic";
 stemValues = (
 178,
 166,
@@ -3459,7 +3447,7 @@ pos = -167;
 {
 }
 );
-name = "Display Condensed ExtraLight";
+name = "100pt Condensed ExtraLight";
 stemValues = (
 30,
 27,
@@ -3685,7 +3673,7 @@ pos = -167;
 {
 }
 );
-name = "Display Condensed Black";
+name = "100pt Condensed Black";
 stemValues = (
 156,
 137,
@@ -3915,7 +3903,7 @@ pos = -167;
 {
 }
 );
-name = "Display ExtraLight";
+name = "100pt ExtraLight";
 stemValues = (
 36,
 35,
@@ -4138,7 +4126,7 @@ pos = -167;
 {
 }
 );
-name = "Display Black";
+name = "100pt Black";
 stemValues = (
 172,
 153,
@@ -4358,7 +4346,7 @@ pos = -167;
 {
 }
 );
-name = "Display Expanded ExtraLight";
+name = "100pt Expanded ExtraLight";
 stemValues = (
 36,
 35,
@@ -4589,7 +4577,7 @@ pos = -167;
 {
 }
 );
-name = "Display Expanded Black";
+name = "100pt Expanded Black";
 stemValues = (
 178,
 166,
@@ -4825,7 +4813,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Display Condensed ExtraLight Italic";
+name = "100pt Condensed ExtraLight Italic";
 stemValues = (
 30,
 27,
@@ -5048,7 +5036,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Display Condensed Black Italic";
+name = "100pt Condensed Black Italic";
 stemValues = (
 156,
 137,
@@ -5180,7 +5168,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 100;
 },
 {
 Axis = Italic;
@@ -5278,7 +5266,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Display ExtraLight Italic";
+name = "100pt ExtraLight Italic";
 stemValues = (
 36,
 35,
@@ -5408,7 +5396,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 100;
 },
 {
 Axis = Italic;
@@ -5510,7 +5498,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Display Black Italic";
+name = "100pt Black Italic";
 stemValues = (
 172,
 153,
@@ -5637,7 +5625,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 100;
 },
 {
 Axis = Italic;
@@ -5730,7 +5718,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Display Expanded ExtraLight Italic";
+name = "100pt Expanded ExtraLight Italic";
 stemValues = (
 38,
 35,
@@ -5860,7 +5848,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 0;
+Location = 100;
 },
 {
 Axis = Italic;
@@ -5958,7 +5946,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "Display Expanded Black Italic";
+name = "100pt Expanded Black Italic";
 stemValues = (
 178,
 166,
@@ -6223,6 +6211,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6274,6 +6263,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6327,6 +6317,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6379,6 +6370,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6432,6 +6424,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6485,6 +6478,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6539,6 +6533,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6592,6 +6587,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6643,6 +6639,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6695,6 +6692,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6749,6 +6747,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6802,6 +6801,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6856,6 +6856,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6910,6 +6911,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -6953,7 +6955,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-name = "Bold Italic";
+name = Bold;
 weightClass = 700;
 },
 {
@@ -6965,6 +6967,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -7007,7 +7010,7 @@ instanceInterpolations = {
 "CD1FE38A-850D-424C-9763-FD0BB7EF0F65" = 0.06753;
 };
 isItalic = 1;
-name = "ExtraBold Italic";
+name = ExtraBold;
 weightClass = 800;
 },
 {
@@ -7019,6 +7022,7 @@ axesValues = (
 );
 customParameters = (
 {
+disabled = 1;
 name = "Instance Preview";
 value = (
 M,
@@ -7059,7 +7063,7 @@ instanceInterpolations = {
 "63AAE8D6-1DFF-4DD4-BD9A-49272FE52904" = 0.60606;
 };
 isItalic = 1;
-name = "Black Italic";
+name = Black;
 weightClass = 900;
 },
 {
@@ -376564,7 +376568,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
