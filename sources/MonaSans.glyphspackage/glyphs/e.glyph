@@ -1,6 +1,5 @@
 {
 color = 0;
-export = 0;
 glyphname = e;
 kernLeft = KO_e;
 kernRight = KO_e;

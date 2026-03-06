@@ -1,6 +1,5 @@
 {
 color = 0;
-export = 0;
 glyphname = M;
 kernLeft = KO_H;
 kernRight = KO_H;
@@ -2378,7 +2377,7 @@ nodes = (
 );
 }
 );
-width = 535;
+width = 534;
 },
 {
 anchors = (

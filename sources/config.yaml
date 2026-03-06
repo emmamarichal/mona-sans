@@ -31,8 +31,6 @@ stat:
   - name: Weight
     tag: wght
     values:
-    - name: Thin
-      value: 100
     - name: ExtraLight
       value: 200
     - name: Light
@@ -69,8 +67,6 @@ stat:
     - name: Roman
       value: 0
       flags: 2
-    - name: Italic
-      value: 1
   MonaSans-Italic[opsz,wdth,wght].ttf:
   - name: Width
     tag: wdth
@@ -89,8 +85,6 @@ stat:
   - name: Weight
     tag: wght
     values:
-    - name: Thin
-      value: 100
     - name: ExtraLight
       value: 200
     - name: Light
@@ -122,3 +116,4 @@ stat:
     values:
     - name: Italic
       value: 1
+      flags: 2
