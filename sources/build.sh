@@ -27,14 +27,36 @@ else
   echo "Warning: sources/config-mono.yaml not found. Skipping Mono build."
 fi
 
+# Inject conditional substitution rules (opsz < 38) into variable fonts
+echo "Injecting variable font substitution rules..."
+for ttf in googlefonts/variable/MonaSans[opsz,wdth,wght].ttf googlefonts/variable/MonaSans-Italic[opsz,wdth,wght].ttf; do
+  if [ -f "$ttf" ]; then
+    python3 sources/add_vf_rules.py "$ttf"
+  else
+    echo "Warning: $ttf not found, skipping rule injection."
+  fi
+done
+
+# Inject opsz-conditional tracking rules (GPOS FeatureVariations)
+# Replicates: pos @All <14 0 14 0 (opsz:20) 9 0 9 0 (opsz:34) ... 0 0 0 0>
+# The feature must be DISABLED in Glyphs (uncheck "active") to avoid the compile error.
+echo "Injecting opsz tracking rules (GPOS)..."
+for ttf in googlefonts/variable/MonaSans[opsz,wdth,wght].ttf googlefonts/variable/MonaSans-Italic[opsz,wdth,wght].ttf; do
+  if [ -f "$ttf" ]; then
+    python3 sources/add_opsz_tracking.py "$ttf"
+  else
+    echo "Warning: $ttf not found, skipping tracking injection."
+  fi
+done
+
 # Clean up build artifacts
 rm -rf sources/instance_ufos
 rm -f sources/.ninja_log
 rm -f sources/build.ninja
 
 # Remove buggy .woff2 that gftools builder creates
-rm -f googlefonts/MonaSans[wdth,wght,opsz].woff2
-rm -f googlefonts/MonaSans-Italic[wdth,wght,opsz].woff2
+rm -f googlefonts/variable/MonaSans[opsz,wdth,wght].woff2
+rm -f googlefonts/variable/MonaSans-Italic[opsz,wdth,wght].woff2
 rm -f googlefonts/MonaSansMono[wdth,wght,opsz].woff2
 rm -f googlefonts/MonaSansMono-Italic[wdth,wght,opsz].woff2
 

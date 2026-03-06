@@ -11,8 +11,9 @@ axisOrder:
   - wdth
   - wght
   - opsz
+  - ital
 stat:
-  MonaSans[wdth,wght,opsz].ttf:
+  MonaSans[opsz,wdth,wght].ttf:
   - name: Width
     tag: wdth
     values:
@@ -53,6 +54,10 @@ stat:
   - name: Optical Size
     tag: opsz
     values:
+    - name: 8pt
+      value: 8
+    - name: 14pt
+      value: 14
     - name: 20pt
       value: 20
       flags: 2
@@ -66,7 +71,7 @@ stat:
       flags: 2
     - name: Italic
       value: 1
-  MonaSans-Italic[wdth,wght,opsz].ttf:
+  MonaSans-Italic[opsz,wdth,wght].ttf:
   - name: Width
     tag: wdth
     values:
