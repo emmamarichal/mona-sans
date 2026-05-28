@@ -28,7 +28,11 @@ pos = (-5,-137);
 ref = dotaccentcomb.ss01;
 }
 );
+<<<<<<< HEAD
 width = 255;
+=======
+width = 247;
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 anchors = (
@@ -79,7 +83,11 @@ width = 169;
 anchors = (
 {
 name = "#entry";
+<<<<<<< HEAD
 pos = (6,0);
+=======
+pos = (15,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 name = "#exit";
@@ -373,7 +381,11 @@ pos = (-17,-134);
 ref = dotaccentcomb.ss01;
 }
 );
+<<<<<<< HEAD
 width = 329;
+=======
+width = 318;
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 anchors = (
@@ -537,7 +549,11 @@ width = 251;
 anchors = (
 {
 name = "#entry";
+<<<<<<< HEAD
 pos = (2,0);
+=======
+pos = (10,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 name = "#exit";
@@ -611,6 +627,7 @@ width = 296;
 anchors = (
 {
 name = "#entry";
+pos = (-23,0);
 },
 {
 name = "#exit";
@@ -633,7 +650,11 @@ width = 105;
 anchors = (
 {
 name = "#entry";
+<<<<<<< HEAD
 pos = (6,0);
+=======
+pos = (-17,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 name = "#exit";
@@ -656,7 +677,11 @@ width = 207;
 anchors = (
 {
 name = "#entry";
+<<<<<<< HEAD
 pos = (9,0);
+=======
+pos = (-25,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 name = "#exit";
@@ -679,7 +704,11 @@ width = 162;
 anchors = (
 {
 name = "#entry";
+<<<<<<< HEAD
 pos = (6,0);
+=======
+pos = (-14,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 name = "#exit";
@@ -702,7 +731,11 @@ width = 244;
 anchors = (
 {
 name = "#entry";
+<<<<<<< HEAD
 pos = (15,0);
+=======
+pos = (-1,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 name = "#exit";
@@ -725,7 +758,11 @@ width = 148;
 anchors = (
 {
 name = "#entry";
+<<<<<<< HEAD
 pos = (9,0);
+=======
+pos = (-23,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 name = "#exit";

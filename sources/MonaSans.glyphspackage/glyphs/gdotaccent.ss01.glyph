@@ -50,7 +50,11 @@ shapes = (
 ref = g;
 },
 {
+<<<<<<< HEAD
 pos = (208,-129);
+=======
+pos = (202,-129);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = dotaccentcomb.ss01;
 }
 );
@@ -154,7 +158,11 @@ shapes = (
 ref = g;
 },
 {
+<<<<<<< HEAD
 pos = (184,-134);
+=======
+pos = (178,-134);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = dotaccentcomb.ss01;
 }
 );

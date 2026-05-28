@@ -2,82 +2,161 @@
 glyphname = bullet.ss01;
 layers = (
 {
-background = {
+hints = (
+{
+horizontal = 1;
+place = (185,190);
+type = Stem;
+},
+{
+place = (330,186);
+type = Stem;
+}
+);
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(374,171,o),
-(417,216,o),
-(417,277,cs),
-(417,339,o),
-(374,384,o),
-(309,384,cs),
-(246,384,o),
-(200,339,o),
-(200,277,cs),
-(200,216,o),
-(246,171,o),
-(309,171,cs)
+(330,185,l),
+(516,185,l),
+(516,375,l),
+(330,375,l)
 );
 }
 );
-};
-layerId = m019;
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (177,205);
+type = Stem;
+},
+{
+place = (211,196);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 closed = 1;
 nodes = (
+(211,177,l),
 (407,177,l),
 (407,382,l),
-(211,382,l),
-(211,177,l)
+(211,382,l)
 );
 }
 );
 width = 618;
 },
 {
-background = {
+hints = (
+{
+horizontal = 1;
+place = (153,251);
+type = Stem;
+},
+{
+place = (297,253);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
 closed = 1;
 nodes = (
-(389,142,o),
-(443,200,o),
-(443,277,cs),
-(443,354,o),
-(389,412,o),
-(307,412,cs),
-(229,412,o),
-(171,354,o),
-(171,277,cs),
-(171,200,o),
-(229,142,o),
-(307,142,cs)
+(297,153,l),
+(550,153,l),
+(550,404,l),
+(297,404,l)
 );
 }
 );
-};
-layerId = m020;
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (213,130);
+type = Stem;
+},
+{
+place = (154,85);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
 shapes = (
 {
 closed = 1;
 nodes = (
+(164,238,l),
+(229,238,l),
+(229,318,l),
+(164,318,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (154,248);
+type = Stem;
+},
+{
+place = (72,248);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(96,178,l),
+(296,178,l),
+(296,378,l),
+(96,378,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (153,252);
+type = Stem;
+},
+{
+place = (183,251);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(183,153,l),
 (434,153,l),
 (434,405,l),
-(183,405,l),
-(183,153,l)
+(183,405,l)
 );
 }
 );
 width = 618;
 }
 );
-userData = {
-KernOnSpecialSpacing = {
-L = NoKerning;
-R = NoKerning;
-};
-};
+note = bullet.ss01;
 }

@@ -22,12 +22,20 @@ tag = ital;
 classes = (
 {
 automatic = 1;
+<<<<<<< HEAD
 code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash Macute N Nacute Ncaron Ncommaaccent Ngrave Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 IJ.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Q.ss09 IJ.ss10 J.ss10 Jacute.ss10 Jcircumflex.ss10 Gdotaccent.ss01.ss07";
+=======
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M Macute N Nacute Ncaron Ncommaaccent Ngrave Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udieresisacute.ss01 Udieresiscaron.ss01 Udieresisgrave.ss01 Udieresismacron.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 IJ.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Q.ss09 IJ.ss10 J.ss10 Jacute.ss10 Jcircumflex.ss10 Gdotaccent.ss01.ss07";
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 name = Uppercase;
 },
 {
 automatic = 1;
+<<<<<<< HEAD
 code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash Macute N Nacute Ncaron Ncommaaccent Ngrave Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 IJ.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Q.ss09 IJ.ss10 J.ss10 Jacute.ss10 Jcircumflex.ss10 Gdotaccent.ss01.ss07 a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat eth eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek etilde g gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute ibreve icaron icircumflex idieresis idotaccent idotbelow igrave ihookabove imacron iogonek itilde ij j jdotless jacute jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot lslash m macute n nacute ncaron ncommaaccent ngrave ntilde eng o oacute ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucaron ucircumflex udieresis udieresisacute udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent idotbelow.dotless iogonek.dotless f.longarm abrevedotbelow.ss01 acircumflexdotbelow.ss01 adotbelow.ss01 cdotaccent.ss01 ecircumflexdotbelow.ss01 edieresis.ss01 edotaccent.ss01 edotbelow.ss01 gdotaccent.ss01 i.ss01 idieresis.ss01 idotaccent.ss01 idotbelow.ss01 j.ss01 ldot.ss01 ocircumflexdotbelow.ss01 odieresis.ss01 odotbelow.ss01 ohorndotbelow.ss01 udieresis.ss01 udotbelow.ss01 uhorndotbelow.ss01 wdieresis.ss01 ydieresis.ss01 ydotbelow.ss01 zdotaccent.ss01 l.ss03 lacute.ss03 lcaron.ss03 lcommaaccent.ss03 ldot.ss03 lslash.ss03 l.ss04 lacute.ss04 lcaron.ss04 lcommaaccent.ss04 ldot.ss04 lslash.ss04 a.ss05 aacute.ss05 abreve.ss05 abreveacute.ss05 abrevedotbelow.ss05 abrevegrave.ss05 abrevehookabove.ss05 abrevetilde.ss05 acircumflex.ss05 acircumflexacute.ss05 acircumflexdotbelow.ss05 acircumflexgrave.ss05 acircumflexhookabove.ss05 acircumflextilde.ss05 adieresis.ss05 adotbelow.ss05 agrave.ss05 ahookabove.ss05 amacron.ss05 aogonek.ss05 aring.ss05 atilde.ss05 g.ss06 gbreve.ss06 gcaron.ss06 gcircumflex.ss06 gcommaaccent.ss06 gdotaccent.ss06 idotbelow.dotless.ss01 adieresis.ss05.ss01 adotbelow.ss05.ss01 ldot.ss01.ss03 ldot.ss01.ss04 gdotaccent.ss01.ss06 f_f.liga f_f_i.liga f_y.liga fi fl t_i.liga t_t.liga fi.ss01 f_f_i.liga.ss01 t_i.liga.ss01 ordfeminine ordmasculine mu pi zero one two three four five six seven eight nine zero.blackCircled one.blackCircled two.blackCircled three.blackCircled four.blackCircled five.blackCircled six.blackCircled seven.blackCircled eight.blackCircled nine.blackCircled zero.circled one.circled two.circled three.circled four.circled five.circled six.circled seven.circled eight.circled nine.circled zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.tf.ss08 zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash exclamdown.case questiondown.case periodcentered.loclCAT period.ss01 comma.ss01 colon.ss01 semicolon.ss01 ellipsis.ss01 exclam.ss01 exclamdown.ss01 question.ss01 questiondown.ss01 periodcentered.ss01 bullet.ss01 periodcentered.loclCAT.case exclamdown.ss01.case questiondown.ss01.case periodcentered.loclCAT.ss01 periodcentered.loclCAT.case.ss01 hyphen endash emdash underscore hyphen.case endash.case emdash.case parenleft parenright braceleft braceright bracketleft bracketright parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle quotesinglbase.ss01 quotedblbase.ss01 quotedblleft.ss01 quotedblright.ss01 quoteleft.ss01 quoteright.ss01 florin baht whiteFrowningFace whiteSmilingFace checkmark apple at ampersand paragraph section copyright registered published trademark degree bar brokenbar literSign estimated numero bitcoin cent currency dollar euro liraTurkish rupeeIndian sheqel sterling tenge won yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal logicalnot asciitilde asciicircum infinity emptyset integral product summation radical percent perthousand upArrow rightArrow downArrow leftArrow leftRightArrow blackCircle whiteCircle dottedCircle dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb commaturnedabovecomb horncomb dotbelowcomb commaaccentcomb cedillacomb ogonekcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb strokeshortcomb.case slashshortcomb.case slashlongcomb.case dieresiscomb.ss01 dotaccentcomb.ss01 dotbelowcomb.ss01 dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek";
+=======
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M Macute N Nacute Ncaron Ncommaaccent Ngrave Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udieresisacute.ss01 Udieresiscaron.ss01 Udieresisgrave.ss01 Udieresismacron.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 IJ.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Q.ss09 IJ.ss10 J.ss10 Jacute.ss10 Jcircumflex.ss10 Gdotaccent.ss01.ss07 a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat eth e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek etilde f g gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute ibreve icaron icircumflex idieresis idotaccent idotbelow igrave ihookabove imacron iogonek itilde ij j jdotless jacute jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot lslash m macute n nacute ncaron ncommaaccent ngrave ntilde eng o oacute ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucaron ucircumflex udieresis udieresisacute udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent idotbelow.dotless iogonek.dotless f.longarm abrevedotbelow.ss01 acircumflexdotbelow.ss01 adotbelow.ss01 cdotaccent.ss01 ecircumflexdotbelow.ss01 edieresis.ss01 edotaccent.ss01 edotbelow.ss01 gdotaccent.ss01 i.ss01 idieresis.ss01 idotaccent.ss01 idotbelow.ss01 j.ss01 ldot.ss01 ocircumflexdotbelow.ss01 odieresis.ss01 odotbelow.ss01 ohorndotbelow.ss01 udieresis.ss01 udieresisacute.ss01 udieresiscaron.ss01 udieresisgrave.ss01 udieresismacron.ss01 udotbelow.ss01 uhorndotbelow.ss01 wdieresis.ss01 ydieresis.ss01 ydotbelow.ss01 zdotaccent.ss01 l.ss03 lacute.ss03 lcaron.ss03 lcommaaccent.ss03 ldot.ss03 lslash.ss03 l.ss04 lacute.ss04 lcaron.ss04 lcommaaccent.ss04 ldot.ss04 lslash.ss04 a.ss05 aacute.ss05 abreve.ss05 abreveacute.ss05 abrevedotbelow.ss05 abrevegrave.ss05 abrevehookabove.ss05 abrevetilde.ss05 acaron.ss05 acircumflex.ss05 acircumflexacute.ss05 acircumflexdotbelow.ss05 acircumflexgrave.ss05 acircumflexhookabove.ss05 acircumflextilde.ss05 adieresis.ss05 adotbelow.ss05 agrave.ss05 ahookabove.ss05 amacron.ss05 aogonek.ss05 aring.ss05 atilde.ss05 g.ss06 gbreve.ss06 gcaron.ss06 gcircumflex.ss06 gcommaaccent.ss06 gdotaccent.ss06 idotbelow.dotless.ss01 ldot.ss01.ss03 ldot.ss01.ss04 abrevedotbelow.ss01.ss05 acircumflexdotbelow.ss01.ss05 adieresis.ss01.ss05 adotbelow.ss01.ss05 gdotaccent.ss01.ss06 f_f.liga f_f_i.liga f_y.liga fi fl t_i.liga t_t.liga fi.ss01 fl.ss03 f_f_i.liga.ss01 t_i.liga.ss01 ordfeminine ordmasculine mu pi zero one two three four five six seven eight nine zero.blackCircled one.blackCircled two.blackCircled three.blackCircled four.blackCircled five.blackCircled six.blackCircled seven.blackCircled eight.blackCircled nine.blackCircled zero.circled one.circled two.circled three.circled four.circled five.circled six.circled seven.circled eight.circled nine.circled zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.tf.ss08 zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash exclamdown.case questiondown.case periodcentered.loclCAT period.ss01 comma.ss01 colon.ss01 semicolon.ss01 ellipsis.ss01 exclam.ss01 exclamdown.ss01 question.ss01 questiondown.ss01 periodcentered.ss01 bullet.ss01 periodcentered.loclCAT.case exclamdown.ss01.case questiondown.ss01.case periodcentered.loclCAT.ss01 periodcentered.loclCAT.case.ss01 hyphen endash emdash underscore hyphen.case endash.case emdash.case parenleft parenright braceleft braceright bracketleft bracketright parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle quotesinglbase.ss01 quotedblbase.ss01 quotedblleft.ss01 quotedblright.ss01 quoteleft.ss01 quoteright.ss01 florin baht whiteFrowningFace whiteSmilingFace checkmark apple at ampersand paragraph section copyright registered published trademark degree bar brokenbar literSign estimated numero centigrade fahrenheit bitcoin cent currency dollar euro liraTurkish rupeeIndian sheqel sterling tenge won yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal logicalnot asciitilde asciicircum infinity emptyset integral product summation radical percent perthousand upArrow rightArrow downArrow leftArrow leftRightArrow blackCircle whiteCircle dottedCircle dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb commaturnedabovecomb horncomb dotbelowcomb commaaccentcomb cedillacomb ogonekcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb strokeshortcomb.case slashshortcomb.case slashlongcomb.case dieresiscomb.ss01 dotaccentcomb.ss01 dotbelowcomb.ss01 dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek";
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 name = All;
 }
 );
@@ -371,6 +379,10 @@ sub Odieresis by Odieresis.ss01;
 sub Odotbelow by Odotbelow.ss01;
 sub Ohorndotbelow by Ohorndotbelow.ss01;
 sub Udieresis by Udieresis.ss01;
+sub Udieresisacute by Udieresisacute.ss01;
+sub Udieresiscaron by Udieresiscaron.ss01;
+sub Udieresisgrave by Udieresisgrave.ss01;
+sub Udieresismacron by Udieresismacron.ss01;
 sub Udotbelow by Udotbelow.ss01;
 sub Uhorndotbelow by Uhorndotbelow.ss01;
 sub Wdieresis by Wdieresis.ss01;
@@ -379,6 +391,7 @@ sub Ydotbelow by Ydotbelow.ss01;
 sub Zdotaccent by Zdotaccent.ss01;
 sub abrevedotbelow by abrevedotbelow.ss01;
 sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+sub adieresis by adieresis.ss01;
 sub adotbelow by adotbelow.ss01;
 sub cdotaccent by cdotaccent.ss01;
 sub ecircumflexdotbelow by ecircumflexdotbelow.ss01;
@@ -397,6 +410,10 @@ sub odieresis by odieresis.ss01;
 sub odotbelow by odotbelow.ss01;
 sub ohorndotbelow by ohorndotbelow.ss01;
 sub udieresis by udieresis.ss01;
+sub udieresisacute by udieresisacute.ss01;
+sub udieresiscaron by udieresiscaron.ss01;
+sub udieresisgrave by udieresisgrave.ss01;
+sub udieresismacron by udieresismacron.ss01;
 sub udotbelow by udotbelow.ss01;
 sub uhorndotbelow by uhorndotbelow.ss01;
 sub wdieresis by wdieresis.ss01;
@@ -404,8 +421,6 @@ sub ydieresis by ydieresis.ss01;
 sub ydotbelow by ydotbelow.ss01;
 sub zdotaccent by zdotaccent.ss01;
 sub idotbelow.dotless by idotbelow.dotless.ss01;
-sub adieresis.ss05 by adieresis.ss05.ss01;
-sub adotbelow.ss05 by adotbelow.ss05.ss01;
 sub fi by fi.ss01;
 sub f_f_i.liga by f_f_i.liga.ss01;
 sub t_i.liga by t_i.liga.ss01;
@@ -473,6 +488,7 @@ sub lcommaaccent by lcommaaccent.ss03;
 sub ldot by ldot.ss03;
 sub lslash by lslash.ss03;
 sub ldot.ss01 by ldot.ss01.ss03;
+sub fl by fl.ss03;
 ";
 labels = (
 {
@@ -510,6 +526,7 @@ sub abrevedotbelow by abrevedotbelow.ss05;
 sub abrevegrave by abrevegrave.ss05;
 sub abrevehookabove by abrevehookabove.ss05;
 sub abrevetilde by abrevetilde.ss05;
+sub acaron by acaron.ss05;
 sub acircumflex by acircumflex.ss05;
 sub acircumflexacute by acircumflexacute.ss05;
 sub acircumflexdotbelow by acircumflexdotbelow.ss05;
@@ -524,6 +541,10 @@ sub amacron by amacron.ss05;
 sub aogonek by aogonek.ss05;
 sub aring by aring.ss05;
 sub atilde by atilde.ss05;
+sub abrevedotbelow.ss01 by abrevedotbelow.ss01.ss05;
+sub acircumflexdotbelow.ss01 by acircumflexdotbelow.ss01.ss05;
+sub adieresis.ss01 by adieresis.ss01.ss05;
+sub adotbelow.ss01 by adotbelow.ss01.ss05;
 ";
 labels = (
 {
@@ -609,9 +630,23 @@ value = "J with bowl";
 tag = ss10;
 },
 {
+<<<<<<< HEAD
 code = "pos @All <14 0 14 0 (opsz:20) 9 0 9 0 (opsz:34) 4 0 4 0 (opsz:42) 17 0 17 0 (opsz:64) -2 0 -2 0 (opsz:100) 0 0 0 0>;
 ";
 disabled = 1;
+=======
+code = "#ifdef VARIABLE
+condition opsz < 38;
+sub a by a.ss05;
+sub Q by Q.ss09;
+sub J by J.ss10;
+#endif
+";
+tag = rlig;
+},
+{
+code = "pos @All <14 0 14 0 (opsz:20) 9 0 9 0 (opsz:34) 4 0 4 0 (opsz:42) 17 0 17 0 (opsz:64) -2 0 -2 0 (opsz:100) 0 0 0 0>;";
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 tag = kern;
 }
 );
@@ -6096,7 +6131,7 @@ type = variable;
 customParameters = (
 {
 name = fileName;
-value = "MonaSansVF[wdth,wght,opsz]";
+value = "MonaSansVF[wdth,opsz,wght]";
 },
 {
 name = "Variable Font Origin";
@@ -6114,8 +6149,532 @@ value = (
 "ExtraLight Italic",
 "Black Italic",
 "Expanded ExtraLight Italic",
-"Expanded Black Italic"
+"Expanded Black Italic",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic"
 );
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF-Italic[wdth,opsz,wght]";
+},
+{
+name = "Variable Font Origin";
+value = "095FE76F-1953-440B-9108-AA0678D151F9";
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+ExtraLight,
+Black,
+"Expanded ExtraLight",
+"Expanded Black",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display ExtraLight",
+"Display Black",
+"Display Expanded ExtraLight",
+"Display Expanded Black"
+);
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+name = Italic;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF[opsz,wght]";
+},
+{
+name = "Variable Font Origin";
+value = m019;
+},
+{
+name = "Italic Style Linking";
+value = 1;
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+"Expanded ExtraLight",
+"Expanded Black",
+"Condensed ExtraLight Italic",
+"Condensed Black Italic",
+"ExtraLight Italic",
+"Black Italic",
+"Expanded ExtraLight Italic",
+"Expanded Black Italic",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display Expanded ExtraLight",
+"Display Expanded Black",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic"
+);
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF-Italic[opsz,wght]";
+},
+{
+name = "Variable Font Origin";
+value = "095FE76F-1953-440B-9108-AA0678D151F9";
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+ExtraLight,
+Black,
+"Expanded ExtraLight",
+"Expanded Black",
+"Condensed ExtraLight Italic",
+"Condensed Black Italic",
+"Expanded ExtraLight Italic",
+"Expanded Black Italic",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display ExtraLight",
+"Display Black",
+"Display Expanded ExtraLight",
+"Display Expanded Black",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic"
+);
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+name = Italic;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF-Expanded[opsz,wght,ital]";
+},
+{
+name = "Variable Font Origin";
+value = m019;
+},
+{
+name = "Italic Style Linking";
+value = 1;
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+ExtraLight,
+Black,
+"Condensed ExtraLight Italic",
+"Condensed Black Italic",
+"ExtraLight Italic",
+"Black Italic",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display ExtraLight",
+"Display Black",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic"
+);
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF-Condensed[opsz,wght,ital]";
+},
+{
+name = "Variable Font Origin";
+value = m019;
+},
+{
+name = "Italic Style Linking";
+value = 1;
+},
+{
+name = "Disable Masters";
+value = (
+"Expanded ExtraLight",
+"Expanded Black",
+ExtraLight,
+Black,
+"Expanded ExtraLight Italic",
+"Expanded Black Italic",
+"ExtraLight Italic",
+"Black Italic",
+"Display Expanded ExtraLight",
+"Display Expanded Black",
+"Display ExtraLight",
+"Display Black",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic"
+);
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF[wdth,wght]";
+},
+{
+name = "Variable Font Origin";
+value = m019;
+},
+{
+name = "Italic Style Linking";
+value = 1;
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight Italic",
+"Condensed Black Italic",
+"ExtraLight Italic",
+"Black Italic",
+"Expanded ExtraLight Italic",
+"Expanded Black Italic",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display ExtraLight",
+"Display Black",
+"Display Expanded ExtraLight",
+"Display Expanded Black",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic"
+);
+},
+{
+name = "Replace Feature";
+value = "rlig;	#";
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+exports = 0;
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF-Italic[wdth,wght]";
+},
+{
+name = "Variable Font Origin";
+value = "095FE76F-1953-440B-9108-AA0678D151F9";
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+ExtraLight,
+Black,
+"Expanded ExtraLight",
+"Expanded Black",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display ExtraLight",
+"Display Black",
+"Display Expanded ExtraLight",
+"Display Expanded Black",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic"
+);
+},
+{
+name = "Replace Feature";
+value = "rlig;	#";
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+exports = 0;
+name = Italic;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF-Expanded[wght,ital]";
+},
+{
+name = "Variable Font Origin";
+value = m019;
+},
+{
+name = "Italic Style Linking";
+value = 1;
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+ExtraLight,
+Black,
+"Condensed ExtraLight Italic",
+"Condensed Black Italic",
+"ExtraLight Italic",
+"Black Italic",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display ExtraLight",
+"Display Black",
+"Display Expanded ExtraLight",
+"Display Expanded Black",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic"
+);
+},
+{
+name = "Replace Feature";
+value = "rlig;	#";
 },
 {
 name = "Update Features";
@@ -7131,6 +7690,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnXLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7211,6 +7774,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -7295,6 +7862,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnRg";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7376,6 +7947,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnMd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -7460,6 +8035,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7542,6 +8121,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -7627,6 +8210,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7710,6 +8297,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7790,6 +8381,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnXLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -7873,6 +8468,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -7961,6 +8560,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnRg";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8046,6 +8649,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnMd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8134,6 +8741,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8220,6 +8831,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8309,6 +8924,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8396,6 +9015,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8479,6 +9102,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsXLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8558,6 +9185,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8641,6 +9272,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsRg";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8721,6 +9356,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsMd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8804,6 +9443,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8885,6 +9528,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8969,6 +9616,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9051,6 +9702,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9130,6 +9785,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExXLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -9213,6 +9872,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -9301,6 +9964,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExRg";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9386,6 +10053,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExMd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -9474,6 +10145,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9560,6 +10235,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -9649,6 +10328,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9736,6 +10419,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9819,6 +10506,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExXLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9899,6 +10590,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -9983,6 +10678,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExRg";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10064,6 +10763,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExMd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10148,6 +10851,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10230,6 +10937,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10315,6 +11026,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10398,6 +11113,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10479,6 +11198,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnXLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10555,6 +11278,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10634,6 +11361,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnRg";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10717,6 +11448,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnMd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10796,6 +11531,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10874,6 +11613,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10955,6 +11698,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11034,6 +11781,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11110,6 +11861,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnXLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11189,6 +11944,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11272,6 +12031,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnRg";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11359,6 +12122,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnMd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11442,6 +12209,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11524,6 +12295,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11609,6 +12384,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11692,6 +12471,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11771,6 +12554,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-XLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11837,6 +12624,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-Lt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11906,6 +12697,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-Rg";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11979,6 +12774,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-Md";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12048,6 +12847,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12116,6 +12919,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-Bd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -12187,6 +12994,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-XBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12256,6 +13067,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-Blk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12322,6 +13137,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExXLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -12401,6 +13220,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -12484,6 +13307,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExRg";
+},
 {
 name = "Instance Preview";
 value = (
@@ -12571,6 +13398,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExMd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12654,6 +13485,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12736,6 +13571,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -12821,6 +13660,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12904,6 +13747,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12983,6 +13830,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExXLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13059,6 +13910,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13138,6 +13993,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExRg";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13221,6 +14080,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExMd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13300,6 +14163,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13378,6 +14245,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13459,6 +14330,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13538,6 +14413,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13614,6 +14493,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnXLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13693,6 +14576,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13775,6 +14662,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13853,6 +14744,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13935,6 +14830,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14015,6 +14914,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -14097,6 +15000,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14178,6 +15085,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14257,6 +15168,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnXLtIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14335,6 +15250,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -14419,6 +15338,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14501,6 +15424,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -14585,6 +15512,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14667,6 +15598,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -14753,6 +15688,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14836,6 +15775,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14915,6 +15858,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-XLtIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14983,6 +15930,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-LtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15055,6 +16006,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-It";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15123,6 +16078,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-MdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15195,6 +16154,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15265,6 +16228,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-BdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15338,6 +16305,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-XBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15409,6 +16380,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-BlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15477,6 +16452,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExXLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15556,6 +16535,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15640,6 +16623,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15721,6 +16708,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15805,6 +16796,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15887,6 +16882,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15973,6 +16972,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16056,6 +17059,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16135,6 +17142,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExXLtIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16213,6 +17224,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16295,6 +17310,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16373,6 +17392,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16455,6 +17478,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16535,6 +17562,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16617,6 +17648,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16698,6 +17733,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16776,6 +17815,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnXLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16859,6 +17902,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16945,6 +17992,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17027,6 +18078,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17113,6 +18168,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17197,6 +18256,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17284,6 +18347,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17369,6 +18436,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17451,6 +18522,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnXLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17536,6 +18611,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17626,6 +18705,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17712,6 +18795,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17802,6 +18889,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17890,6 +18981,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17981,6 +19076,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18070,6 +19169,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18155,6 +19258,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsXLtIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18236,6 +19343,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -18321,6 +19432,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18402,6 +19517,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -18487,6 +19606,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18570,6 +19693,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -18656,6 +19783,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18740,6 +19871,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18821,6 +19956,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExXLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -18906,6 +20045,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -18996,6 +20139,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -19082,6 +20229,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -19172,6 +20323,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -19260,6 +20415,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -19351,6 +20510,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -19440,6 +20603,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -19525,6 +20692,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExXLtIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -19607,6 +20778,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -19693,6 +20868,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -19775,6 +20954,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -19861,6 +21044,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -19945,6 +21132,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -20032,6 +21223,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -20116,6 +21311,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExBlkIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -376880,5 +378079,5 @@ value = 1.3;
 };
 };
 versionMajor = 2;
-versionMinor = 22;
+versionMinor = 27;
 }

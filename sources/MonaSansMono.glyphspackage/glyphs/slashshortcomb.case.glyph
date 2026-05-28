@@ -2,48 +2,162 @@
 glyphname = slashshortcomb.case;
 layers = (
 {
-anchors = (
+hints = (
 {
-name = _center;
-pos = (467,340);
+horizontal = 1;
+place = (200,196);
+type = Stem;
+},
+{
+place = (243,360);
+type = Stem;
 }
 );
-layerId = m019;
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
+(243,200,l),
+(603,359,l),
+(603,396,l),
+(243,237,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (201,174);
+type = Stem;
+},
+{
+place = (152,315);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(152,201,l),
 (467,340,l),
 (467,375,l),
-(152,236,l),
-(152,201,l)
+(152,236,l)
 );
 }
 );
 width = 618;
 },
 {
-anchors = (
+hints = (
 {
-name = _center;
-pos = (503,305);
+horizontal = 1;
+place = (134,359);
+type = Stem;
+},
+{
+place = (215,417);
+type = Stem;
 }
 );
-layerId = m020;
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
 closed = 1;
 nodes = (
+(215,134,l),
+(632,318,l),
+(632,493,l),
+(215,309,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (211,163);
+type = Stem;
+},
+{
+place = (112,166);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(112,211,l),
+(278,342,l),
+(278,374,l),
+(112,243,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (543,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (64,262);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(64,214,l),
+(326,403,l),
+(326,543,l),
+(64,350,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (134,346);
+type = Stem;
+},
+{
+place = (116,387);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(116,134,l),
 (503,305,l),
 (503,480,l),
-(116,309,l),
-(116,134,l)
+(116,309,l)
 );
 }
 );
 width = 618;
 }
 );
-metricLeft = "=40";
-metricRight = "=40";
+note = slashshortcomb.case;
 }

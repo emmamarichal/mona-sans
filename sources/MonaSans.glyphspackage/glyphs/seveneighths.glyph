@@ -140,11 +140,19 @@ pos = (262,0);
 ref = fraction;
 },
 {
+<<<<<<< HEAD
 pos = (413,0);
 ref = eight.dnom;
 }
 );
 width = 688;
+=======
+pos = (415,0);
+ref = eight.dnom;
+}
+);
+width = 690;
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 layerId = "095FE76F-1953-440B-9108-AA0678D151F9";
@@ -208,11 +216,19 @@ pos = (337,0);
 ref = fraction;
 },
 {
+<<<<<<< HEAD
 pos = (494,0);
 ref = eight.dnom;
 }
 );
 width = 911;
+=======
+pos = (496,0);
+ref = eight.dnom;
+}
+);
+width = 913;
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 layerId = "F809B810-8CF1-453B-A5BE-CA3BE927A72B";

@@ -2,14 +2,55 @@
 glyphname = checkmark;
 layers = (
 {
-layerId = m019;
+hints = (
+{
+horizontal = 1;
+place = (137,450);
+type = Stem;
+},
+{
+place = (77,692);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(770,597,l),
+(745,622,l),
+(254,124,l),
+(277,124,l),
+(55,368,l),
+(31,343,l),
+(266,86,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (137,445);
+type = Stem;
+},
+{
+place = (0,618);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 closed = 1;
 nodes = (
 (618,557,l),
 (593,582,l),
-(170,187,l),
+(158,176,l),
+(180,174,l),
 (24,372,l),
 (0,347,l),
 (169,137,l)
@@ -19,14 +60,113 @@ nodes = (
 width = 618;
 },
 {
-layerId = m020;
+hints = (
+{
+horizontal = 1;
+place = (67,591);
+type = Stem;
+},
+{
+place = (53,741);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(814,543,l),
+(708,668,l),
+(239,221,l),
+(376,214,l),
+(170,453,l),
+(53,346,l),
+(298,57,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (137,450);
+type = Stem;
+},
+{
+place = (-89,670);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(390,582,l),
+(370,596,l),
+(119,170,l),
+(139,183,l),
+(26,323,l),
+(5,308,l),
+(136,147,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (67,591);
+type = Stem;
+},
+{
+place = (-161,725);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(390,498,l),
+(303,564,l),
+(95,245,l),
+(169,262,l),
+(72,380,l),
+(0,311,l),
+(144,128,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (67,555);
+type = Stem;
+},
+{
+place = (0,619);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
 closed = 1;
 nodes = (
 (619,495,l),
 (497,622,l),
-(214,317,l),
+(156,254,l),
+(272,253,l),
 (119,422,l),
 (0,299,l),
 (214,67,l)
@@ -36,12 +176,6 @@ nodes = (
 width = 618;
 }
 );
+note = checkmark;
 unicode = 10003;
-userData = {
-KernOnSpecialSpacing = {
-L = NoKerning;
-R = NoKerning;
-};
-com.schriftgestaltung.Glyphs.lastChange = "2017-05-03 17:15:08 +0000";
-};
 }

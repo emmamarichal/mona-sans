@@ -1,11 +1,8 @@
 {
-color = 6;
 glyphname = Abrevegrave;
-kernLeft = A;
-kernRight = A;
 layers = (
 {
-layerId = m019;
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 ref = A;
@@ -18,7 +15,59 @@ ref = brevecomb_gravecomb;
 width = 618;
 },
 {
-layerId = m020;
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (6,51);
+ref = brevecomb_gravecomb;
+}
+);
+width = 390;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (3,50);
+ref = brevecomb_gravecomb;
+}
+);
+width = 390;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = A;
+},
+{
+pos = (1,51);
+ref = brevecomb_gravecomb;
+}
+);
+width = 846;
+},
+{
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (-11,51);
+ref = brevecomb_gravecomb;
+}
+);
+width = 846;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
 ref = A;
@@ -31,5 +80,6 @@ ref = brevecomb_gravecomb;
 width = 618;
 }
 );
+note = Abrevegrave;
 unicode = 7856;
 }

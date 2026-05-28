@@ -3,63 +3,140 @@ color = 6;
 glyphname = seveneighths;
 layers = (
 {
-layerId = m019;
+layerId = m01;
 shapes = (
 {
 alignment = -1;
-pos = (-81,0);
+pos = (-262,0);
 ref = seven.numr;
 },
 {
 alignment = -1;
-pos = (-23,0);
+pos = (-25,0);
 ref = fraction;
 },
 {
 alignment = -1;
-pos = (264,0);
+pos = (235,0);
 ref = eight.dnom;
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = seven.numr;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = seven.numr;
-};
-width = 618;
+width = 846;
 },
 {
-layerId = m020;
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 alignment = -1;
-pos = (-61,72);
+pos = (-85,0);
 ref = seven.numr;
-scale = (0.9,0.9);
+scale = (0.9,1);
 },
 {
 alignment = -1;
+pos = (5,0);
+ref = fraction;
+scale = (0.9,1);
+},
+{
+alignment = -1;
+pos = (300,0);
+ref = eight.dnom;
+scale = (0.9,1);
+}
+);
+width = 618;
+},
+{
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+alignment = -1;
+pos = (-255,0);
+ref = seven.numr;
+},
+{
+alignment = -1;
+pos = (-25,0);
 ref = fraction;
 },
 {
 alignment = -1;
-pos = (280,0);
+pos = (235,0);
 ref = eight.dnom;
-scale = (0.9,0.9);
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = seven.numr;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = seven.numr;
-};
+width = 846;
+},
+{
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+alignment = -1;
+pos = (-103,0);
+ref = seven.numr;
+},
+{
+alignment = -1;
+pos = (-10,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (114,0);
+ref = eight.dnom;
+}
+);
+width = 390;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+alignment = -1;
+pos = (-62,0);
+ref = seven.numr;
+scale = (0.9,1);
+},
+{
+alignment = -1;
+pos = (15,0);
+ref = fraction;
+scale = (0.9,1);
+},
+{
+alignment = -1;
+pos = (123,0);
+ref = eight.dnom;
+scale = (0.9,1);
+}
+);
+width = 390;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+alignment = -1;
+pos = (-92,0);
+ref = seven.numr;
+scale = (0.9,1);
+},
+{
+alignment = -1;
+pos = (8,0);
+ref = fraction;
+scale = (0.9,1);
+},
+{
+alignment = -1;
+pos = (293,0);
+ref = eight.dnom;
+scale = (0.9,1);
+}
+);
 width = 618;
 }
 );
-metricWidth = H;
 unicode = 8542;
-userData = {
-KernOnSpecialSpacing = {
-L = NoKerning;
-R = NoKerning;
-};
-};
 }

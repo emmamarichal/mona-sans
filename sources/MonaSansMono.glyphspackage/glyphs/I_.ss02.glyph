@@ -1,106 +1,54 @@
 {
 glyphname = I.ss02;
-kernLeft = I.ss02;
-kernRight = I.ss02;
 layers = (
 {
 anchors = (
 {
 name = bottom;
-pos = (309,0);
+pos = (423,0);
 },
 {
 name = ogonek;
-pos = (506,0);
+pos = (442,0);
 },
 {
 name = top;
-pos = (309,729);
+pos = (423,729);
 },
 {
 name = topleft;
-pos = (130,729);
+pos = (20,729);
 }
 );
-layerId = m019;
+hints = (
+{
+horizontal = 1;
+place = (693,36);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,36);
+type = Stem;
+},
+{
+place = (404,38);
+type = Stem;
+}
+);
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(328,27,l),
-(328,703,l),
-(290,703,l),
-(290,27,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(506,693,l),
-(506,729,l),
-(112,729,l),
-(112,693,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(506,0,l),
-(506,36,l),
-(112,36,l),
-(112,0,l)
+(442,0,l),
+(442,729,l),
+(404,729,l),
+(404,0,l)
 );
 }
 );
-userData = {
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-3
-);
-stem = -2;
-target = (
-u,
-p
-);
-type = BottomGhost;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-2
-);
-stem = -2;
-target = (
-d,
-o,
-w,
-n
-);
-type = TopGhost;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-3
-);
-stem = -2;
-target = (
-0,
-0
-);
-type = Stem;
-}
-);
-};
-width = 618;
+width = 846;
 },
 {
 anchors = (
@@ -110,7 +58,7 @@ pos = (309,0);
 },
 {
 name = ogonek;
-pos = (566,0);
+pos = (328,0);
 },
 {
 name = top;
@@ -118,40 +66,235 @@ pos = (309,729);
 },
 {
 name = topleft;
-pos = (63,729);
+pos = (20,729);
 }
 );
-layerId = m020;
+hints = (
+{
+horizontal = 1;
+place = (693,36);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,36);
+type = Stem;
+},
+{
+place = (290,38);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 closed = 1;
 nodes = (
-(408,158,l),
-(408,571,l),
-(204,571,l),
-(204,158,l)
+(328,0,l),
+(328,729,l),
+(290,729,l),
+(290,0,l)
 );
+}
+);
+width = 618;
 },
+{
+anchors = (
+{
+name = bottom;
+pos = (424,0);
+},
+{
+name = ogonek;
+pos = (535,0);
+},
+{
+name = top;
+pos = (424,729);
+},
+{
+name = topleft;
+pos = (20,729);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (548,181);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,181);
+type = Stem;
+},
+{
+place = (307,228);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
 {
 closed = 1;
 nodes = (
-(566,555,l),
-(566,729,l),
-(52,729,l),
-(52,555,l)
+(535,0,l),
+(535,729,l),
+(307,729,l),
+(307,0,l)
 );
+}
+);
+width = 846;
 },
+{
+anchors = (
+{
+name = bottom;
+pos = (195,0);
+},
+{
+name = ogonek;
+pos = (211,0);
+},
+{
+name = top;
+pos = (195,729);
+},
+{
+name = topleft;
+pos = (20,729);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (700,29);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,29);
+type = Stem;
+},
+{
+place = (180,31);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
 {
 closed = 1;
 nodes = (
-(566,0,l),
-(566,174,l),
-(52,174,l),
-(52,0,l)
+(211,0,l),
+(211,729,l),
+(180,729,l),
+(180,0,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (196,0);
+},
+{
+name = ogonek;
+pos = (285,0);
+},
+{
+name = top;
+pos = (196,728);
+},
+{
+name = topleft;
+pos = (20,729);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (570,159);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,159);
+type = Stem;
+},
+{
+place = (101,184);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(285,0,l),
+(285,729,l),
+(101,729,l),
+(101,0,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = ogonek;
+pos = (408,0);
+},
+{
+name = top;
+pos = (309,729);
+},
+{
+name = topleft;
+pos = (20,729);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (555,174);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,174);
+type = Stem;
+},
+{
+place = (204,204);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(408,0,l),
+(408,729,l),
+(204,729,l),
+(204,0,l)
 );
 }
 );
 width = 618;
 }
 );
+note = I.ss02;
 }

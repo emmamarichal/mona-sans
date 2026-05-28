@@ -2,138 +2,278 @@
 glyphname = fourinferior;
 layers = (
 {
-anchors = (
+hints = (
 {
-name = _center;
-pos = (220,174);
+horizontal = 1;
+place = (353,40);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (74,30);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-40,144);
+type = Stem;
+},
+{
+place = (499,37);
+type = Stem;
 }
 );
-layerId = m019;
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
+(499,-40,l),
+(536,-40,l),
+(536,74,l),
+(627,74,l),
+(627,104,l),
+(536,104,l),
+(536,393,l),
+(493,393,l),
+(220,104,l),
+(220,74,l),
+(499,74,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(260,104,l),
+(498,353,l),
+(499,353,l),
+(499,104,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (350,43);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (74,30);
+type = Stem;
+},
+{
+place = (268,34);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(268,-40,l),
 (302,-40,l),
+(302,74,l),
+(385,74,l),
+(385,104,l),
+(302,104,l),
 (302,393,l),
 (262,393,l),
 (55,103,l),
 (55,74,l),
-(385,74,l),
-(385,104,l),
+(268,74,l)
+);
+},
+{
+closed = 1;
+nodes = (
 (92,104,l),
-(278,364,l),
-(268,367,l),
-(268,-40,l)
+(277,363,l),
+(268,366,l),
+(268,104,l)
 );
 }
 );
-userData = {
-RMXScaler = {
-height = 60;
-weight = -25;
-width = 60;
-};
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-10
-);
-stem = -2;
-target = (
-u,
-p
-);
-type = BottomGhost;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-1,
-2
-);
-stem = -2;
-target = (
-0,
-8
-);
-type = Stem;
-},
-{
-horizontal = 1;
-options = 0;
-place = (
-0,
-0
-);
-stem = -2;
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-10
-);
-stem = -2;
-target = (
-0,
-0
-);
-type = Stem;
-}
-);
-};
 width = 618;
 },
 {
-anchors = (
+hints = (
 {
-name = _center;
-pos = (220,174);
+horizontal = 1;
+place = (42,115);
+type = Stem;
+},
+{
+place = (426,149);
+type = Stem;
 }
 );
-layerId = m020;
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
 closed = 1;
 nodes = (
+(426,-40,l),
+(575,-40,l),
+(575,42,l),
+(637,42,l),
+(637,157,l),
+(575,157,l),
+(575,393,l),
+(397,393,l),
+(208,141,l),
+(208,42,l),
+(426,42,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(363,157,l),
+(423,248,l),
+(426,248,l),
+(426,157,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (358,35);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (74,26);
+type = Stem;
+},
+{
+place = (222,29);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(222,-40,l),
+(251,-40,l),
+(251,74,l),
+(289,74,l),
+(289,100,l),
+(251,100,l),
+(251,393,l),
+(213,393,l),
+(89,98,l),
+(89,74,l),
+(222,74,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(118,100,l),
+(227,370,l),
+(222,371,l),
+(222,100,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (51,94);
+type = Stem;
+},
+{
+place = (190,108);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(190,-40,l),
+(298,-40,l),
+(298,51,l),
+(335,51,l),
+(335,145,l),
+(298,145,l),
+(298,393,l),
+(168,393,l),
+(55,137,l),
+(55,51,l),
+(190,51,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(152,145,l),
+(189,258,l),
+(190,258,l),
+(190,145,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (47,104);
+type = Stem;
+},
+{
+place = (221,127);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(221,-40,l),
 (348,-40,l),
+(348,47,l),
+(410,47,l),
+(410,151,l),
+(348,151,l),
 (348,393,l),
 (194,393,l),
 (30,141,l),
 (30,47,l),
-(410,47,l),
-(410,151,l),
-(155,151,l),
-(271,332,l),
-(221,346,l),
-(221,-40,l)
+(221,47,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(150,151,l),
+(216,254,l),
+(221,254,l),
+(221,151,l)
 );
 }
 );
-userData = {
-RMXScaler = {
-height = 60;
-weight = -300;
-width = 60;
-};
-};
 width = 618;
 }
 );
+note = fourinferior;
 unicode = 8324;
-userData = {
-KernOnSpecialSpacing = {
-L = superiors;
-R = superiors;
-};
-RMXScaler = {
-source = four;
-};
-};
 }

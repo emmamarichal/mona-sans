@@ -1,65 +1,27 @@
 {
 color = 6;
 glyphname = semicolon;
-kernLeft = semicolon;
 layers = (
 {
-background = {
+layerId = m01;
 shapes = (
 {
-closed = 1;
-nodes = (
-(503,-124,l),
-(527,-99,o),
-(561,-36,o),
-(561,11,cs),
-(561,39,o),
-(547,51,o),
-(529,51,cs),
-(511,51,o),
-(499,40,o),
-(499,23,cs),
-(499,8,o),
-(509,-4,o),
-(527,-4,cs),
-(538,-4,o),
-(546,2,o),
-(548,8,c),
-(543,9,l),
-(541,-27,o),
-(520,-77,o),
-(480,-124,c)
-);
-},
-{
-closed = 1;
-nodes = (
-(546,465,o),
-(559,477,o),
-(559,494,cs),
-(559,511,o),
-(546,523,o),
-(529,523,cs),
-(512,523,o),
-(499,511,o),
-(499,494,cs),
-(499,477,o),
-(512,465,o),
-(529,465,cs)
-);
-}
-);
-};
-layerId = m019;
-shapes = (
-{
-alignment = 1;
-anchor = top;
 ref = comma;
 },
 {
-alignment = 1;
-anchor = top;
+pos = (-4,416);
+ref = period;
+}
+);
+width = 846;
+},
+{
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+ref = comma;
+},
+{
 pos = (2,441);
 ref = period;
 }
@@ -67,76 +29,61 @@ ref = period;
 width = 618;
 },
 {
-background = {
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
-closed = 1;
-nodes = (
-(473,-167,l),
-(526,-119,o),
-(583,-18,o),
-(583,62,cs),
-(583,128,o),
-(541,168,o),
-(485,168,cs),
-(428,168,o),
-(390,132,o),
-(390,79,cs),
-(390,31,o),
-(422,-3,o),
-(476,-3,cs),
-(501,-3,o),
-(522,4,o),
-(535,15,c),
-(488,15,l),
-(478,-34,o),
-(428,-107,o),
-(370,-167,c)
-);
+ref = comma;
+scale = (1,0.96);
 },
 {
-closed = 1;
-nodes = (
-(540,378,o),
-(578,413,o),
-(578,466,cs),
-(578,519,o),
-(540,554,o),
-(484,554,cs),
-(428,554,o),
-(390,519,o),
-(390,466,cs),
-(390,413,o),
-(428,378,o),
-(484,378,cs)
-);
+pos = (-7,291);
+ref = period;
+scale = (1,0.96);
 }
 );
-};
-layerId = m020;
+width = 846;
+},
+{
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
 shapes = (
 {
-alignment = 1;
-anchor = top;
 ref = comma;
 },
 {
-alignment = 1;
-anchor = top;
-pos = (-4,309);
+pos = (-5,436);
 ref = period;
+}
+);
+width = 390;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = comma;
+},
+{
+pos = (-8,328);
+ref = period;
+}
+);
+width = 390;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+ref = comma;
+scale = (1,0.98);
+},
+{
+pos = (-6,295);
+ref = period;
+scale = (1,0.98);
 }
 );
 width = 618;
 }
 );
-metricLeft = comma;
-metricRight = period;
 unicode = 59;
-userData = {
-KernOnSpecialSpacing = {
-L = "spaced-off";
-R = "spaced-off";
-};
-};
 }

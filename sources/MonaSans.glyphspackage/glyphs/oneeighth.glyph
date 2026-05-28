@@ -208,11 +208,19 @@ pos = (306,0);
 ref = fraction;
 },
 {
+<<<<<<< HEAD
 pos = (463,0);
 ref = eight.dnom;
 }
 );
 width = 880;
+=======
+pos = (465,0);
+ref = eight.dnom;
+}
+);
+width = 882;
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 layerId = "F809B810-8CF1-453B-A5BE-CA3BE927A72B";

@@ -49,12 +49,16 @@ alignment = -1;
 ref = T;
 },
 {
+<<<<<<< HEAD
 alignment = -1;
 pos = (53,-23);
+=======
+pos = (73,-23);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = strokeshortcomb.case.T;
 }
 );
-width = 696;
+width = 736;
 },
 {
 layerId = m019;
@@ -155,12 +159,16 @@ alignment = -1;
 ref = T;
 },
 {
+<<<<<<< HEAD
 alignment = -1;
 pos = (33,-23);
+=======
+pos = (53,-23);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = strokeshortcomb.case.T;
 }
 );
-width = 668;
+width = 708;
 },
 {
 layerId = "F809B810-8CF1-453B-A5BE-CA3BE927A72B";

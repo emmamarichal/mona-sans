@@ -1686,7 +1686,7 @@ width = 528;
 anchors = (
 {
 name = "#entry";
-pos = (-43,0);
+pos = (-45,0);
 },
 {
 name = "#exit";

@@ -154,12 +154,16 @@ alignment = -1;
 ref = I;
 },
 {
+<<<<<<< HEAD
 alignment = -1;
 pos = (324,0);
+=======
+pos = (336,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = J;
 }
 );
-width = 753;
+width = 777;
 },
 {
 layerId = "F809B810-8CF1-453B-A5BE-CA3BE927A72B";

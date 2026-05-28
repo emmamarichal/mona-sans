@@ -51,12 +51,15 @@ alignment = -1;
 ref = c;
 },
 {
+<<<<<<< HEAD
 alignment = -1;
+=======
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 pos = (121,0);
 ref = cedillacomb;
 }
 );
-width = 687;
+width = 699;
 },
 {
 layerId = m019;

@@ -1,169 +1,67 @@
 {
-color = 6;
 glyphname = threesuperior;
-kernLeft = threesuperior;
 layers = (
 {
-layerId = m019;
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 pos = (0,376);
 ref = threeinferior;
 }
 );
-userData = {
-RMXScaler = {
-height = 60;
-weight = -25;
-width = 60;
-};
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = threeinferior;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = threeinferior;
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-34
-);
-stem = -2;
-target = (
-0,
-41
-);
-type = Stem;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-26
-);
-stem = -2;
-target = (
-0,
-27
-);
-type = Stem;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-12
-);
-stem = -2;
-target = (
-0,
-19
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-38
-);
-stem = -2;
-target = (
-0,
-37
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-27
-);
-stem = -2;
-target = (
-0,
-5
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-31
-);
-stem = -2;
-target = (
-0,
-2
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-15
-);
-stem = -2;
-target = (
-0,
-16
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-22
-);
-stem = -2;
-target = (
-0,
-9
-);
-type = Stem;
-}
-);
-};
 width = 618;
 },
 {
-layerId = m020;
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
 shapes = (
 {
 pos = (0,376);
 ref = threeinferior;
 }
 );
-userData = {
-RMXScaler = {
-height = 60;
-weight = -300;
-width = 60;
-};
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = threeinferior;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = threeinferior;
-};
-width = 618;
+width = 390;
+},
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,376);
+ref = threeinferior;
 }
 );
+width = 846;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+pos = (0,376);
+ref = threeinferior;
+}
+);
+width = 390;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+pos = (0,376);
+ref = threeinferior;
+}
+);
+width = 618;
+},
+{
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+pos = (0,376);
+ref = threeinferior;
+}
+);
+width = 846;
+}
+);
+note = threesuperior;
 unicode = 179;
-userData = {
-KernOnSpecialSpacing = {
-L = superiors;
-R = superiors;
-};
-RMXScaler = {
-source = three;
-};
-};
 }

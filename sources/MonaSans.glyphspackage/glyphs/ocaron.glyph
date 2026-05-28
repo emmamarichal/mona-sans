@@ -75,7 +75,11 @@ shapes = (
 ref = o;
 },
 {
+<<<<<<< HEAD
 pos = (66,-129);
+=======
+pos = (60,-129);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = caroncomb;
 }
 );
@@ -153,7 +157,11 @@ shapes = (
 ref = o;
 },
 {
+<<<<<<< HEAD
 pos = (24,-129);
+=======
+pos = (18,-129);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = caroncomb;
 }
 );

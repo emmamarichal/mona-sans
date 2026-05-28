@@ -65,6 +65,7 @@ width = 149;
 anchors = (
 {
 name = "#entry";
+pos = (1,0);
 },
 {
 name = "#exit";
@@ -87,6 +88,7 @@ width = 169;
 anchors = (
 {
 name = "#entry";
+pos = (16,0);
 },
 {
 name = "#exit";
@@ -109,6 +111,7 @@ width = 319;
 anchors = (
 {
 name = "#entry";
+pos = (2,0);
 },
 {
 name = "#exit";
@@ -195,6 +198,7 @@ width = 207;
 anchors = (
 {
 name = "#entry";
+pos = (1,0);
 },
 {
 name = "#exit";
@@ -243,6 +247,7 @@ width = 151;
 anchors = (
 {
 name = "#entry";
+pos = (1,0);
 },
 {
 name = "#exit";
@@ -317,6 +322,7 @@ width = 206;
 anchors = (
 {
 name = "#entry";
+pos = (3,0);
 },
 {
 name = "#exit";
@@ -626,6 +632,7 @@ width = 281;
 anchors = (
 {
 name = "#entry";
+pos = (-23,0);
 },
 {
 name = "#exit";
@@ -648,6 +655,7 @@ width = 105;
 anchors = (
 {
 name = "#entry";
+pos = (-12,0);
 },
 {
 name = "#exit";
@@ -700,6 +708,7 @@ width = 207;
 anchors = (
 {
 name = "#entry";
+pos = (-8,0);
 },
 {
 name = "#exit";
@@ -722,6 +731,7 @@ width = 162;
 anchors = (
 {
 name = "#entry";
+pos = (-26,0);
 },
 {
 name = "#exit";
@@ -774,6 +784,7 @@ width = 244;
 anchors = (
 {
 name = "#entry";
+pos = (-13,0);
 },
 {
 name = "#exit";
@@ -796,6 +807,7 @@ width = 148;
 anchors = (
 {
 name = "#entry";
+pos = (-19,0);
 },
 {
 name = "#exit";

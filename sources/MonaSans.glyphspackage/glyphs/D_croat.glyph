@@ -110,7 +110,7 @@ alignment = -1;
 ref = Eth;
 }
 );
-width = 856;
+width = 868;
 },
 {
 layerId = "F809B810-8CF1-453B-A5BE-CA3BE927A72B";

@@ -5,18 +5,61 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (310,672);
+pos = (430,672);
 }
 );
-layerId = m019;
+hints = (
+{
+horizontal = 1;
+place = (770,114);
+type = Stem;
+},
+{
+place = (405,37);
+type = Stem;
+}
+);
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
+(405,770,l),
+(442,770,l),
+(442,884,l),
+(405,884,l)
+);
+}
+);
+width = 846;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,672);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (768,116);
+type = Stem;
+},
+{
+place = (291,37);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(291,768,l),
 (328,768,l),
 (328,884,l),
-(291,884,l),
-(291,768,l)
+(291,884,l)
 );
 }
 );
@@ -26,24 +69,130 @@ width = 618;
 anchors = (
 {
 name = _top;
-pos = (310,678);
+pos = (430,678);
 }
 );
-layerId = m020;
+hints = (
+{
+horizontal = 1;
+place = (729,129);
+type = Stem;
+},
+{
+place = (313,221);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
 closed = 1;
 nodes = (
+(313,729,l),
+(534,729,l),
+(534,858,l),
+(313,858,l)
+);
+}
+);
+width = 846;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (190,672);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (770,115);
+type = Stem;
+},
+{
+place = (181,31);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(181,770,l),
+(212,770,l),
+(212,885,l),
+(181,885,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (190,678);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (735,131);
+type = Stem;
+},
+{
+place = (107,177);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(107,735,l),
+(284,735,l),
+(284,866,l),
+(107,866,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (310,678);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (735,128);
+type = Stem;
+},
+{
+place = (214,191);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,735,l),
 (405,735,l),
 (405,863,l),
-(214,863,l),
-(214,735,l)
+(214,863,l)
 );
 }
 );
 width = 618;
 }
 );
-metricLeft = "=40";
-metricRight = "=40";
+note = dotaccentcomb.ss01;
 }

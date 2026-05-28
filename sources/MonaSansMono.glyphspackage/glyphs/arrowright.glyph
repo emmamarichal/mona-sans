@@ -1,0 +1,198 @@
+{
+glyphname = arrowright;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = (347,36);
+type = Stem;
+},
+{
+place = (71,711);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(71,347,l),
+(725,347,l),
+(511,66,l),
+(554,66,l),
+(782,365,l),
+(554,664,l),
+(511,664,l),
+(725,383,l),
+(71,383,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (347,36);
+type = Stem;
+},
+{
+place = (12,599);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(12,347,l),
+(554,347,l),
+(351,72,l),
+(393,72,l),
+(611,365,l),
+(393,658,l),
+(351,658,l),
+(554,383,l),
+(12,383,l)
+);
+}
+);
+width = 618;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (261,209);
+type = Stem;
+},
+{
+place = (45,773);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(45,261,l),
+(538,261,l),
+(383,47,l),
+(618,47,l),
+(818,365,l),
+(618,683,l),
+(383,683,l),
+(538,470,l),
+(45,470,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (365,15);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (350,30);
+type = Stem;
+},
+{
+place = (12,377);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(12,350,l),
+(347,350,l),
+(209,137,l),
+(243,137,l),
+(389,365,l),
+(243,593,l),
+(209,593,l),
+(347,380,l),
+(12,380,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (290,150);
+type = Stem;
+},
+{
+place = (5,385);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,290,l),
+(202,290,l),
+(110,111,l),
+(265,111,l),
+(390,365,l),
+(265,619,l),
+(110,619,l),
+(202,440,l),
+(5,440,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (273,184);
+type = Stem;
+},
+{
+place = (5,608);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(5,273,l),
+(349,273,l),
+(217,85,l),
+(423,85,l),
+(613,365,l),
+(423,645,l),
+(217,645,l),
+(349,457,l),
+(5,457,l)
+);
+}
+);
+width = 618;
+}
+);
+note = arrowright;
+unicode = 8594;
+}

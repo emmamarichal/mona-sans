@@ -1,63 +1,163 @@
 {
 glyphname = hyphen;
-kernLeft = hyphen;
-kernRight = hyphen;
 layers = (
 {
-layerId = m019;
-shapes = (
-{
-closed = 1;
-nodes = (
-(533,242,l),
-(533,275,l),
-(85,275,l),
-(85,242,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.hints = (
+hints = (
 {
 horizontal = 1;
-options = 0;
-origin = (
-0,
-2
-);
-stem = -2;
-target = (
-0,
-3
-);
+place = (271,38);
+type = Stem;
+},
+{
+place = (101,644);
 type = Stem;
 }
 );
-};
-width = 618;
-},
-{
-layerId = m020;
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(546,192,l),
-(546,352,l),
-(72,352,l),
-(72,192,l)
+(101,271,l),
+(745,271,l),
+(745,309,l),
+(101,309,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (262,34);
+type = Stem;
+},
+{
+place = (85,448);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(85,262,l),
+(533,262,l),
+(533,296,l),
+(85,296,l)
+);
+}
+);
+width = 618;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (231,190);
+type = Stem;
+},
+{
+place = (101,645);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(101,231,l),
+(746,231,l),
+(746,421,l),
+(101,421,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (273,31);
+type = Stem;
+},
+{
+place = (32,327);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(32,273,l),
+(359,273,l),
+(359,304,l),
+(32,304,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (201,160);
+type = Stem;
+},
+{
+place = (30,330);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(30,201,l),
+(360,201,l),
+(360,361,l),
+(30,361,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (208,165);
+type = Stem;
+},
+{
+place = (64,491);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(64,208,l),
+(555,208,l),
+(555,373,l),
+(64,373,l)
 );
 }
 );
 width = 618;
 }
 );
+note = hyphen;
 unicode = 45;
-userData = {
-KernOnName = hyphen;
-KernOnSpecialSpacing = {
-L = hyphen;
-R = hyphen;
-};
-};
 }

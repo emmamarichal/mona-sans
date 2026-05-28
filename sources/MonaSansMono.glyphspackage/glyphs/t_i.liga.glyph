@@ -1,11 +1,27 @@
 {
 export = 0;
 glyphname = t_i.liga;
-kernLeft = t;
-kernRight = i;
 layers = (
 {
-layerId = m019;
+anchors = (
+{
+name = bottom_1;
+pos = (356,0);
+},
+{
+name = bottom_2;
+pos = (928,0);
+},
+{
+name = top_1;
+pos = (275,517);
+},
+{
+name = top_2;
+pos = (926,517);
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 ref = t;
@@ -18,7 +34,46 @@ ref = i;
 width = 1236;
 },
 {
-layerId = m020;
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (390,0);
+ref = i;
+}
+);
+width = 780;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (846,0);
+ref = i;
+}
+);
+width = 1692;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (390,0);
+ref = i;
+}
+);
+width = 780;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
 ref = t;
@@ -29,8 +84,20 @@ ref = i;
 }
 );
 width = 1236;
+},
+{
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (846,0);
+ref = i;
 }
 );
-metricLeft = t;
-metricRight = i;
+width = 1692;
+}
+);
+note = t_i.liga;
 }

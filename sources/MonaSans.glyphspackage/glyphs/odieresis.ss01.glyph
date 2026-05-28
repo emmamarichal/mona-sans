@@ -50,7 +50,11 @@ shapes = (
 ref = o;
 },
 {
+<<<<<<< HEAD
 pos = (96,-134);
+=======
+pos = (90,-134);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = dieresiscomb.ss01;
 }
 );
@@ -154,7 +158,11 @@ shapes = (
 ref = o;
 },
 {
+<<<<<<< HEAD
 pos = (58,-134);
+=======
+pos = (52,-134);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = dieresiscomb.ss01;
 }
 );

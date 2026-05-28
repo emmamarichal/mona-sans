@@ -1,49 +1,181 @@
 {
 glyphname = guilsinglleft;
-kernLeft = guillemetleft;
 layers = (
 {
-layerId = m019;
+hints = (
+{
+horizontal = 1;
+place = (517,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (346,154);
+type = Stem;
+}
+);
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
+(473,80,l),
+(513,80,l),
+(381,299,l),
+(513,517,l),
+(473,517,l),
+(333,299,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (524,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (215,189);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(373,70,l),
 (404,70,l),
 (254,298,l),
 (404,524,l),
 (373,524,l),
-(215,298,l),
-(373,70,l)
+(215,298,l)
 );
 }
 );
 width = 618;
 },
 {
-layerId = m020;
+hints = (
+{
+horizontal = 1;
+place = (544,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (267,310);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
 closed = 1;
 nodes = (
+(396,72,l),
+(577,72,l),
+(470,309,l),
+(577,544,l),
+(396,544,l),
+(267,309,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (516,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (135,122);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(228,100,l),
+(257,100,l),
+(169,308,l),
+(257,516,l),
+(228,516,l),
+(135,308,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (541,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (60,259);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(168,100,l),
+(319,100,l),
+(233,321,l),
+(319,541,l),
+(168,541,l),
+(60,321,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (555,-20);
+target = down;
+type = TopGhost;
+},
+{
+place = (145,327);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(286,54,l),
 (472,54,l),
 (356,306,l),
 (472,555,l),
 (286,555,l),
-(145,306,l),
-(286,54,l)
+(145,306,l)
 );
 }
 );
 width = 618;
 }
 );
-metricLeft = guillemetleft;
-metricRight = guillemetleft;
+note = guilsinglleft;
 unicode = 8249;
-userData = {
-KernOnSpecialSpacing = {
-L = quotes;
-R = quotes;
-};
-};
 }

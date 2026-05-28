@@ -1,35 +1,85 @@
 {
-color = 6;
 glyphname = Ohorntilde;
-kernLeft = O;
-kernRight = Ohorn;
 layers = (
 {
-layerId = m019;
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 ref = Ohorn;
 },
 {
-pos = (2,57);
+pos = (-6,57);
 ref = tildecomb;
 }
 );
 width = 618;
 },
 {
-layerId = m020;
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
 shapes = (
 {
 ref = Ohorn;
 },
 {
-pos = (0,51);
+pos = (8,57);
+ref = tildecomb;
+}
+);
+width = 390;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (6,50);
+ref = tildecomb;
+}
+);
+width = 390;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (-1,51);
 ref = tildecomb;
 }
 );
 width = 618;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (-23,57);
+ref = tildecomb;
 }
 );
+width = 846;
+},
+{
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+ref = Ohorn;
+},
+{
+pos = (-37,56);
+ref = tildecomb;
+}
+);
+width = 846;
+}
+);
+note = Ohorntilde;
 unicode = 7904;
 }

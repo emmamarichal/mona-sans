@@ -1,11 +1,9 @@
 {
 color = 6;
 glyphname = Scircumflex;
-kernLeft = S;
-kernRight = S;
 layers = (
 {
-layerId = m019;
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 ref = S;
@@ -18,7 +16,33 @@ ref = circumflexcomb;
 width = 618;
 },
 {
-layerId = m020;
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-10,57);
+ref = circumflexcomb;
+}
+);
+width = 390;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-3,51);
+ref = circumflexcomb;
+}
+);
+width = 390;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
 ref = S;
@@ -29,7 +53,34 @@ ref = circumflexcomb;
 }
 );
 width = 618;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-4,57);
+ref = circumflexcomb;
 }
 );
+width = 846;
+},
+{
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+ref = S;
+},
+{
+pos = (-9,56);
+ref = circumflexcomb;
+}
+);
+width = 846;
+}
+);
+note = Scircumflex;
 unicode = 348;
 }

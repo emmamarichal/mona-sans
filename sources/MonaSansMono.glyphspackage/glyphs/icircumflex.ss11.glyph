@@ -1,0 +1,85 @@
+{
+color = 6;
+glyphname = icircumflex.ss11;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = idotless.ss11;
+},
+{
+pos = (-5,-155);
+ref = circumflexcomb;
+}
+);
+width = 846;
+},
+{
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+ref = idotless.ss11;
+},
+{
+pos = (1,-155);
+ref = circumflexcomb;
+}
+);
+width = 618;
+},
+{
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+ref = idotless.ss11;
+},
+{
+pos = (-5,-134);
+ref = circumflexcomb;
+}
+);
+width = 846;
+},
+{
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+ref = idotless.ss11;
+},
+{
+pos = (6,-156);
+ref = circumflexcomb;
+}
+);
+width = 390;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = idotless.ss11;
+},
+{
+pos = (6,-137);
+ref = circumflexcomb;
+}
+);
+width = 390;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+ref = idotless.ss11;
+},
+{
+pos = (1,-134);
+ref = circumflexcomb;
+}
+);
+width = 618;
+}
+);
+note = icircumflex.ss11;
+}

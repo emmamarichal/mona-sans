@@ -18,11 +18,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (307,0);
+pos = (311,0);
 ref = l;
 }
 );
-width = 554;
+width = 558;
 },
 {
 background = {
@@ -39,11 +39,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (124,0);
+pos = (145,0);
 ref = l;
 }
 );
-width = 273;
+width = 294;
 },
 {
 background = {
@@ -60,11 +60,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (300,0);
+pos = (320,0);
 ref = l;
 }
 );
-width = 473;
+width = 493;
 },
 {
 background = {
@@ -81,11 +81,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (429,0);
+pos = (463,0);
 ref = l;
 }
 );
-width = 750;
+width = 784;
 },
 {
 background = {
@@ -102,7 +102,7 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (288,0);
+pos = (298,0);
 ref = l;
 }
 );
@@ -214,7 +214,7 @@ type = Stem;
 }
 );
 };
-width = 501;
+width = 511;
 },
 {
 background = {
@@ -231,7 +231,7 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (385,0);
+pos = (390,0);
 ref = l;
 }
 );
@@ -239,7 +239,11 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = f;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = l;
 };
+<<<<<<< HEAD
 width = 695;
+=======
+width = 701;
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 background = {
@@ -256,11 +260,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (113,0);
+pos = (130,0);
 ref = l;
 }
 );
-width = 264;
+width = 281;
 },
 {
 background = {
@@ -277,11 +281,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (312,0);
+pos = (317,0);
 ref = l;
 }
 );
-width = 558;
+width = 563;
 },
 {
 background = {
@@ -298,11 +302,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (288,0);
+pos = (293,0);
 ref = l;
 }
 );
-width = 490;
+width = 495;
 },
 {
 background = {
@@ -319,11 +323,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (397,0);
+pos = (411,0);
 ref = l;
 }
 );
-width = 698;
+width = 712;
 },
 {
 background = {
@@ -340,11 +344,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (277,0);
+pos = (287,0);
 ref = l;
 }
 );
-width = 450;
+width = 460;
 },
 {
 background = {
@@ -361,11 +365,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (453,0);
+pos = (456,0);
 ref = l;
 }
 );
-width = 774;
+width = 777;
 },
 {
 background = {
@@ -382,11 +386,15 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (199,0);
+pos = (188,0);
 ref = l;
 }
 );
+<<<<<<< HEAD
 width = 301;
+=======
+width = 289;
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 background = {
@@ -403,11 +411,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (334,0);
+pos = (319,0);
 ref = l;
 }
 );
-width = 545;
+width = 530;
 },
 {
 background = {
@@ -424,7 +432,7 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (339,0);
+pos = (313,0);
 ref = l;
 }
 );
@@ -536,7 +544,7 @@ type = Stem;
 }
 );
 };
-width = 494;
+width = 468;
 },
 {
 background = {
@@ -620,11 +628,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (114,0);
+pos = (181,0);
 ref = l;
 }
 );
-width = 217;
+width = 284;
 },
 {
 background = {
@@ -641,11 +649,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (312,0);
+pos = (300,0);
 ref = l;
 }
 );
-width = 520;
+width = 508;
 },
 {
 background = {
@@ -662,11 +670,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (283,0);
+pos = (278,0);
 ref = l;
 }
 );
-width = 447;
+width = 442;
 },
 {
 background = {
@@ -683,11 +691,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (397,0);
+pos = (408,0);
 ref = l;
 }
 );
-width = 640;
+width = 651;
 },
 {
 background = {
@@ -704,11 +712,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (277,0);
+pos = (292,0);
 ref = l;
 }
 );
-width = 430;
+width = 445;
 },
 {
 background = {
@@ -725,11 +733,11 @@ shapes = (
 ref = _f.longarm;
 },
 {
-pos = (454,0);
+pos = (443,0);
 ref = l;
 }
 );
-width = 731;
+width = 720;
 }
 );
 metricLeft = f;

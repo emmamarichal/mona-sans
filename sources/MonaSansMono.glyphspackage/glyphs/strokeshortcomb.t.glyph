@@ -1,7 +1,38 @@
 {
-export = 0;
 glyphname = strokeshortcomb.t;
 layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (423,277);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (263,32);
+type = Stem;
+},
+{
+place = (188,470);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(188,261,l),
+(658,261,l),
+(658,293,l),
+(188,293,l)
+);
+}
+);
+width = 846;
+},
 {
 anchors = (
 {
@@ -9,15 +40,26 @@ name = _center;
 pos = (309,259);
 }
 );
-layerId = m019;
+hints = (
+{
+horizontal = 1;
+place = (243,32);
+type = Stem;
+},
+{
+place = (147,324);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 closed = 1;
 nodes = (
-(446,243,l),
-(446,275,l),
-(172,275,l),
-(172,243,l)
+(147,243,l),
+(471,243,l),
+(471,275,l),
+(147,275,l)
 );
 }
 );
@@ -27,24 +69,130 @@ width = 618;
 anchors = (
 {
 name = _center;
-pos = (310,277);
+pos = (424,285);
 }
 );
-layerId = m020;
+hints = (
+{
+horizontal = 1;
+place = (224,121);
+type = Stem;
+},
+{
+place = (149,549);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
 closed = 1;
 nodes = (
+(149,224,l),
+(698,224,l),
+(698,345,l),
+(149,345,l)
+);
+}
+);
+width = 846;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (194,258);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (246,24);
+type = Stem;
+},
+{
+place = (79,227);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(81,246,l),
+(308,246,l),
+(308,270,l),
+(81,270,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (194,272);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (200,143);
+type = Stem;
+},
+{
+place = (38,312);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(38,200,l),
+(350,200,l),
+(350,343,l),
+(38,343,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (310,277);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (204,145);
+type = Stem;
+},
+{
+place = (119,381);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(119,204,l),
 (500,204,l),
 (500,349,l),
-(119,349,l),
-(119,204,l)
+(119,349,l)
 );
 }
 );
 width = 618;
 }
 );
-metricLeft = "=40";
-metricRight = "=40";
+note = strokeshortcomb.t;
 }

@@ -50,7 +50,11 @@ shapes = (
 ref = g;
 },
 {
+<<<<<<< HEAD
 pos = (120,-129);
+=======
+pos = (114,-129);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = brevecomb;
 }
 );
@@ -154,7 +158,11 @@ shapes = (
 ref = g;
 },
 {
+<<<<<<< HEAD
 pos = (97,-134);
+=======
+pos = (91,-134);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = brevecomb;
 }
 );

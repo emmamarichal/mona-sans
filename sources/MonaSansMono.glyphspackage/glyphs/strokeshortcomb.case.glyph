@@ -5,18 +5,61 @@ layers = (
 anchors = (
 {
 name = _center;
-pos = (277,388);
+pos = (423,388);
 }
 );
-layerId = m019;
+hints = (
+{
+horizontal = 1;
+place = (372,32);
+type = Stem;
+},
+{
+place = (218,410);
+type = Stem;
+}
+);
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
+(218,372,l),
+(628,372,l),
+(628,404,l),
+(218,404,l)
+);
+}
+);
+width = 846;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (309,388);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (372,32);
+type = Stem;
+},
+{
+place = (132,354);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(132,372,l),
 (486,372,l),
 (486,404,l),
-(132,404,l),
-(132,372,l)
+(132,404,l)
 );
 }
 );
@@ -26,30 +69,130 @@ width = 618;
 anchors = (
 {
 name = _center;
-pos = (315,378);
+pos = (424,311);
 }
 );
-layerId = m020;
+hints = (
+{
+horizontal = 1;
+place = (243,121);
+type = Stem;
+},
+{
+place = (204,439);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
 closed = 1;
 nodes = (
+(204,250,l),
+(643,250,l),
+(643,371,l),
+(204,371,l)
+);
+}
+);
+width = 846;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (196,279);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (267,24);
+type = Stem;
+},
+{
+place = (107,177);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(107,267,l),
+(284,267,l),
+(284,291,l),
+(107,291,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (195,307);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (235,143);
+type = Stem;
+},
+{
+place = (93,211);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(90,235,l),
+(301,235,l),
+(301,378,l),
+(90,378,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (310,383);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (310,145);
+type = Stem;
+},
+{
+place = (104,411);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,310,l),
 (515,310,l),
 (515,455,l),
-(104,455,l),
-(104,310,l)
+(104,455,l)
 );
 }
 );
 width = 618;
 }
 );
-metricLeft = "=40";
-metricRight = "=40";
-userData = {
-KernOnSpecialSpacing = {
-L = NoKerning;
-R = NoKerning;
-};
-};
+note = strokeshortcomb.case;
 }

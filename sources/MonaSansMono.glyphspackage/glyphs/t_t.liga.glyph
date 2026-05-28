@@ -1,11 +1,43 @@
 {
 export = 0;
 glyphname = t_t.liga;
-kernLeft = t;
-kernRight = t;
 layers = (
 {
-layerId = m019;
+anchors = (
+{
+name = bottom_1;
+pos = (356,0);
+},
+{
+name = bottom_2;
+pos = (974,0);
+},
+{
+name = center_1;
+pos = (287,259);
+},
+{
+name = center_2;
+pos = (905,259);
+},
+{
+name = top_1;
+pos = (275,517);
+},
+{
+name = top_2;
+pos = (893,517);
+},
+{
+name = topright_1;
+pos = (306,785);
+},
+{
+name = topright_2;
+pos = (924,785);
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 ref = t;
@@ -15,139 +47,49 @@ pos = (618,0);
 ref = t;
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = t;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = t;
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-4
-);
-stem = -2;
-target = (
-0,
-11
-);
-type = Stem;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-42
-);
-stem = -2;
-target = (
-0,
-43
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-1
-);
-stem = -2;
-target = (
-0,
-14
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-17
-);
-stem = -2;
-target = (
-0,
-30
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-17
-);
-stem = -2;
-target = (
-0,
-23
-);
-type = Stem;
-}
-);
-};
 width = 1236;
 },
 {
-background = {
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
 shapes = (
 {
-closed = 1;
-nodes = (
-(236,-10,o),
-(289,0,o),
-(320,14,c),
-(320,156,l),
-(304,148,o),
-(285,143,o),
-(265,143,cs),
-(227,143,o),
-(206,145,o),
-(206,202,cs),
-(206,391,l),
-(379,391,l),
-(379,158,ls),
-(379,33,o),
-(447,-10,o),
-(550,-10,cs),
-(600,-10,o),
-(653,0,o),
-(684,14,c),
-(684,156,l),
-(668,148,o),
-(649,143,o),
-(629,143,cs),
-(591,143,o),
-(570,145,o),
-(570,202,cs),
-(570,391,l),
-(684,391,l),
-(684,544,l),
-(570,544,l),
-(570,710,l),
-(379,668,l),
-(379,544,l),
-(206,544,l),
-(206,710,l),
-(15,668,l),
-(15,544,l),
-(-69,544,l),
-(-69,391,l),
-(15,391,l),
-(15,158,ls),
-(15,33,o),
-(83,-10,o),
-(186,-10,cs)
-);
+ref = t;
+},
+{
+pos = (390,0);
+ref = t;
 }
 );
-};
-layerId = m020;
+width = 780;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (846,0);
+ref = t;
+}
+);
+width = 1692;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (390,0);
+ref = t;
+}
+);
+width = 780;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
 ref = t;
@@ -157,13 +99,21 @@ pos = (618,0);
 ref = t;
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = t;
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = t;
-};
 width = 1236;
+},
+{
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+ref = t;
+},
+{
+pos = (846,0);
+ref = t;
 }
 );
-metricLeft = t;
-metricRight = t;
+width = 1692;
+}
+);
+note = t_t.liga;
 }

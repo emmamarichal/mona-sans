@@ -2,134 +2,276 @@
 glyphname = seven.dnom;
 layers = (
 {
-layerId = m019;
-shapes = (
-{
-closed = 1;
-nodes = (
-(220,0,l),
-(220,169,o),
-(284,270,o),
-(356,375,c),
-(356,397,l),
-(96,397,l),
-(96,283,l),
-(123,283,l),
-(123,369,l),
-(318,369,l),
-(245,262,o),
-(186,159,o),
-(186,0,c)
-);
-}
-);
-userData = {
-RMXScaler = {
-height = 55;
-weight = -40;
-width = 55;
-};
-com.schriftgestaltung.hints = (
+hints = (
 {
 horizontal = 1;
-options = 0;
-origin = (
-0,
-12
-);
-stem = -2;
-target = (
-u,
-p
-);
+place = (368,29);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
 type = BottomGhost;
 },
 {
-horizontal = 1;
-options = 0;
-origin = (
-0,
-5
-);
-stem = -2;
-target = (
-0,
-8
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-6
-);
-stem = -2;
-target = (
-0,
-7
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-12
-);
-stem = -2;
-target = (
-0,
-0
-);
+place = (277,28);
 type = Stem;
 }
 );
-};
-width = 618;
-},
-{
-layerId = m020;
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(275,0,l),
-(275,145,o),
-(315,212,o),
-(376,293,c),
-(376,375,l),
-(70,375,l),
-(70,224,l),
-(159,224,l),
-(159,277,l),
-(242,277,l),
-(200,223,o),
-(154,134,o),
-(154,0,c)
+(408,0,l),
+(427,138,o),
+(492,267,o),
+(581,374,c),
+(581,397,l),
+(277,397,l),
+(277,281,l),
+(305,281,l),
+(305,368,l),
+(542,368,l),
+(457,266,o),
+(392,142,o),
+(372,0,c)
 );
 }
 );
-userData = {
-RMXScaler = {
-height = 52;
-weight = -370;
-width = 54;
-};
-};
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (369,28);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (318,38);
+type = Stem;
+},
+{
+place = (186,34);
+type = Stem;
+},
+{
+place = (96,27);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,0,l),
+(224,169,o),
+(286,270,o),
+(355,375,c),
+(355,397,l),
+(103,397,l),
+(103,283,l),
+(130,283,l),
+(130,369,l),
+(317,369,l),
+(247,262,o),
+(190,159,o),
+(190,0,c)
+);
+}
+);
+width = 618;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (276,99);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (260,94);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(460,0,l),
+(472,100,o),
+(534,221,o),
+(596,293,c),
+(596,375,l),
+(260,375,l),
+(260,221,l),
+(354,221,l),
+(354,276,l),
+(469,276,l),
+(400,199,o),
+(349,98,o),
+(337,0,c)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (349,24);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (164,25);
+type = Stem;
+},
+{
+place = (113,23);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(190,0,l),
+(190,109,o),
+(207,205,o),
+(259,353,c),
+(259,373,l),
+(117,373,l),
+(117,266,l),
+(139,266,l),
+(139,349,l),
+(231,349,l),
+(192,235,o),
+(165,129,o),
+(165,0,c)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (271,89);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (219,141);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (147,96);
+type = Stem;
+},
+{
+place = (80,81);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(227,0,l),
+(227,126,o),
+(239,162,o),
+(274,265,c),
+(274,333,l),
+(87,333,l),
+(87,203,l),
+(156,203,l),
+(156,251,l),
+(188,251,l),
+(163,182,o),
+(143,124,o),
+(145,0,c)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (277,98);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,21);
+target = up;
+type = BottomGhost;
+},
+{
+place = (154,121);
+type = Stem;
+},
+{
+place = (70,89);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(277,0,l),
+(277,145,o),
+(316,212,o),
+(375,293,c),
+(375,375,l),
+(74,375,l),
+(74,224,l),
+(163,224,l),
+(163,277,l),
+(241,277,l),
+(201,223,o),
+(156,134,o),
+(156,0,c)
+);
+}
+);
 width = 618;
 }
 );
-metricWidth = H;
-userData = {
-KernOnSpecialSpacing = {
-L = "fraction numbers";
-R = "fraction numbers";
-};
-RMXScaler = {
-source = seven;
-};
-};
+note = seven.dnom;
 }

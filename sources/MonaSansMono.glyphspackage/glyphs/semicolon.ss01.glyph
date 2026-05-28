@@ -1,18 +1,14 @@
 {
 color = 6;
 glyphname = semicolon.ss01;
-kernLeft = colon.ss01;
 layers = (
 {
-layerId = m019;
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
-alignment = 1;
 ref = comma.ss01;
 },
 {
-alignment = 1;
-anchor = top;
 pos = (-1,430);
 ref = period.ss01;
 }
@@ -20,22 +16,70 @@ ref = period.ss01;
 width = 618;
 },
 {
-layerId = m020;
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
 shapes = (
 {
-alignment = 1;
 ref = comma.ss01;
 },
 {
-alignment = 1;
-anchor = top;
-pos = (0,306);
+pos = (0,465);
+ref = period.ss01;
+}
+);
+width = 390;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = comma.ss01;
+},
+{
+pos = (-1,388);
+ref = period.ss01;
+}
+);
+width = 390;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+ref = comma.ss01;
+},
+{
+pos = (0,302);
 ref = period.ss01;
 }
 );
 width = 618;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = comma.ss01;
+},
+{
+pos = (0,419);
+ref = period.ss01;
 }
 );
-metricLeft = comma;
-metricRight = period;
+width = 846;
+},
+{
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+ref = comma.ss01;
+},
+{
+pos = (-1,293);
+ref = period.ss01;
+}
+);
+width = 846;
+}
+);
+note = semicolon.ss01;
 }

@@ -144,11 +144,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (122,0);
+pos = (123,0);
 ref = y;
 }
 );
-width = 374;
+width = 375;
 },
 {
 background = {
@@ -396,11 +396,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (139,0);
+pos = (150,0);
 ref = y;
 }
 );
-width = 373;
+width = 384;
 },
 {
 background = {
@@ -480,11 +480,11 @@ shapes = (
 ref = f;
 },
 {
-pos = (251,0);
+pos = (253,0);
 ref = y;
 }
 );
-width = 785;
+width = 787;
 },
 {
 background = {

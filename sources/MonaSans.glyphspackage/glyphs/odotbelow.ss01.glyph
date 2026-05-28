@@ -50,7 +50,11 @@ shapes = (
 ref = o;
 },
 {
+<<<<<<< HEAD
 pos = (216,0);
+=======
+pos = (210,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = dotbelowcomb.ss01;
 }
 );
@@ -154,7 +158,11 @@ shapes = (
 ref = o;
 },
 {
+<<<<<<< HEAD
 pos = (251,0);
+=======
+pos = (245,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = dotbelowcomb.ss01;
 }
 );

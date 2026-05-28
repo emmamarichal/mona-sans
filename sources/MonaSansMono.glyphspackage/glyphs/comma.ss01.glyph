@@ -1,114 +1,288 @@
 {
 glyphname = comma.ss01;
-kernLeft = comma.ss01;
-kernRight = quotedblbase.ss01;
 layers = (
 {
 anchors = (
 {
-name = "#entry";
-pos = (215,0);
+name = top;
+pos = (424,513);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,92);
+type = Stem;
 },
 {
-name = "#exit";
-pos = (385,0);
+horizontal = 1;
+place = (-166.49,38);
+type = Stem;
 },
+{
+place = (425,36);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(421,-159,o),
+(460,-100,o),
+(460,-10,cs),
+(460,92,l),
+(376,92,l),
+(376,0,l),
+(441,0,l),
+(424,17,l),
+(424,-10,ls),
+(424,-79,o),
+(396,-124,o),
+(346,-129,c),
+(346,-167,l)
+);
+}
+);
+width = 846;
+},
+{
+anchors = (
 {
 name = top;
 pos = (309,517);
 }
 );
-background = {
-shapes = (
+hints = (
 {
-closed = 1;
-nodes = (
-(275,-145,ls),
-(312,-139,o),
-(330,-115,o),
-(330,-68,cs),
-(330,62,l),
-(285,57,l),
-(285,0,l),
-(306,0,l),
-(306,-63,ls),
-(306,-96,o),
-(298,-113,o),
-(274,-118,cs),
-(269,-119,l),
-(269,-146,l)
-);
+horizontal = 1;
+place = (0,80);
+type = Stem;
+},
+{
+place = (312,30);
+type = Stem;
 }
 );
-};
-layerId = m019;
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 closed = 1;
 nodes = (
-(266,-179,ls),
-(317,-167,o),
-(342,-133,o),
-(342,-75,cs),
+(312,-168,o),
+(342,-128,o),
+(342,-59,cs),
 (342,80,l),
 (270,80,l),
 (270,0,l),
-(313,0,l),
-(313,-63,ls),
-(313,-113,o),
-(298,-141,o),
-(266,-148,cs),
-(262,-150,l),
-(262,-180,l)
+(328,0,l),
+(312,16,l),
+(312,-57,ls),
+(312,-110,o),
+(292,-140,o),
+(252,-148,c),
+(252,-180,l)
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
-};
 width = 618;
 },
 {
 anchors = (
 {
-name = "#entry";
-pos = (147,0);
+name = top;
+pos = (422,538);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,240);
+type = Stem;
 },
 {
-name = "#exit";
-pos = (463,0);
+horizontal = 1;
+place = (-177,110);
+type = Stem;
 },
+{
+place = (414,148);
+type = Stem;
+},
+{
+place = (290,272);
+type = Stem;
+},
+{
+place = (272,290);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(485,-177,o),
+(562,-111,o),
+(562,30,cs),
+(562,240,l),
+(272,240,l),
+(272,0,l),
+(513,0,l),
+(414,99,l),
+(414,25,ls),
+(414,-36,o),
+(386,-57,o),
+(300,-57,c),
+(300,-177,l)
+);
+}
+);
+width = 846;
+},
+{
+anchors = (
+{
+name = top;
+pos = (196,534);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,66);
+type = Stem;
+},
+{
+place = (193,26);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(201,-136,o),
+(219,-108,o),
+(219,-43,cs),
+(219,66,l),
+(160,66,l),
+(160,0,l),
+(206,0,l),
+(193,13,l),
+(193,-40,ls),
+(193,-91,o),
+(182,-112,o),
+(154,-116,c),
+(154,-144,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = top;
+pos = (194,584);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (0,194);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-177,92);
+type = Stem;
+},
+{
+place = (192,87);
+type = Stem;
+},
+{
+place = (112,167);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(232,-177,o),
+(294,-115,o),
+(294,-4,cs),
+(294,194,l),
+(127,194,l),
+(127,0,l),
+(272,0,l),
+(207,65,l),
+(207,-4,ls),
+(207,-60,o),
+(181,-85,o),
+(122,-85,c),
+(122,-177,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
 {
 name = top;
 pos = (309,544);
 }
 );
-layerId = m020;
+hints = (
+{
+horizontal = 1;
+place = (0,218);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-239,124);
+type = Stem;
+},
+{
+place = (298,132);
+type = Stem;
+},
+{
+place = (188,242);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
 closed = 1;
 nodes = (
-(223,-239,ls),
-(341,-239,o),
-(430,-187,o),
-(430,-22,cs),
+(350,-229,o),
+(430,-154,o),
+(430,-12,cs),
 (430,218,l),
 (188,218,l),
 (188,0,l),
-(298,0,l),
-(298,-13,ls),
-(298,-78,o),
-(271,-115,o),
-(202,-115,cs),
-(188,-115,l),
+(384,0,l),
+(298,86,l),
+(298,-3,ls),
+(298,-68,o),
+(271,-105,o),
+(188,-115,c),
 (188,-239,l)
 );
 }
 );
-userData = {
-com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
-};
 width = 618;
 }
 );
+note = comma.ss01;
 }

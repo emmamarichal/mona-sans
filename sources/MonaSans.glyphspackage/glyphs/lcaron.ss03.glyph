@@ -61,7 +61,11 @@ shapes = (
 ref = l.ss03;
 },
 {
+<<<<<<< HEAD
 pos = (140,0);
+=======
+pos = (143,30);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = caroncomb.alt;
 }
 );
@@ -74,7 +78,11 @@ shapes = (
 ref = l.ss03;
 },
 {
+<<<<<<< HEAD
 pos = (210,0);
+=======
+pos = (215,30);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = caroncomb.alt;
 }
 );

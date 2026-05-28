@@ -2,56 +2,162 @@
 glyphname = minus;
 layers = (
 {
-layerId = m019;
-shapes = (
-{
-closed = 1;
-nodes = (
-(548,345,l),
-(548,377,l),
-(70,377,l),
-(70,345,l)
-);
-}
-);
-userData = {
-com.schriftgestaltung.hints = (
+hints = (
 {
 horizontal = 1;
-options = 0;
-place = (
-12,
-12
-);
-stem = -2;
+place = (317,40);
+type = Stem;
+},
+{
+place = (132,582);
 type = Stem;
 }
 );
-};
-width = 618;
-},
-{
-layerId = m020;
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
-(546,286,l),
-(546,435,l),
-(73,435,l),
-(73,286,l)
+(132,317,l),
+(714,317,l),
+(714,357,l),
+(132,357,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (316,32);
+type = Stem;
+},
+{
+place = (70,478);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(70,316,l),
+(548,316,l),
+(548,348,l),
+(70,348,l)
+);
+}
+);
+width = 618;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (239,220);
+type = Stem;
+},
+{
+place = (108,631);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(108,239,l),
+(739,239,l),
+(739,459,l),
+(108,459,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (269,30);
+type = Stem;
+},
+{
+place = (21,348);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(21,269,l),
+(369,269,l),
+(369,299,l),
+(21,299,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (235,148);
+type = Stem;
+},
+{
+place = (15,360);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,235,l),
+(375,235,l),
+(375,383,l),
+(15,383,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (259,178);
+type = Stem;
+},
+{
+place = (73,471);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(73,259,l),
+(544,259,l),
+(544,437,l),
+(73,437,l)
 );
 }
 );
 width = 618;
 }
 );
-metricWidth = zero.tf;
+note = minus;
 unicode = 8722;
-userData = {
-KernOnSpecialSpacing = {
-L = math;
-R = math;
-};
-};
 }

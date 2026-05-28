@@ -2,13 +2,118 @@
 glyphname = fiveinferior;
 layers = (
 {
-anchors = (
+hints = (
 {
-name = _center;
-pos = (227,174);
+horizontal = 1;
+place = (362,31);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (215,30);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (158,34);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-45,31);
+type = Stem;
+},
+{
+place = (569,39);
+type = Stem;
+},
+{
+place = (265.5,34.5);
+type = Stem;
+},
+{
+place = (249,36);
+type = Stem;
 }
 );
-layerId = m019;
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(532,-45,o),
+(608,8,o),
+(608,102,cs),
+(608,188,o),
+(548,245,o),
+(434,245,cs),
+(376,245,o),
+(323,223,o),
+(298,192,c),
+(295,192,l),
+(305,362,l),
+(597,362,l),
+(597,393,l),
+(272,393,l),
+(259,158,l),
+(295,158,l),
+(315,189,o),
+(360,215,o),
+(428,215,cs),
+(518,215,o),
+(569,176,o),
+(569,101,cs),
+(569,32,o),
+(521,-14,o),
+(424,-14,cs),
+(341,-14,o),
+(284,28,o),
+(285,92,c),
+(249,92,l),
+(249,10,o),
+(318,-45,o),
+(424,-45,cs)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (362,31);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (208,29);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (152,34);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-45,31);
+type = Stem;
+},
+{
+place = (333,35);
+type = Stem;
+},
+{
+place = (99,32);
+type = Stem;
+},
+{
+place = (85,35);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 closed = 1;
@@ -48,105 +153,309 @@ nodes = (
 );
 }
 );
-userData = {
-RMXScaler = {
-height = 60;
-weight = -25;
-width = 60;
-};
-com.schriftgestaltung.hints = (
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-24
-);
-stem = -2;
-target = (
-0,
-31
-);
-type = Stem;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-5
-);
-stem = -2;
-target = (
-0,
-18
-);
-type = Stem;
-},
-{
-horizontal = 1;
-options = 0;
-origin = (
-0,
-13
-);
-stem = -2;
-target = (
-0,
-10
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-place = (
-0,
-0
-);
-stem = -2;
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-21
-);
-stem = -2;
-target = (
-0,
-2
-);
-type = Stem;
-},
-{
-horizontal = 0;
-options = 0;
-origin = (
-0,
-28
-);
-stem = -2;
-target = (
-0,
-27
-);
-type = Stem;
-}
-);
-};
 width = 618;
 },
 {
-anchors = (
+hints = (
 {
-name = _center;
-pos = (220,174);
+horizontal = 1;
+place = (276,117);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (147,103);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (118,132);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (118,107);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-46,137);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-46,111);
+type = Stem;
+},
+{
+place = (479,151);
+type = Stem;
+},
+{
+place = (238.5,141);
+type = Stem;
 }
 );
-layerId = m020;
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(539,-46,o),
+(630,3,o),
+(630,107,cs),
+(630,202,o),
+(558,250,o),
+(469,250,cs),
+(432,250,o),
+(394,238,o),
+(383,224,c),
+(377,226,l),
+(382,276,l),
+(608,276,l),
+(608,393,l),
+(246,393,l),
+(231,118,l),
+(367,118,l),
+(376,135,o),
+(400,147,o),
+(428,147,cs),
+(458,147,o),
+(479,132,o),
+(479,107,cs),
+(479,82,o),
+(461,65,o),
+(426,65,cs),
+(400,65,o),
+(380,69,o),
+(374,91,c),
+(224,91,l),
+(231,11,o),
+(288,-46,o),
+(424,-46,cs)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (366,27);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (217,25);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (147,55);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-45,25);
+type = Stem;
+},
+{
+place = (254,30);
+type = Stem;
+},
+{
+place = (128,27);
+type = Stem;
+},
+{
+place = (128,25);
+type = Stem;
+},
+{
+place = (120,29);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(255,-45,o),
+(284,3,o),
+(284,102,cs),
+(284,190,o),
+(262,242,o),
+(208,242,cs),
+(183,242,o),
+(164,227,o),
+(154,202,c),
+(152,202,l),
+(158,366,l),
+(281,366,l),
+(281,393,l),
+(131,393,l),
+(125,147,l),
+(153,147,l),
+(159,197,o),
+(176,217,o),
+(204,217,cs),
+(235,217,o),
+(254,187,o),
+(254,101,cs),
+(254,19,o),
+(239,-20,o),
+(203,-20,cs),
+(172,-20,o),
+(148,8,o),
+(149,92,c),
+(120,92,l),
+(120,10,o),
+(145,-45,o),
+(203,-45,cs)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (300,93);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (164,90);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (126,128);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (126,108);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-46,137);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-46,92);
+type = Stem;
+},
+{
+place = (214,110);
+type = Stem;
+},
+{
+place = (80.5,219.5);
+type = Stem;
+},
+{
+place = (80.5,103.5);
+type = Stem;
+},
+{
+place = (70,110);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(270,-46,o),
+(324,3,o),
+(324,108,cs),
+(324,192,o),
+(292,254,o),
+(225,254,cs),
+(206,254,o),
+(193,247,o),
+(186,233,c),
+(182,235,l),
+(186,300,l),
+(300,300,l),
+(300,393,l),
+(86,393,l),
+(75,126,l),
+(182,126,l),
+(182,147,o),
+(186,164,o),
+(197,164,cs),
+(208,164,o),
+(214,146,o),
+(214,105,cs),
+(214,68,o),
+(210,46,o),
+(196,46,cs),
+(186,46,o),
+(180,58,o),
+(180,91,c),
+(70,91,l),
+(74,9,o),
+(116,-46,o),
+(196,-46,cs)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (282,111);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (144,100);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (118,126);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (118,108);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-46,132);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (-46,108);
+type = Stem;
+},
+{
+place = (262,128);
+type = Stem;
+},
+{
+place = (68.5,310.5);
+type = Stem;
+},
+{
+place = (68.5,118);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
 closed = 1;
@@ -186,24 +495,9 @@ nodes = (
 );
 }
 );
-userData = {
-RMXScaler = {
-height = 60;
-weight = -300;
-width = 60;
-};
-};
 width = 618;
 }
 );
+note = fiveinferior;
 unicode = 8325;
-userData = {
-KernOnSpecialSpacing = {
-L = superiors;
-R = superiors;
-};
-RMXScaler = {
-source = five;
-};
-};
 }

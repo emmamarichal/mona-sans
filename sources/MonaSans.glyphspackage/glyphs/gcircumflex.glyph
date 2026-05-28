@@ -50,7 +50,11 @@ shapes = (
 ref = g;
 },
 {
+<<<<<<< HEAD
 pos = (68,-129);
+=======
+pos = (62,-129);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = circumflexcomb;
 }
 );
@@ -154,7 +158,11 @@ shapes = (
 ref = g;
 },
 {
+<<<<<<< HEAD
 pos = (43,-129);
+=======
+pos = (37,-129);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = circumflexcomb;
 }
 );

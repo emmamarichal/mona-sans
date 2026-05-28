@@ -47,11 +47,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (305,0);
+pos = (306,0);
 ref = J.ss10;
 }
 );
-width = 936;
+width = 937;
 },
 {
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
@@ -246,7 +246,11 @@ pos = (108,0);
 ref = J.ss10;
 }
 );
+<<<<<<< HEAD
 width = 464;
+=======
+width = 460;
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 layerId = "6E33102A-8120-45EB-96FA-BF5C616DF6D0";

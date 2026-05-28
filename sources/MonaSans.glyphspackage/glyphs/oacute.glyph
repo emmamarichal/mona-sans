@@ -50,7 +50,11 @@ shapes = (
 ref = o;
 },
 {
+<<<<<<< HEAD
 pos = (240,-129);
+=======
+pos = (234,-129);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = acutecomb;
 }
 );
@@ -154,7 +158,11 @@ shapes = (
 ref = o;
 },
 {
+<<<<<<< HEAD
 pos = (198,-129);
+=======
+pos = (192,-129);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = acutecomb;
 }
 );

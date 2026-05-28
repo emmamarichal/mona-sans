@@ -1,8 +1,70 @@
 {
 glyphname = z;
-kernLeft = z;
-kernRight = z;
 layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = center;
+pos = (309,259);
+},
+{
+name = top;
+pos = (429,517);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (485,32);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (483,34);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,34);
+type = Stem;
+},
+{
+place = (658,55);
+type = Stem;
+},
+{
+place = (108,58);
+type = Stem;
+}
+);
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(108,0,l),
+(746,0,l),
+(746,34,l),
+(166,34,l),
+(166,38,l),
+(271,121,l),
+(713,485,l),
+(713,517,l),
+(127,517,l),
+(127,483,l),
+(658,483,l),
+(658,478,l),
+(552,396,l),
+(108,31,l)
+);
+}
+);
+width = 846;
+},
 {
 anchors = (
 {
@@ -18,11 +80,32 @@ name = top;
 pos = (309,517);
 }
 );
-layerId = m019;
+hints = (
+{
+horizontal = 1;
+place = (485,32);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,32);
+type = Stem;
+},
+{
+place = (469,41);
+type = Stem;
+},
+{
+place = (97,42);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 closed = 1;
 nodes = (
+(97,0,l),
 (521,0,l),
 (521,32,l),
 (139,32,l),
@@ -35,44 +118,197 @@ nodes = (
 (469,485,l),
 (469,475,l),
 (384,384,l),
-(97,33,l),
-(97,0,l)
+(97,33,l)
 );
 }
 );
-userData = {
-com.schriftgestaltung.hints = (
+width = 618;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (308,0);
+},
+{
+name = center;
+pos = (308,272);
+},
+{
+name = top;
+pos = (408,544);
+}
+);
+hints = (
 {
 horizontal = 1;
-options = 0;
-origin = (
-0,
-2
-);
-stem = -2;
-target = (
-0,
-9
-);
+place = (402,143);
 type = Stem;
 },
 {
 horizontal = 1;
-options = 0;
-origin = (
-0,
-5
-);
-stem = -2;
-target = (
-0,
-6
-);
+place = (376,169);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,169);
+type = Stem;
+},
+{
+place = (77,697);
 type = Stem;
 }
 );
-};
-width = 618;
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(77,0,l),
+(774,0,l),
+(774,169,l),
+(412,169,l),
+(412,179,l),
+(500,238,l),
+(746,402,l),
+(746,545,l),
+(87,545,l),
+(87,376,l),
+(410,376,l),
+(410,366,l),
+(321,311,l),
+(77,148,l)
+);
+}
+);
+width = 846;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (309,0);
+},
+{
+name = center;
+pos = (309,259);
+},
+{
+name = top;
+pos = (189,517);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (490,26);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,26);
+type = Stem;
+},
+{
+place = (301,34);
+type = Stem;
+},
+{
+place = (49,35);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(49,0,l),
+(341,0,l),
+(341,26,l),
+(84,26,l),
+(84,34,l),
+(139,134,l),
+(335,493,l),
+(335,516,l),
+(56,516,l),
+(56,490,l),
+(301,490,l),
+(301,482,l),
+(259,408,l),
+(49,23,l)
+);
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (308,0);
+},
+{
+name = center;
+pos = (308,272);
+},
+{
+name = top;
+pos = (188,544);
+}
+);
+hints = (
+{
+horizontal = 1;
+place = (405,136);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,137);
+type = Stem;
+},
+{
+place = (163,192);
+type = Stem;
+},
+{
+place = (33,322);
+type = Stem;
+},
+{
+place = (27,331);
+type = Stem;
+},
+{
+place = (27,192);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(27,0,l),
+(358,0,l),
+(358,137,l),
+(219,137,l),
+(219,147,l),
+(254,210,l),
+(355,419,l),
+(355,541,l),
+(33,541,l),
+(33,405,l),
+(163,405,l),
+(163,395,l),
+(135,346,l),
+(27,124,l)
+);
+}
+);
+width = 390;
 },
 {
 anchors = (
@@ -89,33 +325,51 @@ name = top;
 pos = (308,544);
 }
 );
-layerId = m020;
+hints = (
+{
+horizontal = 1;
+place = (391,153);
+type = Stem;
+},
+{
+horizontal = 1;
+place = (0,153);
+type = Stem;
+},
+{
+place = (306,245);
+type = Stem;
+},
+{
+place = (55,245);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
 closed = 1;
 nodes = (
-(559,0,l),
-(559,153,l),
-(302,153,l),
-(302,166,l),
-(376,231,l),
-(548,411,l),
-(548,544,l),
-(75,544,l),
-(75,391,l),
-(303,391,l),
-(303,378,l),
-(236,321,l),
-(57,136,l),
-(57,0,l)
+(55,0,l),
+(562,0,l),
+(562,153,l),
+(300,153,l),
+(300,166,l),
+(375,231,l),
+(551,411,l),
+(551,544,l),
+(73,544,l),
+(73,391,l),
+(306,391,l),
+(306,378,l),
+(238,321,l),
+(55,136,l)
 );
 }
 );
 width = 618;
 }
 );
+note = z;
 unicode = 122;
-userData = {
-KernOnName = z;
-};
 }

@@ -1,11 +1,15 @@
 {
 color = 6;
 glyphname = Ohorn;
-kernLeft = O;
-kernRight = Ohorn;
 layers = (
 {
-layerId = m019;
+anchors = (
+{
+name = top;
+pos = (301,729);
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 ref = O;
@@ -18,7 +22,51 @@ ref = horncomb;
 width = 618;
 },
 {
-layerId = m020;
+anchors = (
+{
+name = top;
+pos = (195,729);
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (129,183);
+ref = horncomb;
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = top;
+pos = (196,728);
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (163,167);
+ref = horncomb;
+}
+);
+width = 390;
+},
+{
+anchors = (
+{
+name = top;
+pos = (309,729);
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
 ref = O;
@@ -29,7 +77,46 @@ ref = horncomb;
 }
 );
 width = 618;
+},
+{
+anchors = (
+{
+name = top;
+pos = (404,729);
 }
 );
+layerId = m01;
+shapes = (
+{
+ref = O;
+},
+{
+pos = (226,184);
+ref = horncomb;
+}
+);
+width = 846;
+},
+{
+anchors = (
+{
+name = top;
+pos = (393,734);
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (312,99);
+ref = horncomb;
+}
+);
+width = 846;
+}
+);
+note = Ohorn;
 unicode = 416;
 }

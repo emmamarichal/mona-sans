@@ -1,15 +1,14 @@
 {
-color = 6;
 glyphname = Ecircumflexdotbelow.ss01;
 layers = (
 {
-layerId = m019;
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 shapes = (
 {
 ref = E;
 },
 {
-pos = (2,0);
+pos = (36,0);
 ref = dotbelowcomb.ss01;
 },
 {
@@ -20,13 +19,47 @@ ref = circumflexcomb;
 width = 618;
 },
 {
-layerId = m020;
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
 shapes = (
 {
 ref = E;
 },
 {
-pos = (-1,0);
+pos = (29,0);
+ref = dotbelowcomb.ss01;
+},
+{
+pos = (23,57);
+ref = circumflexcomb;
+}
+);
+width = 390;
+},
+{
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (11,0);
+ref = dotbelowcomb.ss01;
+},
+{
+pos = (8,50);
+ref = circumflexcomb;
+}
+);
+width = 390;
+},
+{
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (19,0);
 ref = dotbelowcomb.ss01;
 },
 {
@@ -35,6 +68,41 @@ ref = circumflexcomb;
 }
 );
 width = 618;
+},
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (25,0);
+ref = dotbelowcomb.ss01;
+},
+{
+pos = (10,57);
+ref = circumflexcomb;
 }
 );
+width = 846;
+},
+{
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
+shapes = (
+{
+ref = E;
+},
+{
+pos = (15,0);
+ref = dotbelowcomb.ss01;
+},
+{
+pos = (10,56);
+ref = circumflexcomb;
+}
+);
+width = 846;
+}
+);
+note = Ecircumflexdotbelow.ss01;
 }

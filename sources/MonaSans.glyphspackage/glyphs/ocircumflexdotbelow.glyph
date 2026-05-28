@@ -62,11 +62,19 @@ shapes = (
 ref = o;
 },
 {
+<<<<<<< HEAD
 pos = (204,0);
 ref = dotbelowcomb;
 },
 {
 pos = (66,-129);
+=======
+pos = (198,0);
+ref = dotbelowcomb;
+},
+{
+pos = (60,-129);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = circumflexcomb;
 }
 );
@@ -198,11 +206,19 @@ shapes = (
 ref = o;
 },
 {
+<<<<<<< HEAD
 pos = (237,0);
 ref = dotbelowcomb;
 },
 {
 pos = (22,-129);
+=======
+pos = (231,0);
+ref = dotbelowcomb;
+},
+{
+pos = (16,-129);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = circumflexcomb;
 }
 );

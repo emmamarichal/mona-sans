@@ -50,7 +50,11 @@ shapes = (
 ref = s;
 },
 {
+<<<<<<< HEAD
 pos = (98,0);
+=======
+pos = (92,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = cedillacomb;
 }
 );
@@ -154,7 +158,11 @@ shapes = (
 ref = s;
 },
 {
+<<<<<<< HEAD
 pos = (123,0);
+=======
+pos = (117,0);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = cedillacomb;
 }
 );

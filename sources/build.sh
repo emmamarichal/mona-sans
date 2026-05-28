@@ -105,4 +105,44 @@ echo "Static OTF: $(ls -1 fonts/static/otf/*.otf 2>/dev/null | wc -l)"
 echo "Variable WOFF2: $(ls -1 fonts/webfonts/variable/*.woff2 2>/dev/null | wc -l)"
 echo "Variable WOFF: $(ls -1 fonts/webfonts/variable/*.woff 2>/dev/null | wc -l)"
 echo "Static WOFF2: $(ls -1 fonts/webfonts/static/*.woff2 2>/dev/null | wc -l)"
+<<<<<<< HEAD
 echo "Static WOFF: $(ls -1 fonts/webfonts/static/*.woff 2>/dev/null | wc -l)"
+=======
+echo "Static WOFF: $(ls -1 fonts/webfonts/static/*.woff 2>/dev/null | wc -l)" 
+
+# Run fontbakery checks
+if command -v fontbakery >/dev/null 2>&1; then
+  echo ""
+  echo "Running fontbakery checks..."
+  mkdir -p fontbakery-reports
+
+  if ls fonts/variable/*.ttf 1> /dev/null 2>&1; then
+    echo "Checking variable fonts..."
+    fontbakery check-universal fonts/variable/*.ttf \
+      --loglevel WARN \
+      --html fontbakery-reports/variable.html \
+      || echo "fontbakery: variable font checks completed with findings (see report)"
+  fi
+
+  if ls fonts/static/ttf/*.ttf 1> /dev/null 2>&1; then
+    echo "Checking static TTF fonts..."
+    fontbakery check-universal fonts/static/ttf/*.ttf \
+      --loglevel WARN \
+      --html fontbakery-reports/static-ttf.html \
+      || echo "fontbakery: static TTF checks completed with findings (see report)"
+  fi
+
+  if ls fonts/static/otf/*.otf 1> /dev/null 2>&1; then
+    echo "Checking static OTF fonts..."
+    fontbakery check-universal fonts/static/otf/*.otf \
+      --loglevel WARN \
+      --html fontbakery-reports/static-otf.html \
+      || echo "fontbakery: static OTF checks completed with findings (see report)"
+  fi
+
+  echo "fontbakery reports saved to fontbakery-reports/"
+else
+  echo ""
+  echo "Note: fontbakery not found. Install with 'pip install fontbakery' to enable QA checks."
+fi
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca

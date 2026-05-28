@@ -50,7 +50,11 @@ shapes = (
 ref = g;
 },
 {
+<<<<<<< HEAD
 pos = (239,-134);
+=======
+pos = (233,-134);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = commaturnedabovecomb;
 }
 );
@@ -154,7 +158,11 @@ shapes = (
 ref = g;
 },
 {
+<<<<<<< HEAD
 pos = (215,-134);
+=======
+pos = (209,-134);
+>>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = commaturnedabovecomb;
 }
 );

@@ -1,50 +1,162 @@
 {
-export = 0;
 glyphname = strokeshortcomb.case.T;
 layers = (
 {
-anchors = (
+hints = (
 {
-name = _center;
-pos = (309,354);
+horizontal = 1;
+place = (338,33);
+type = Stem;
+},
+{
+place = (197,452);
+type = Stem;
 }
 );
-layerId = m019;
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
+(197,338,l),
+(649,338,l),
+(649,371,l),
+(197,371,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (337,34);
+type = Stem;
+},
+{
+place = (119,380);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(119,337,l),
 (499,337,l),
 (499,371,l),
-(119,371,l),
-(119,337,l)
+(119,371,l)
 );
 }
 );
 width = 618;
 },
 {
-anchors = (
+hints = (
 {
-name = _center;
-pos = (310,347);
+horizontal = 1;
+place = (264,166);
+type = Stem;
+},
+{
+place = (178,491);
+type = Stem;
 }
 );
-layerId = m020;
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
 closed = 1;
 nodes = (
+(178,264,l),
+(669,264,l),
+(669,430,l),
+(178,430,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (340,28);
+type = Stem;
+},
+{
+place = (86,218);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(86,340,l),
+(304,340,l),
+(304,368,l),
+(86,368,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (274,146);
+type = Stem;
+},
+{
+place = (52,287);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(52,274,l),
+(339,274,l),
+(339,420,l),
+(52,420,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (264,166);
+type = Stem;
+},
+{
+place = (89,441);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(89,264,l),
 (530,264,l),
 (530,430,l),
-(89,430,l),
-(89,264,l)
+(89,430,l)
 );
 }
 );
 width = 618;
 }
 );
-metricLeft = "=40";
-metricRight = "=40";
+note = strokeshortcomb.case.T;
 }

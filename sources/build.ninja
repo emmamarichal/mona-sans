@@ -1,0 +1,99 @@
+# buildVariable: Build a variable font from a source file
+rule buildVariable
+  command = $
+      /Users/kylewaynebenson/Documents/GitHub/mona-sans/.venv/bin/python -m $
+      gftools.builder.jobrunner fontmake --output-path $out -o variable $
+      $fontmake_type $in $args $stamp
+  description = buildVariable
+
+# subspace: Run varLib.instancer to subspace a variable font
+rule subspace
+  command = $
+      /Users/kylewaynebenson/Documents/GitHub/mona-sans/.venv/bin/python -m $
+      gftools.builder.jobrunner fonttools varLib.instancer $args -o $out $
+      $in $axes $stamp
+  description = subspace
+
+# fix: Run gftools-fix
+rule fix
+  command = $
+      /Users/kylewaynebenson/Documents/GitHub/mona-sans/.venv/bin/python -m $
+      gftools.builder.jobrunner gftools-fix-font -o $out $args $in $stamp
+  description = fix
+
+# exec: Run an arbitrary executable
+rule exec
+  command = $
+      /Users/kylewaynebenson/Documents/GitHub/mona-sans/.venv/bin/python -m $
+      gftools.builder.jobrunner $exe $args $stamp
+  description = exec
+
+# buildStat: Build a STAT table from one or more source files
+rule buildSTAT-operation
+  command = gftools-gen-stat --out $tempdir $args -- $in && mv $finalfile $
+      $out $stamp
+rule buildSTAT-postprocess
+  command = gftools-gen-stat --inplace $args -- $in $stamp
+
+# copy: Copy a file
+rule copy
+  command = $
+      /Users/kylewaynebenson/Documents/GitHub/mona-sans/.venv/bin/python -m $
+      gftools.builder.jobrunner cp $in $out $stamp
+  description = copy
+
+# Generating /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmp4dgi5rbb
+build /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmp4dgi5rbb: $
+    buildVariable MonaSans.glyphspackage
+  operation = buildVariable
+  args = --filter ...  --filter FlattenComponentsFilter --filter $
+      DecomposeTransformedComponentsFilter
+  fontmake_type = -g
+  fontmake_args =  --verbose WARNING 
+# Postprocessing  with BuildSTAT
+build $
+    /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmp6cb7qhvt.buildStatstamp: $
+    buildSTAT-postprocess $
+    ../googlefonts/variable/MonaSans[opsz,wdth,wght].ttf $
+    ../googlefonts/variable/MonaSans-Italic[opsz,wdth,wght].ttf | $
+    ../googlefonts/variable/MonaSans[opsz,wdth,wght].ttf $
+    ../googlefonts/variable/MonaSans-Italic[opsz,wdth,wght].ttf
+  stamp =  && touch $
+      /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmp6cb7qhvt.buildStatstamp
+  postprocess = buildStat
+  args = --src /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpvk_mkre2
+# Generating /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpkmtv3kw2
+build /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpkmtv3kw2: $
+    subspace /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmp4dgi5rbb
+  operation = subspace
+  axes = ital=0
+# Generating /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpb5esnfav
+build /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpb5esnfav: $
+    subspace /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmp4dgi5rbb
+  operation = subspace
+  axes = ital=1
+# Generating ../googlefonts/variable/MonaSans[opsz,wdth,wght].ttf
+build ../googlefonts/variable/MonaSans[opsz,wdth,wght].ttf: fix $
+    /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpkmtv3kw2
+  operation = fix
+  args = 
+# Generating /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpnmm38vfw
+build /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpnmm38vfw: exec $
+    /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpb5esnfav
+  exe = gftools-fontsetter
+  args = -o /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpnmm38vfw $
+      /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpb5esnfav $
+      /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpa5mex3wo
+# Generating /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmp5zc0uyv5
+build /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmp5zc0uyv5: fix $
+    /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmpnmm38vfw
+  operation = fix
+  args = --include-source-fixes
+# Generating ../googlefonts/variable/MonaSans-Italic[opsz,wdth,wght].ttf
+build ../googlefonts/variable/MonaSans-Italic[opsz,wdth,wght].ttf: fix $
+    /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmp5zc0uyv5
+  operation = fix
+  args = 
+default $
+    /var/folders/m9/6sctt7ss0zj0zb9xy77md5zr0000gn/T/tmp6cb7qhvt.buildStatstamp $
+    ../googlefonts/variable/MonaSans[opsz,wdth,wght].ttf
