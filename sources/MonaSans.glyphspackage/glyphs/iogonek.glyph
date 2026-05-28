@@ -31,7 +31,7 @@ pos = (-18,-137);
 ref = dotaccentcomb;
 },
 {
-pos = (15,0);
+pos = (7,0);
 ref = ogonekcomb;
 }
 );
@@ -65,7 +65,7 @@ pos = (-4,-129);
 ref = dotaccentcomb;
 },
 {
-pos = (-37,0);
+pos = (-43,0);
 ref = ogonekcomb;
 }
 );
@@ -82,7 +82,7 @@ pos = (31,-133);
 ref = dotaccentcomb;
 },
 {
-pos = (-35,0);
+pos = (-38,0);
 ref = ogonekcomb;
 }
 );
@@ -99,7 +99,7 @@ pos = (18,-120);
 ref = dotaccentcomb;
 },
 {
-pos = (-24,0);
+pos = (-23,0);
 ref = ogonekcomb;
 }
 );
@@ -133,7 +133,7 @@ pos = (-47,-137);
 ref = dotaccentcomb;
 },
 {
-pos = (13,0);
+pos = (5,0);
 ref = ogonekcomb;
 }
 );
@@ -180,15 +180,15 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-18,-155);
+pos = (-19,-155);
 ref = dotaccentcomb;
 },
 {
-pos = (-76,0);
+pos = (-77,0);
 ref = ogonekcomb;
 }
 );
-width = 170;
+width = 168;
 },
 {
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
@@ -201,7 +201,7 @@ pos = (-35,-129);
 ref = dotaccentcomb;
 },
 {
-pos = (-37,0);
+pos = (-43,0);
 ref = ogonekcomb;
 }
 );
@@ -218,7 +218,7 @@ pos = (8,-151);
 ref = dotaccentcomb;
 },
 {
-pos = (-70,0);
+pos = (-50,0);
 ref = ogonekcomb;
 }
 );
@@ -235,7 +235,7 @@ pos = (-19,-137);
 ref = dotaccentcomb;
 },
 {
-pos = (-4,0);
+pos = (6,0);
 ref = ogonekcomb;
 }
 );
@@ -252,7 +252,7 @@ pos = (25,-150);
 ref = dotaccentcomb;
 },
 {
-pos = (-66,0);
+pos = (-46,0);
 ref = ogonekcomb;
 }
 );
@@ -269,7 +269,7 @@ pos = (10,-134);
 ref = dotaccentcomb;
 },
 {
-pos = (-60,0);
+pos = (-39,0);
 ref = ogonekcomb;
 }
 );
@@ -326,7 +326,7 @@ pos = (-26,-156);
 ref = dotaccentcomb;
 },
 {
-pos = (-65,0);
+pos = (-42,0);
 ref = ogonekcomb;
 }
 );
@@ -343,7 +343,7 @@ pos = (-47,-137);
 ref = dotaccentcomb;
 },
 {
-pos = (-6,0);
+pos = (5,0);
 ref = ogonekcomb;
 }
 );
@@ -356,15 +356,15 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (2,-155);
+pos = (0,-155);
 ref = dotaccentcomb;
 },
 {
-pos = (-59,0);
+pos = (-37,0);
 ref = ogonekcomb;
 }
 );
-width = 162;
+width = 158;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -377,7 +377,7 @@ pos = (-17,-134);
 ref = dotaccentcomb;
 },
 {
-pos = (-63,0);
+pos = (-34,0);
 ref = ogonekcomb;
 }
 );
@@ -394,7 +394,7 @@ pos = (-19,-155);
 ref = dotaccentcomb;
 },
 {
-pos = (-87,0);
+pos = (-77,0);
 ref = ogonekcomb;
 }
 );
@@ -411,7 +411,7 @@ pos = (-35,-129);
 ref = dotaccentcomb;
 },
 {
-pos = (-58,0);
+pos = (-43,0);
 ref = ogonekcomb;
 }
 );

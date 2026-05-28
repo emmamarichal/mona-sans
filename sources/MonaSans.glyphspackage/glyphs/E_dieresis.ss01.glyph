@@ -24,7 +24,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (-26,51);
+pos = (-34,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (111,51);
+pos = (105,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (204,57);
+pos = (201,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -76,11 +76,11 @@ shapes = (
 ref = E;
 },
 {
-pos = (96,51);
+pos = (92,51);
 ref = dieresiscomb.ss01;
 }
 );
-width = 632;
+width = 627;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -102,7 +102,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (-12,51);
+pos = (-20,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (124,51);
+pos = (118,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (53,57);
+pos = (73,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -180,7 +180,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (-45,51);
+pos = (-35,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (151,57);
+pos = (171,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -206,7 +206,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (64,51);
+pos = (85,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -219,7 +219,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (182,57);
+pos = (192,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -232,7 +232,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (90,51);
+pos = (100,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -245,7 +245,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (46,57);
+pos = (69,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -258,7 +258,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (-31,51);
+pos = (-20,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -271,7 +271,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (175,57);
+pos = (199,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -284,7 +284,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (81,51);
+pos = (110,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -297,7 +297,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (213,57);
+pos = (223,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -310,7 +310,7 @@ shapes = (
 ref = E;
 },
 {
-pos = (103,51);
+pos = (118,51);
 ref = dieresiscomb.ss01;
 }
 );

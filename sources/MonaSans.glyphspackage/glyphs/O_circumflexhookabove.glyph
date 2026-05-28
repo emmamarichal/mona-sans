@@ -24,7 +24,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (49,51);
+pos = (41,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (175,56);
+pos = (169,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (240,57);
+pos = (237,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (160,51);
+pos = (161,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (61,51);
+pos = (53,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (159,56);
+pos = (153,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -182,7 +182,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (39,51);
+pos = (49,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -240,7 +240,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (176,56);
+pos = (186,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -253,7 +253,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (54,57);
+pos = (77,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -266,7 +266,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (40,51);
+pos = (51,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -279,7 +279,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (206,57);
+pos = (230,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -292,11 +292,11 @@ shapes = (
 ref = O;
 },
 {
-pos = (133,51);
+pos = (162,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
-width = 766;
+width = 767;
 },
 {
 layerId = "81AB4C8E-4968-429F-824B-C4C034789BE2";
@@ -305,7 +305,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (219,57);
+pos = (229,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -318,7 +318,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (179,56);
+pos = (194,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );

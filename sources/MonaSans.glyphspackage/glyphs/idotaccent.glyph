@@ -141,11 +141,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-18,-155);
+pos = (-19,-155);
 ref = dotaccentcomb;
 }
 );
-width = 170;
+width = 168;
 },
 {
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
@@ -275,11 +275,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (2,-155);
+pos = (0,-155);
 ref = dotaccentcomb;
 }
 );
-width = 162;
+width = 158;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";

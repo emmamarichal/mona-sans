@@ -24,7 +24,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (146,0);
+pos = (138,0);
 ref = ogonekcomb.e;
 }
 );
@@ -47,14 +47,9 @@ width = 615;
 layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
 shapes = (
 {
-alignment = -1;
 ref = e;
 },
 {
-<<<<<<< HEAD
-alignment = -1;
-=======
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 pos = (237,0);
 ref = ogonekcomb.e;
 }
@@ -68,7 +63,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (238,2);
+pos = (241,2);
 ref = ogonekcomb.e;
 }
 );
@@ -81,7 +76,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (192,0);
+pos = (197,0);
 ref = ogonekcomb.e;
 }
 );
@@ -107,7 +102,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (151,0);
+pos = (143,0);
 ref = ogonekcomb.e;
 }
 );
@@ -159,7 +154,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (254,0);
+pos = (248,0);
 ref = ogonekcomb.e;
 }
 );
@@ -172,7 +167,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (84,0);
+pos = (104,0);
 ref = ogonekcomb.e;
 }
 );
@@ -185,7 +180,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (131,0);
+pos = (141,0);
 ref = ogonekcomb.e;
 }
 );
@@ -198,7 +193,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (223,2);
+pos = (243,2);
 ref = ogonekcomb.e;
 }
 );
@@ -211,7 +206,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (177,0);
+pos = (198,0);
 ref = ogonekcomb.e;
 }
 );
@@ -224,7 +219,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (277,0);
+pos = (287,0);
 ref = ogonekcomb.e;
 }
 );
@@ -237,7 +232,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (234,0);
+pos = (244,0);
 ref = ogonekcomb.e;
 }
 );
@@ -250,7 +245,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (78,0);
+pos = (101,0);
 ref = ogonekcomb.e;
 }
 );
@@ -263,7 +258,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (136,0);
+pos = (147,0);
 ref = ogonekcomb.e;
 }
 );
@@ -276,7 +271,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (241,2);
+pos = (265,2);
 ref = ogonekcomb.e;
 }
 );
@@ -289,7 +284,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (203,0);
+pos = (232,0);
 ref = ogonekcomb.e;
 }
 );
@@ -302,7 +297,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (295,0);
+pos = (305,0);
 ref = ogonekcomb.e;
 }
 );
@@ -315,7 +310,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (245,0);
+pos = (260,0);
 ref = ogonekcomb.e;
 }
 );

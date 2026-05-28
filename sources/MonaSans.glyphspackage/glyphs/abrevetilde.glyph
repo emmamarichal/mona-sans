@@ -24,7 +24,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (49,-137);
+pos = (41,-137);
 ref = brevecomb_tildecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (116,-129);
+pos = (110,-129);
 ref = brevecomb_tildecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (129,-155);
+pos = (126,-155);
 ref = brevecomb_tildecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (94,-134);
+pos = (95,-134);
 ref = brevecomb_tildecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (14,-137);
+pos = (6,-137);
 ref = brevecomb_tildecomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (87,-129);
+pos = (81,-129);
 ref = brevecomb_tildecomb;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (23,-156);
+pos = (43,-156);
 ref = brevecomb_tildecomb;
 }
 );
@@ -180,11 +180,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (34,-137);
+pos = (42,-137);
 ref = brevecomb_tildecomb;
 }
 );
-width = 452;
+width = 450;
 },
 {
 layerId = "E97B55C1-E583-4247-91FF-22E95A4A75BA";
@@ -193,11 +193,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (110,-155);
+pos = (127,-155);
 ref = brevecomb_tildecomb;
 }
 );
-width = 548;
+width = 545;
 },
 {
 layerId = "0B275536-62AC-4C56-AB54-CAFC17136928";
@@ -206,7 +206,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (80,-134);
+pos = (101,-134);
 ref = brevecomb_tildecomb;
 }
 );
@@ -219,11 +219,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (162,-155);
+pos = (168,-155);
 ref = brevecomb_tildecomb;
 }
 );
-width = 651;
+width = 647;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";
@@ -232,7 +232,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (114,-129);
+pos = (124,-129);
 ref = brevecomb_tildecomb;
 }
 );
@@ -245,7 +245,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-22,-157);
+pos = (1,-157);
 ref = brevecomb_tildecomb;
 }
 );
@@ -258,7 +258,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (-3,-137);
+pos = (8,-137);
 ref = brevecomb_tildecomb;
 }
 );
@@ -271,11 +271,11 @@ shapes = (
 ref = a;
 },
 {
-pos = (75,-155);
+pos = (98,-155);
 ref = brevecomb_tildecomb;
 }
 );
-width = 542;
+width = 541;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -284,7 +284,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (33,-134);
+pos = (62,-134);
 ref = brevecomb_tildecomb;
 }
 );
@@ -297,7 +297,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (101,-155);
+pos = (111,-155);
 ref = brevecomb_tildecomb;
 }
 );
@@ -310,7 +310,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (77,-129);
+pos = (92,-129);
 ref = brevecomb_tildecomb;
 }
 );

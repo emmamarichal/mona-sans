@@ -23,7 +23,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (18,-137);
+pos = (10,-137);
 ref = caroncomb;
 }
 );
@@ -36,7 +36,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (135,-155);
+pos = (132,-155);
 ref = caroncomb;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (61,-134);
+pos = (62,-134);
 ref = caroncomb;
 }
 );
@@ -75,11 +75,7 @@ shapes = (
 ref = o;
 },
 {
-<<<<<<< HEAD
-pos = (66,-129);
-=======
 pos = (60,-129);
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = caroncomb;
 }
 );
@@ -105,7 +101,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-8,-137);
+pos = (-16,-137);
 ref = caroncomb;
 }
 );
@@ -157,11 +153,7 @@ shapes = (
 ref = o;
 },
 {
-<<<<<<< HEAD
-pos = (24,-129);
-=======
 pos = (18,-129);
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = caroncomb;
 }
 );
@@ -174,7 +166,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (19,-156);
+pos = (39,-156);
 ref = caroncomb;
 }
 );
@@ -187,7 +179,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (3,-137);
+pos = (13,-137);
 ref = caroncomb;
 }
 );
@@ -200,7 +192,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (115,-155);
+pos = (135,-155);
 ref = caroncomb;
 }
 );
@@ -213,7 +205,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (40,-134);
+pos = (61,-134);
 ref = caroncomb;
 }
 );
@@ -226,7 +218,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (147,-155);
+pos = (157,-155);
 ref = caroncomb;
 }
 );
@@ -239,7 +231,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (60,-129);
+pos = (70,-129);
 ref = caroncomb;
 }
 );
@@ -252,7 +244,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-19,-156);
+pos = (4,-156);
 ref = caroncomb;
 }
 );
@@ -265,7 +257,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-23,-137);
+pos = (-12,-137);
 ref = caroncomb;
 }
 );
@@ -278,7 +270,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (59,-155);
+pos = (83,-155);
 ref = caroncomb;
 }
 );
@@ -291,7 +283,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (-6,-134);
+pos = (23,-134);
 ref = caroncomb;
 }
 );
@@ -304,7 +296,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (87,-155);
+pos = (97,-155);
 ref = caroncomb;
 }
 );
@@ -317,7 +309,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (25,-129);
+pos = (40,-129);
 ref = caroncomb;
 }
 );

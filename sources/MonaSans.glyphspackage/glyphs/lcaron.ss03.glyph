@@ -22,7 +22,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (187,0);
+pos = (179,0);
 ref = caroncomb.alt;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (254,0);
+pos = (248,0);
 ref = caroncomb.alt;
 }
 );
@@ -61,11 +61,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-<<<<<<< HEAD
-pos = (140,0);
-=======
 pos = (143,30);
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = caroncomb.alt;
 }
 );
@@ -78,11 +74,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-<<<<<<< HEAD
-pos = (210,0);
-=======
 pos = (215,30);
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = caroncomb.alt;
 }
 );
@@ -108,7 +100,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (185,0);
+pos = (177,0);
 ref = caroncomb.alt;
 }
 );
@@ -160,7 +152,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (248,0);
+pos = (242,0);
 ref = caroncomb.alt;
 }
 );
@@ -173,7 +165,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (75,0);
+pos = (95,0);
 ref = caroncomb.alt;
 }
 );
@@ -186,7 +178,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (169,0);
+pos = (179,0);
 ref = caroncomb.alt;
 }
 );
@@ -199,7 +191,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (119,0);
+pos = (139,0);
 ref = caroncomb.alt;
 }
 );
@@ -227,7 +219,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (119,0);
+pos = (129,0);
 ref = caroncomb.alt;
 }
 );
@@ -240,7 +232,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (238,0);
+pos = (248,0);
 ref = caroncomb.alt;
 }
 );
@@ -253,7 +245,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (76,0);
+pos = (99,0);
 ref = caroncomb.alt;
 }
 );
@@ -266,7 +258,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (166,0);
+pos = (177,0);
 ref = caroncomb.alt;
 }
 );
@@ -279,7 +271,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (122,0);
+pos = (146,0);
 ref = caroncomb.alt;
 }
 );
@@ -292,7 +284,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (200,0);
+pos = (229,0);
 ref = caroncomb.alt;
 }
 );
@@ -305,7 +297,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (117,0);
+pos = (127,0);
 ref = caroncomb.alt;
 }
 );
@@ -318,7 +310,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (227,0);
+pos = (242,0);
 ref = caroncomb.alt;
 }
 );

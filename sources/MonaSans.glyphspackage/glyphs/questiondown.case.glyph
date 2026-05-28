@@ -131,7 +131,7 @@ pos = (0,213);
 ref = questiondown;
 }
 );
-width = 280;
+width = 324;
 },
 {
 layerId = "BBBD8BC5-1445-4217-985E-4C596438DA38";
@@ -152,7 +152,7 @@ pos = (0,213);
 ref = questiondown;
 }
 );
-width = 487;
+width = 509;
 },
 {
 layerId = "0B275536-62AC-4C56-AB54-CAFC17136928";
@@ -163,7 +163,7 @@ pos = (0,184);
 ref = questiondown;
 }
 );
-width = 563;
+width = 552;
 },
 {
 layerId = "672F45B7-BA56-43A0-BBB6-CC0745727C88";
@@ -174,7 +174,7 @@ pos = (0,213);
 ref = questiondown;
 }
 );
-width = 551;
+width = 528;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";

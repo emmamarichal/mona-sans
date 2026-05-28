@@ -27,7 +27,7 @@ pos = (22,0);
 ref = l.ss03;
 },
 {
-pos = (-20,73);
+pos = (-28,73);
 ref = slashshortcomb;
 }
 );
@@ -57,7 +57,7 @@ pos = (21,0);
 ref = l.ss03;
 },
 {
-pos = (-21,63);
+pos = (-27,63);
 ref = slashshortcomb;
 }
 );
@@ -72,7 +72,7 @@ pos = (19,0);
 ref = l.ss03;
 },
 {
-pos = (-9,23);
+pos = (-12,23);
 ref = slashshortcomb;
 }
 );
@@ -87,7 +87,7 @@ pos = (19,0);
 ref = l.ss03;
 },
 {
-pos = (-11,63);
+pos = (-10,63);
 ref = slashshortcomb;
 }
 );
@@ -117,7 +117,7 @@ pos = (23,0);
 ref = l.ss03;
 },
 {
-pos = (-5,73);
+pos = (-13,73);
 ref = slashshortcomb;
 }
 );
@@ -177,7 +177,7 @@ pos = (25,0);
 ref = l.ss03;
 },
 {
-pos = (-9,63);
+pos = (-15,63);
 ref = slashshortcomb;
 }
 );
@@ -192,7 +192,7 @@ pos = (7,0);
 ref = l.ss03;
 },
 {
-pos = (-43,11);
+pos = (-23,11);
 ref = slashshortcomb;
 }
 );
@@ -207,7 +207,7 @@ pos = (22,0);
 ref = l.ss03;
 },
 {
-pos = (-38,73);
+pos = (-28,73);
 ref = slashshortcomb;
 }
 );
@@ -222,7 +222,7 @@ pos = (19,0);
 ref = l.ss03;
 },
 {
-pos = (-32,23);
+pos = (-12,23);
 ref = slashshortcomb;
 }
 );
@@ -237,7 +237,7 @@ pos = (19,0);
 ref = l.ss03;
 },
 {
-pos = (-37,63);
+pos = (-16,63);
 ref = slashshortcomb;
 }
 );
@@ -252,7 +252,7 @@ pos = (27,0);
 ref = l.ss03;
 },
 {
-pos = (-35,23);
+pos = (-25,23);
 ref = slashshortcomb;
 }
 );
@@ -267,7 +267,7 @@ pos = (21,0);
 ref = l.ss03;
 },
 {
-pos = (-37,63);
+pos = (-27,63);
 ref = slashshortcomb;
 }
 );
@@ -282,7 +282,7 @@ pos = (7,0);
 ref = l.ss03;
 },
 {
-pos = (-43,11);
+pos = (-20,11);
 ref = slashshortcomb;
 }
 );
@@ -297,7 +297,7 @@ pos = (23,0);
 ref = l.ss03;
 },
 {
-pos = (-24,73);
+pos = (-13,73);
 ref = slashshortcomb;
 }
 );
@@ -312,7 +312,7 @@ pos = (20,0);
 ref = l.ss03;
 },
 {
-pos = (-31,23);
+pos = (-7,23);
 ref = slashshortcomb;
 }
 );
@@ -327,7 +327,7 @@ pos = (19,0);
 ref = l.ss03;
 },
 {
-pos = (-32,58);
+pos = (-3,58);
 ref = slashshortcomb;
 }
 );
@@ -342,7 +342,7 @@ pos = (30,0);
 ref = l.ss03;
 },
 {
-pos = (-30,23);
+pos = (-20,23);
 ref = slashshortcomb;
 }
 );
@@ -357,7 +357,7 @@ pos = (25,0);
 ref = l.ss03;
 },
 {
-pos = (-30,63);
+pos = (-15,63);
 ref = slashshortcomb;
 }
 );

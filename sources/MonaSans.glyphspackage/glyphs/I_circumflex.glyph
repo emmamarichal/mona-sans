@@ -23,7 +23,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-86,51);
+pos = (-94,51);
 ref = circumflexcomb;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-123,56);
+pos = (-129,56);
 ref = circumflexcomb;
 }
 );
@@ -62,7 +62,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-36,57);
+pos = (-39,57);
 ref = circumflexcomb;
 }
 );
@@ -75,11 +75,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (-77,51);
+pos = (-76,51);
 ref = circumflexcomb;
 }
 );
-width = 326;
+width = 327;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -101,7 +101,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-78,51);
+pos = (-86,51);
 ref = circumflexcomb;
 }
 );
@@ -150,11 +150,9 @@ width = 182;
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
 shapes = (
 {
-alignment = -1;
 ref = I;
 },
 {
-alignment = -1;
 pos = (-120,56);
 ref = circumflexcomb;
 }
@@ -168,7 +166,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-71,57);
+pos = (-51,57);
 ref = circumflexcomb;
 }
 );
@@ -181,7 +179,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-105,51);
+pos = (-95,51);
 ref = circumflexcomb;
 }
 );
@@ -194,7 +192,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-75,57);
+pos = (-55,57);
 ref = circumflexcomb;
 }
 );
@@ -207,7 +205,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-115,51);
+pos = (-94,51);
 ref = circumflexcomb;
 }
 );
@@ -235,7 +233,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-144,56);
+pos = (-134,56);
 ref = circumflexcomb;
 }
 );
@@ -248,7 +246,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-59,57);
+pos = (-36,57);
 ref = circumflexcomb;
 }
 );
@@ -261,7 +259,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-97,51);
+pos = (-86,51);
 ref = circumflexcomb;
 }
 );
@@ -274,7 +272,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-66,57);
+pos = (-42,57);
 ref = circumflexcomb;
 }
 );
@@ -287,7 +285,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-104,51);
+pos = (-75,51);
 ref = circumflexcomb;
 }
 );
@@ -300,7 +298,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-88,57);
+pos = (-78,57);
 ref = circumflexcomb;
 }
 );
@@ -313,7 +311,7 @@ shapes = (
 ref = I;
 },
 {
-pos = (-135,56);
+pos = (-120,56);
 ref = circumflexcomb;
 }
 );

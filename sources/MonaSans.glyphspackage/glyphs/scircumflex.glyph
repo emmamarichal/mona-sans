@@ -24,7 +24,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (4,-137);
+pos = (-4,-137);
 ref = circumflexcomb;
 }
 );
@@ -50,11 +50,7 @@ shapes = (
 ref = s;
 },
 {
-<<<<<<< HEAD
-pos = (32,-129);
-=======
 pos = (26,-129);
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = circumflexcomb;
 }
 );
@@ -67,7 +63,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (81,-155);
+pos = (78,-155);
 ref = circumflexcomb;
 }
 );
@@ -80,7 +76,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (26,-134);
+pos = (27,-134);
 ref = circumflexcomb;
 }
 );
@@ -106,7 +102,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (-43,-137);
+pos = (-51,-137);
 ref = circumflexcomb;
 }
 );
@@ -158,11 +154,7 @@ shapes = (
 ref = s;
 },
 {
-<<<<<<< HEAD
-pos = (-25,-129);
-=======
 pos = (-31,-129);
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = circumflexcomb;
 }
 );
@@ -190,7 +182,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (-14,-137);
+pos = (-4,-137);
 ref = circumflexcomb;
 }
 );
@@ -248,7 +240,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (20,-129);
+pos = (30,-129);
 ref = circumflexcomb;
 }
 );
@@ -261,7 +253,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (-51,-156);
+pos = (-28,-156);
 ref = circumflexcomb;
 }
 );
@@ -274,7 +266,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (-60,-137);
+pos = (-49,-137);
 ref = circumflexcomb;
 }
 );
@@ -287,7 +279,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (-12,-155);
+pos = (12,-155);
 ref = circumflexcomb;
 }
 );
@@ -300,7 +292,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (-42,-134);
+pos = (-13,-134);
 ref = circumflexcomb;
 }
 );
@@ -313,7 +305,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (10,-155);
+pos = (20,-155);
 ref = circumflexcomb;
 }
 );
@@ -326,7 +318,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (-40,-129);
+pos = (-25,-129);
 ref = circumflexcomb;
 }
 );

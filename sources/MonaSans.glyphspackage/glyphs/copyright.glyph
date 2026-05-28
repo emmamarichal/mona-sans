@@ -1257,7 +1257,7 @@ pos = (186,0);
 ref = _copyright.C;
 }
 );
-width = 658;
+width = 698;
 },
 {
 background = {
@@ -1347,7 +1347,7 @@ pos = (140,0);
 ref = _copyright.C;
 }
 );
-width = 686;
+width = 706;
 },
 {
 background = {
@@ -1523,7 +1523,7 @@ type = Stem;
 }
 );
 };
-width = 831;
+width = 871;
 },
 {
 background = {
@@ -1703,7 +1703,7 @@ pos = (191,0);
 ref = _copyright.C;
 }
 );
-width = 864;
+width = 884;
 },
 {
 background = {
@@ -1793,7 +1793,7 @@ pos = (154,0);
 ref = _copyright.C;
 }
 );
-width = 840;
+width = 860;
 },
 {
 background = {

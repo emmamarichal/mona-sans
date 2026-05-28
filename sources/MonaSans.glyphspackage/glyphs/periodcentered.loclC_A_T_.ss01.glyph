@@ -104,11 +104,7 @@ nodes = (
 );
 }
 );
-<<<<<<< HEAD
-width = 78;
-=======
 width = 76;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 anchors = (
@@ -129,11 +125,7 @@ nodes = (
 );
 }
 );
-<<<<<<< HEAD
-width = 174;
-=======
 width = 166;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 anchors = (
@@ -280,11 +272,7 @@ nodes = (
 );
 }
 );
-<<<<<<< HEAD
-width = 21;
-=======
 width = 61;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 anchors = (

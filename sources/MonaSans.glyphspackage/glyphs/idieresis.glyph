@@ -23,7 +23,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-101,-137);
+pos = (-109,-137);
 ref = dieresiscomb;
 }
 );
@@ -49,7 +49,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-123,-134);
+pos = (-129,-134);
 ref = dieresiscomb;
 }
 );
@@ -62,7 +62,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-54,-155);
+pos = (-57,-155);
 ref = dieresiscomb;
 }
 );
@@ -75,7 +75,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-85,-134);
+pos = (-84,-134);
 ref = dieresiscomb;
 }
 );
@@ -101,7 +101,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-138,-137);
+pos = (-146,-137);
 ref = dieresiscomb;
 }
 );
@@ -140,11 +140,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-123,-155);
+pos = (-124,-155);
 ref = dieresiscomb;
 }
 );
-width = 170;
+width = 168;
 },
 {
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
@@ -153,7 +153,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-154,-134);
+pos = (-160,-134);
 ref = dieresiscomb;
 }
 );
@@ -166,7 +166,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-67,-156);
+pos = (-47,-156);
 ref = dieresiscomb;
 }
 );
@@ -179,7 +179,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-120,-137);
+pos = (-110,-137);
 ref = dieresiscomb;
 }
 );
@@ -192,7 +192,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-85,-155);
+pos = (-65,-155);
 ref = dieresiscomb;
 }
 );
@@ -205,7 +205,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-117,-134);
+pos = (-96,-134);
 ref = dieresiscomb;
 }
 );
@@ -248,7 +248,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-104,-156);
+pos = (-81,-156);
 ref = dieresiscomb;
 }
 );
@@ -261,7 +261,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-157,-137);
+pos = (-146,-137);
 ref = dieresiscomb;
 }
 );
@@ -274,11 +274,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-112,-155);
+pos = (-90,-155);
 ref = dieresiscomb;
 }
 );
-width = 162;
+width = 158;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -287,7 +287,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-150,-134);
+pos = (-121,-134);
 ref = dieresiscomb;
 }
 );
@@ -300,7 +300,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-134,-155);
+pos = (-124,-155);
 ref = dieresiscomb;
 }
 );
@@ -313,7 +313,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-175,-134);
+pos = (-160,-134);
 ref = dieresiscomb;
 }
 );

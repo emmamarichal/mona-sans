@@ -247,11 +247,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (278,516);
+pos = (324,516);
 ref = question;
 }
 );
-width = 280;
+width = 324;
 },
 {
 layerId = "BBBD8BC5-1445-4217-985E-4C596438DA38";
@@ -271,7 +271,7 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (477,517);
+pos = (509,517);
 ref = question;
 }
 );
@@ -365,7 +365,7 @@ type = Stem;
 }
 );
 };
-width = 487;
+width = 509;
 },
 {
 layerId = "0B275536-62AC-4C56-AB54-CAFC17136928";
@@ -373,7 +373,7 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (560,544);
+pos = (552,544);
 ref = question;
 }
 );
@@ -381,7 +381,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = S;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = S;
 };
-width = 563;
+width = 552;
 },
 {
 layerId = "672F45B7-BA56-43A0-BBB6-CC0745727C88";
@@ -389,11 +389,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (545,517);
+pos = (528,517);
 ref = question;
 }
 );
-width = 551;
+width = 528;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";

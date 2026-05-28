@@ -24,7 +24,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (74,0);
+pos = (66,0);
 ref = commaaccentcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (257,0);
+pos = (251,0);
 ref = commaaccentcomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (294,0);
+pos = (291,0);
 ref = commaaccentcomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (235,0);
+pos = (236,0);
 ref = commaaccentcomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (71,0);
+pos = (63,0);
 ref = commaaccentcomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (268,0);
+pos = (262,0);
 ref = commaaccentcomb;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (86,0);
+pos = (106,0);
 ref = commaaccentcomb;
 }
 );
@@ -180,7 +180,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (57,0);
+pos = (67,0);
 ref = commaaccentcomb;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (277,0);
+pos = (297,0);
 ref = commaaccentcomb;
 }
 );
@@ -206,7 +206,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (205,0);
+pos = (226,0);
 ref = commaaccentcomb;
 }
 );
@@ -219,7 +219,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (336,0);
+pos = (346,0);
 ref = commaaccentcomb;
 }
 );
@@ -232,7 +232,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (253,0);
+pos = (263,0);
 ref = commaaccentcomb;
 }
 );
@@ -245,7 +245,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (90,0);
+pos = (113,0);
 ref = commaaccentcomb;
 }
 );
@@ -258,7 +258,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (56,0);
+pos = (67,0);
 ref = commaaccentcomb;
 }
 );
@@ -271,7 +271,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (286,0);
+pos = (310,0);
 ref = commaaccentcomb;
 }
 );
@@ -284,7 +284,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (210,0);
+pos = (239,0);
 ref = commaaccentcomb;
 }
 );
@@ -297,7 +297,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (344,0);
+pos = (354,0);
 ref = commaaccentcomb;
 }
 );
@@ -310,7 +310,7 @@ shapes = (
 ref = G.ss07;
 },
 {
-pos = (259,0);
+pos = (274,0);
 ref = commaaccentcomb;
 }
 );

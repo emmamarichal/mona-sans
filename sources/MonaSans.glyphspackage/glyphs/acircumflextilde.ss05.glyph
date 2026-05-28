@@ -24,7 +24,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (48,-137);
+pos = (40,-137);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (64,-129);
+pos = (58,-129);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (91,-155);
+pos = (88,-155);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (60,-134);
+pos = (61,-134);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-20,-137);
+pos = (-28,-137);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (18,-129);
+pos = (12,-129);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -182,7 +182,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (33,-137);
+pos = (43,-137);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -195,7 +195,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (75,-155);
+pos = (95,-155);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -223,7 +223,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (96,-155);
+pos = (106,-155);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -236,7 +236,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (48,-129);
+pos = (58,-129);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -249,7 +249,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-40,-156);
+pos = (-17,-156);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -262,7 +262,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-39,-137);
+pos = (-28,-137);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -275,7 +275,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (1,-155);
+pos = (25,-155);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -288,7 +288,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-34,-134);
+pos = (-5,-134);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -301,7 +301,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (20,-155);
+pos = (30,-155);
 ref = circumflexcomb_tildecomb;
 }
 );
@@ -314,7 +314,7 @@ shapes = (
 ref = a.ss05;
 },
 {
-pos = (-3,-129);
+pos = (12,-129);
 ref = circumflexcomb_tildecomb;
 }
 );

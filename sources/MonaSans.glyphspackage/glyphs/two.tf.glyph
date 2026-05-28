@@ -257,7 +257,7 @@ type = Stem;
 }
 );
 };
-width = 582;
+width = 593;
 },
 {
 background = {
@@ -333,7 +333,7 @@ monoWidth = 600;
 useSpacing = 70;
 };
 };
-width = 574;
+width = 581;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -613,7 +613,7 @@ monoWidth = 400;
 useSpacing = 90;
 };
 };
-width = 480;
+width = 440;
 },
 {
 layerId = "BBBD8BC5-1445-4217-985E-4C596438DA38";
@@ -654,7 +654,7 @@ monoWidth = 500;
 useSpacing = 70;
 };
 };
-width = 466;
+width = 460;
 },
 {
 layerId = "E97B55C1-E583-4247-91FF-22E95A4A75BA";
@@ -752,7 +752,7 @@ type = Stem;
 }
 );
 };
-width = 600;
+width = 560;
 },
 {
 background = {
@@ -828,7 +828,7 @@ monoWidth = 600;
 useSpacing = 70;
 };
 };
-width = 600;
+width = 558;
 },
 {
 layerId = "672F45B7-BA56-43A0-BBB6-CC0745727C88";
@@ -868,7 +868,7 @@ monoWidth = 640;
 useSpacing = 60;
 };
 };
-width = 720;
+width = 700;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";
@@ -907,7 +907,7 @@ RMXScaler = {
 monoWidth = 700;
 };
 };
-width = 720;
+width = 700;
 },
 {
 layerId = "A312EA11-A86D-4039-A6A0-3473E7FCFCBA";

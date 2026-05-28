@@ -30,11 +30,11 @@ pos = (247,0);
 ref = fraction;
 },
 {
-pos = (277,0);
+pos = (278,0);
 ref = four.dnom;
 }
 );
-width = 519;
+width = 520;
 },
 {
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
@@ -81,7 +81,7 @@ pos = (371,0);
 ref = fraction;
 },
 {
-pos = (450,0);
+pos = (448,0);
 ref = four.dnom;
 }
 );
@@ -89,7 +89,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = three.numr;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = three.numr;
 };
-width = 813;
+width = 811;
 },
 {
 layerId = m020;
@@ -102,7 +102,7 @@ pos = (334,0);
 ref = fraction;
 },
 {
-pos = (434,0);
+pos = (435,0);
 ref = four.dnom;
 }
 );
@@ -110,7 +110,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = three.numr;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = three.numr;
 };
-width = 799;
+width = 800;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -123,11 +123,11 @@ pos = (251,0);
 ref = fraction;
 },
 {
-pos = (288,0);
+pos = (290,0);
 ref = four.dnom;
 }
 );
-width = 529;
+width = 531;
 },
 {
 layerId = "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0";
@@ -140,19 +140,11 @@ pos = (282,0);
 ref = fraction;
 },
 {
-<<<<<<< HEAD
-pos = (401,0);
-ref = four.dnom;
-}
-);
-width = 698;
-=======
 pos = (403,0);
 ref = four.dnom;
 }
 );
 width = 700;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 layerId = "095FE76F-1953-440B-9108-AA0678D151F9";
@@ -182,11 +174,11 @@ pos = (361,0);
 ref = fraction;
 },
 {
-pos = (488,0);
+pos = (489,0);
 ref = four.dnom;
 }
 );
-width = 870;
+width = 871;
 },
 {
 layerId = "C17B1F32-8075-45B4-AA59-7DAFF0D7E404";
@@ -216,19 +208,11 @@ pos = (407,0);
 ref = fraction;
 },
 {
-<<<<<<< HEAD
-pos = (521,0);
-ref = four.dnom;
-}
-);
-width = 924;
-=======
 pos = (523,0);
 ref = four.dnom;
 }
 );
 width = 926;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 layerId = "F809B810-8CF1-453B-A5BE-CA3BE927A72B";

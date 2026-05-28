@@ -239,11 +239,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = f;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = l;
 };
-<<<<<<< HEAD
-width = 695;
-=======
 width = 701;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 background = {
@@ -390,11 +386,7 @@ pos = (188,0);
 ref = l;
 }
 );
-<<<<<<< HEAD
-width = 301;
-=======
 width = 289;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 background = {
@@ -617,7 +609,7 @@ width = 749;
 background = {
 shapes = (
 {
-pos = (17,0);
+pos = (12,0);
 ref = f;
 }
 );

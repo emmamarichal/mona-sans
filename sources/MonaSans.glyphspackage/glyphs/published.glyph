@@ -81,7 +81,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (201,0);
+pos = (193,0);
 ref = _published.P;
 }
 );
@@ -333,7 +333,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (218,0);
+pos = (212,0);
 ref = _published.P;
 }
 );
@@ -417,7 +417,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (290,0);
+pos = (293,0);
 ref = _published.P;
 }
 );
@@ -603,7 +603,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (219,0);
+pos = (224,0);
 ref = _published.P;
 }
 );
@@ -775,7 +775,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (165,0);
+pos = (157,0);
 ref = _published.P;
 }
 );
@@ -1111,7 +1111,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (187,0);
+pos = (181,0);
 ref = _published.P;
 }
 );
@@ -1199,7 +1199,7 @@ pos = (243,0);
 ref = _published.P;
 }
 );
-width = 658;
+width = 698;
 },
 {
 background = {
@@ -1283,7 +1283,7 @@ pos = (193,0);
 ref = _published.P;
 }
 );
-width = 686;
+width = 706;
 },
 {
 background = {
@@ -1469,7 +1469,7 @@ type = Stem;
 }
 );
 };
-width = 831;
+width = 871;
 },
 {
 background = {
@@ -1557,7 +1557,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = copyright;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = copyright;
 };
-width = 813;
+width = 835;
 },
 {
 background = {
@@ -1641,7 +1641,7 @@ pos = (266,0);
 ref = _published.P;
 }
 );
-width = 864;
+width = 884;
 },
 {
 background = {
@@ -1725,7 +1725,7 @@ pos = (212,0);
 ref = _published.P;
 }
 );
-width = 840;
+width = 860;
 },
 {
 background = {
@@ -1805,7 +1805,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (192,0);
+pos = (215,0);
 ref = _published.P;
 }
 );
@@ -1889,7 +1889,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (146,0);
+pos = (157,0);
 ref = _published.P;
 }
 );
@@ -1973,7 +1973,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (238,0);
+pos = (262,0);
 ref = _published.P;
 }
 );
@@ -2057,7 +2057,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (163,0);
+pos = (192,0);
 ref = _published.P;
 }
 );
@@ -2141,7 +2141,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (224,0);
+pos = (234,0);
 ref = _published.P;
 }
 );
@@ -2225,7 +2225,7 @@ ref = whiteCircle;
 },
 {
 alignment = 1;
-pos = (166,0);
+pos = (181,0);
 ref = _published.P;
 }
 );

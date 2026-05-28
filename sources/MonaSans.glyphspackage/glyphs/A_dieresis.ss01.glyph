@@ -24,7 +24,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (33,51);
+pos = (25,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (180,51);
+pos = (174,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (203,57);
+pos = (200,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (149,51);
+pos = (150,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (39,51);
+pos = (31,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (197,51);
+pos = (191,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (69,57);
+pos = (89,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -180,7 +180,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (15,51);
+pos = (25,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (192,57);
+pos = (212,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -206,7 +206,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (145,51);
+pos = (166,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -219,7 +219,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (272,57);
+pos = (282,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -232,7 +232,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (179,51);
+pos = (189,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -245,7 +245,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (73,57);
+pos = (96,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -258,7 +258,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (20,51);
+pos = (31,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -271,7 +271,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (200,57);
+pos = (224,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -284,7 +284,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (154,51);
+pos = (183,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -297,7 +297,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (277,57);
+pos = (287,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -310,7 +310,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (174,51);
+pos = (189,51);
 ref = dieresiscomb.ss01;
 }
 );

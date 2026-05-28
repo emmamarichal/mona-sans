@@ -24,7 +24,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (27,0);
+pos = (19,0);
 ref = cedillacomb;
 }
 );
@@ -47,14 +47,9 @@ width = 606;
 layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
 shapes = (
 {
-alignment = -1;
 ref = c;
 },
 {
-<<<<<<< HEAD
-alignment = -1;
-=======
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 pos = (121,0);
 ref = cedillacomb;
 }
@@ -68,7 +63,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (153,0);
+pos = (150,0);
 ref = cedillacomb;
 }
 );
@@ -81,7 +76,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (88,0);
+pos = (89,0);
 ref = cedillacomb;
 }
 );
@@ -107,7 +102,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (26,0);
+pos = (18,0);
 ref = cedillacomb;
 }
 );
@@ -159,7 +154,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (152,0);
+pos = (146,0);
 ref = cedillacomb;
 }
 );
@@ -172,7 +167,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (8,0);
+pos = (28,0);
 ref = cedillacomb;
 }
 );
@@ -185,7 +180,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (12,0);
+pos = (22,0);
 ref = cedillacomb;
 }
 );
@@ -198,7 +193,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (133,0);
+pos = (153,0);
 ref = cedillacomb;
 }
 );
@@ -241,7 +236,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (117,0);
+pos = (127,0);
 ref = cedillacomb;
 }
 );
@@ -254,7 +249,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (26,0);
+pos = (49,0);
 ref = cedillacomb;
 }
 );
@@ -267,7 +262,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (11,0);
+pos = (22,0);
 ref = cedillacomb;
 }
 );
@@ -280,7 +275,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (144,0);
+pos = (168,0);
 ref = cedillacomb;
 }
 );
@@ -293,7 +288,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (98,0);
+pos = (127,0);
 ref = cedillacomb;
 }
 );
@@ -306,7 +301,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (185,0);
+pos = (195,0);
 ref = cedillacomb;
 }
 );
@@ -319,7 +314,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (143,0);
+pos = (158,0);
 ref = cedillacomb;
 }
 );

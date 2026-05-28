@@ -160,11 +160,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (126,516);
+pos = (165,516);
 ref = exclam;
 }
 );
-width = 125;
+width = 165;
 },
 {
 layerId = "BBBD8BC5-1445-4217-985E-4C596438DA38";
@@ -172,11 +172,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (206,541);
+pos = (227,541);
 ref = exclam;
 }
 );
-width = 207;
+width = 227;
 },
 {
 layerId = "E97B55C1-E583-4247-91FF-22E95A4A75BA";
@@ -200,7 +200,7 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (246,544);
+pos = (268,544);
 ref = exclam;
 }
 );
@@ -208,7 +208,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = exclam;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = exclam;
 };
-width = 246;
+width = 268;
 },
 {
 layerId = "672F45B7-BA56-43A0-BBB6-CC0745727C88";
@@ -216,11 +216,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (160,517);
+pos = (180,517);
 ref = exclam;
 }
 );
-width = 160;
+width = 180;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";

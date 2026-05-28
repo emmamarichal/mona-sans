@@ -28,16 +28,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (113,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (116,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (59,-137);
+pos = (51,-137);
 ref = brevecomb;
 }
 );
@@ -67,16 +62,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (187,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (169,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (92,-129);
+pos = (86,-129);
 ref = brevecomb;
 }
 );
@@ -89,16 +79,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (194,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (178,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (87,-161);
+pos = (84,-161);
 ref = brevecomb;
 }
 );
@@ -111,16 +96,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (151,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (165,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (88,-134);
+pos = (89,-134);
 ref = brevecomb;
 }
 );
@@ -150,16 +130,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (150,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (151,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (-9,-137);
+pos = (-17,-137);
 ref = brevecomb;
 }
 );
@@ -223,16 +198,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (188,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (168,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (41,-134);
+pos = (35,-134);
 ref = brevecomb;
 }
 );
@@ -262,16 +232,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (98,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (119,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (44,-137);
+pos = (54,-137);
 ref = brevecomb;
 }
 );
@@ -284,16 +249,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (180,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (187,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (71,-161);
+pos = (91,-161);
 ref = brevecomb;
 }
 );
@@ -323,16 +283,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (216,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (213,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (101,-155);
+pos = (111,-155);
 ref = brevecomb;
 }
 );
@@ -345,16 +300,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (171,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (169,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (76,-129);
+pos = (86,-129);
 ref = brevecomb;
 }
 );
@@ -367,16 +317,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (81,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (96,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (-39,-156);
+pos = (-16,-156);
 ref = brevecomb;
 }
 );
@@ -389,16 +334,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (131,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (151,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (-28,-137);
+pos = (-17,-137);
 ref = brevecomb;
 }
 );
@@ -411,16 +351,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (174,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (185,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (4,-155);
+pos = (28,-155);
 ref = brevecomb;
 }
 );
@@ -433,16 +368,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (149,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (187,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (-19,-134);
+pos = (10,-134);
 ref = brevecomb;
 }
 );
@@ -455,16 +385,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (254,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (253,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (21,-155);
+pos = (31,-155);
 ref = brevecomb;
 }
 );
@@ -477,16 +402,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (167,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (168,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (20,-134);
+pos = (35,-134);
 ref = brevecomb;
 }
 );

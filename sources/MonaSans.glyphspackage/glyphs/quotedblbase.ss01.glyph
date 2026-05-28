@@ -339,7 +339,7 @@ pos = (100,0);
 ref = comma.ss01;
 }
 );
-width = 187;
+width = 222;
 },
 {
 background = {
@@ -391,7 +391,7 @@ pos = (140,0);
 ref = comma.ss01;
 }
 );
-width = 267;
+width = 302;
 },
 {
 background = {
@@ -417,7 +417,7 @@ pos = (260,0);
 ref = comma.ss01;
 }
 );
-width = 475;
+width = 494;
 },
 {
 background = {
@@ -443,7 +443,7 @@ pos = (120,0);
 ref = comma.ss01;
 }
 );
-width = 237;
+width = 257;
 },
 {
 background = {
@@ -469,7 +469,7 @@ pos = (270,0);
 ref = comma.ss01;
 }
 );
-width = 527;
+width = 542;
 },
 {
 background = {

@@ -256,7 +256,7 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (336,729);
+pos = (377,729);
 ref = braceleft.case;
 }
 );
@@ -350,7 +350,7 @@ type = Stem;
 }
 );
 };
-width = 335;
+width = 377;
 },
 {
 layerId = "0B275536-62AC-4C56-AB54-CAFC17136928";
@@ -358,7 +358,7 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (393,729);
+pos = (416,729);
 ref = braceleft.case;
 }
 );
@@ -366,7 +366,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = braceright;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = braceright;
 };
-width = 396;
+width = 416;
 },
 {
 layerId = "672F45B7-BA56-43A0-BBB6-CC0745727C88";
@@ -374,11 +374,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (352,729);
+pos = (373,729);
 ref = braceleft.case;
 }
 );
-width = 351;
+width = 373;
 },
 {
 layerId = "155B42D5-FD83-4BB6-AC0D-930BEE350254";

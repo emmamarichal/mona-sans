@@ -24,7 +24,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (51,51);
+pos = (43,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (174,56);
+pos = (168,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (176,57);
+pos = (173,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (132,51);
+pos = (133,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (58,51);
+pos = (50,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (184,56);
+pos = (178,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (47,57);
+pos = (67,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -180,7 +180,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (33,51);
+pos = (43,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -193,7 +193,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (163,57);
+pos = (183,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -221,7 +221,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (237,57);
+pos = (247,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -234,7 +234,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (173,56);
+pos = (183,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -247,7 +247,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (54,57);
+pos = (77,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -260,7 +260,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (39,51);
+pos = (50,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -273,7 +273,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (173,57);
+pos = (197,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -286,7 +286,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (140,51);
+pos = (169,51);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -299,7 +299,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (236,57);
+pos = (246,57);
 ref = circumflexcomb_hookabovecomb;
 }
 );
@@ -312,7 +312,7 @@ shapes = (
 ref = A;
 },
 {
-pos = (161,56);
+pos = (176,56);
 ref = circumflexcomb_hookabovecomb;
 }
 );

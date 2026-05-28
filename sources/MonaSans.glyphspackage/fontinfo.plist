@@ -1,5 +1,5 @@
 {
-.appVersion = "3516";
+.appVersion = "3436";
 .formatVersion = 3;
 axes = (
 {
@@ -22,20 +22,12 @@ tag = ital;
 classes = (
 {
 automatic = 1;
-<<<<<<< HEAD
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash Macute N Nacute Ncaron Ncommaaccent Ngrave Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 IJ.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Q.ss09 IJ.ss10 J.ss10 Jacute.ss10 Jcircumflex.ss10 Gdotaccent.ss01.ss07";
-=======
 code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M Macute N Nacute Ncaron Ncommaaccent Ngrave Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udieresisacute.ss01 Udieresiscaron.ss01 Udieresisgrave.ss01 Udieresismacron.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 IJ.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Q.ss09 IJ.ss10 J.ss10 Jacute.ss10 Jcircumflex.ss10 Gdotaccent.ss01.ss07";
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 name = Uppercase;
 },
 {
 automatic = 1;
-<<<<<<< HEAD
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash Macute N Nacute Ncaron Ncommaaccent Ngrave Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 IJ.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Q.ss09 IJ.ss10 J.ss10 Jacute.ss10 Jcircumflex.ss10 Gdotaccent.ss01.ss07 a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat eth eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek etilde g gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute ibreve icaron icircumflex idieresis idotaccent idotbelow igrave ihookabove imacron iogonek itilde ij j jdotless jacute jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot lslash m macute n nacute ncaron ncommaaccent ngrave ntilde eng o oacute ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucaron ucircumflex udieresis udieresisacute udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent idotbelow.dotless iogonek.dotless f.longarm abrevedotbelow.ss01 acircumflexdotbelow.ss01 adotbelow.ss01 cdotaccent.ss01 ecircumflexdotbelow.ss01 edieresis.ss01 edotaccent.ss01 edotbelow.ss01 gdotaccent.ss01 i.ss01 idieresis.ss01 idotaccent.ss01 idotbelow.ss01 j.ss01 ldot.ss01 ocircumflexdotbelow.ss01 odieresis.ss01 odotbelow.ss01 ohorndotbelow.ss01 udieresis.ss01 udotbelow.ss01 uhorndotbelow.ss01 wdieresis.ss01 ydieresis.ss01 ydotbelow.ss01 zdotaccent.ss01 l.ss03 lacute.ss03 lcaron.ss03 lcommaaccent.ss03 ldot.ss03 lslash.ss03 l.ss04 lacute.ss04 lcaron.ss04 lcommaaccent.ss04 ldot.ss04 lslash.ss04 a.ss05 aacute.ss05 abreve.ss05 abreveacute.ss05 abrevedotbelow.ss05 abrevegrave.ss05 abrevehookabove.ss05 abrevetilde.ss05 acircumflex.ss05 acircumflexacute.ss05 acircumflexdotbelow.ss05 acircumflexgrave.ss05 acircumflexhookabove.ss05 acircumflextilde.ss05 adieresis.ss05 adotbelow.ss05 agrave.ss05 ahookabove.ss05 amacron.ss05 aogonek.ss05 aring.ss05 atilde.ss05 g.ss06 gbreve.ss06 gcaron.ss06 gcircumflex.ss06 gcommaaccent.ss06 gdotaccent.ss06 idotbelow.dotless.ss01 adieresis.ss05.ss01 adotbelow.ss05.ss01 ldot.ss01.ss03 ldot.ss01.ss04 gdotaccent.ss01.ss06 f_f.liga f_f_i.liga f_y.liga fi fl t_i.liga t_t.liga fi.ss01 f_f_i.liga.ss01 t_i.liga.ss01 ordfeminine ordmasculine mu pi zero one two three four five six seven eight nine zero.blackCircled one.blackCircled two.blackCircled three.blackCircled four.blackCircled five.blackCircled six.blackCircled seven.blackCircled eight.blackCircled nine.blackCircled zero.circled one.circled two.circled three.circled four.circled five.circled six.circled seven.circled eight.circled nine.circled zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.tf.ss08 zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash exclamdown.case questiondown.case periodcentered.loclCAT period.ss01 comma.ss01 colon.ss01 semicolon.ss01 ellipsis.ss01 exclam.ss01 exclamdown.ss01 question.ss01 questiondown.ss01 periodcentered.ss01 bullet.ss01 periodcentered.loclCAT.case exclamdown.ss01.case questiondown.ss01.case periodcentered.loclCAT.ss01 periodcentered.loclCAT.case.ss01 hyphen endash emdash underscore hyphen.case endash.case emdash.case parenleft parenright braceleft braceright bracketleft bracketright parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle quotesinglbase.ss01 quotedblbase.ss01 quotedblleft.ss01 quotedblright.ss01 quoteleft.ss01 quoteright.ss01 florin baht whiteFrowningFace whiteSmilingFace checkmark apple at ampersand paragraph section copyright registered published trademark degree bar brokenbar literSign estimated numero bitcoin cent currency dollar euro liraTurkish rupeeIndian sheqel sterling tenge won yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal logicalnot asciitilde asciicircum infinity emptyset integral product summation radical percent perthousand upArrow rightArrow downArrow leftArrow leftRightArrow blackCircle whiteCircle dottedCircle dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb commaturnedabovecomb horncomb dotbelowcomb commaaccentcomb cedillacomb ogonekcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb strokeshortcomb.case slashshortcomb.case slashlongcomb.case dieresiscomb.ss01 dotaccentcomb.ss01 dotbelowcomb.ss01 dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek";
-=======
 code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M Macute N Nacute Ncaron Ncommaaccent Ngrave Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udieresisacute.ss01 Udieresiscaron.ss01 Udieresisgrave.ss01 Udieresismacron.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 IJ.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Q.ss09 IJ.ss10 J.ss10 Jacute.ss10 Jcircumflex.ss10 Gdotaccent.ss01.ss07 a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acaron acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adieresis adotbelow agrave ahookabove amacron aogonek aring atilde ae b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat eth e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edieresis edotaccent edotbelow egrave ehookabove emacron eogonek etilde f g gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute ibreve icaron icircumflex idieresis idotaccent idotbelow igrave ihookabove imacron iogonek itilde ij j jdotless jacute jcircumflex k kcommaaccent l lacute lcaron lcommaaccent ldot lslash m macute n nacute ncaron ncommaaccent ngrave ntilde eng o oacute ocaron ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odieresis odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scircumflex scommaaccent germandbls t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucaron ucircumflex udieresis udieresisacute udieresiscaron udieresisgrave udieresismacron udotbelow ugrave uhookabove uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ytilde z zacute zcaron zdotaccent idotbelow.dotless iogonek.dotless f.longarm abrevedotbelow.ss01 acircumflexdotbelow.ss01 adotbelow.ss01 cdotaccent.ss01 ecircumflexdotbelow.ss01 edieresis.ss01 edotaccent.ss01 edotbelow.ss01 gdotaccent.ss01 i.ss01 idieresis.ss01 idotaccent.ss01 idotbelow.ss01 j.ss01 ldot.ss01 ocircumflexdotbelow.ss01 odieresis.ss01 odotbelow.ss01 ohorndotbelow.ss01 udieresis.ss01 udieresisacute.ss01 udieresiscaron.ss01 udieresisgrave.ss01 udieresismacron.ss01 udotbelow.ss01 uhorndotbelow.ss01 wdieresis.ss01 ydieresis.ss01 ydotbelow.ss01 zdotaccent.ss01 l.ss03 lacute.ss03 lcaron.ss03 lcommaaccent.ss03 ldot.ss03 lslash.ss03 l.ss04 lacute.ss04 lcaron.ss04 lcommaaccent.ss04 ldot.ss04 lslash.ss04 a.ss05 aacute.ss05 abreve.ss05 abreveacute.ss05 abrevedotbelow.ss05 abrevegrave.ss05 abrevehookabove.ss05 abrevetilde.ss05 acaron.ss05 acircumflex.ss05 acircumflexacute.ss05 acircumflexdotbelow.ss05 acircumflexgrave.ss05 acircumflexhookabove.ss05 acircumflextilde.ss05 adieresis.ss05 adotbelow.ss05 agrave.ss05 ahookabove.ss05 amacron.ss05 aogonek.ss05 aring.ss05 atilde.ss05 g.ss06 gbreve.ss06 gcaron.ss06 gcircumflex.ss06 gcommaaccent.ss06 gdotaccent.ss06 idotbelow.dotless.ss01 ldot.ss01.ss03 ldot.ss01.ss04 abrevedotbelow.ss01.ss05 acircumflexdotbelow.ss01.ss05 adieresis.ss01.ss05 adotbelow.ss01.ss05 gdotaccent.ss01.ss06 f_f.liga f_f_i.liga f_y.liga fi fl t_i.liga t_t.liga fi.ss01 fl.ss03 f_f_i.liga.ss01 t_i.liga.ss01 ordfeminine ordmasculine mu pi zero one two three four five six seven eight nine zero.blackCircled one.blackCircled two.blackCircled three.blackCircled four.blackCircled five.blackCircled six.blackCircled seven.blackCircled eight.blackCircled nine.blackCircled zero.circled one.circled two.circled three.circled four.circled five.circled six.circled seven.circled eight.circled nine.circled zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.tf.ss08 zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr fraction onehalf onequarter threequarters oneeighth threeeighths fiveeighths seveneighths zeroinferior oneinferior twoinferior threeinferior fourinferior fiveinferior sixinferior seveninferior eightinferior nineinferior zerosuperior onesuperior twosuperior threesuperior foursuperior fivesuperior sixsuperior sevensuperior eightsuperior ninesuperior space nbspace period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash exclamdown.case questiondown.case periodcentered.loclCAT period.ss01 comma.ss01 colon.ss01 semicolon.ss01 ellipsis.ss01 exclam.ss01 exclamdown.ss01 question.ss01 questiondown.ss01 periodcentered.ss01 bullet.ss01 periodcentered.loclCAT.case exclamdown.ss01.case questiondown.ss01.case periodcentered.loclCAT.ss01 periodcentered.loclCAT.case.ss01 hyphen endash emdash underscore hyphen.case endash.case emdash.case parenleft parenright braceleft braceright bracketleft bracketright parenleft.case parenright.case braceleft.case braceright.case bracketleft.case bracketright.case quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle quotesinglbase.ss01 quotedblbase.ss01 quotedblleft.ss01 quotedblright.ss01 quoteleft.ss01 quoteright.ss01 florin baht whiteFrowningFace whiteSmilingFace checkmark apple at ampersand paragraph section copyright registered published trademark degree bar brokenbar literSign estimated numero centigrade fahrenheit bitcoin cent currency dollar euro liraTurkish rupeeIndian sheqel sterling tenge won yen plus minus multiply divide equal notequal greater less greaterequal lessequal plusminus approxequal logicalnot asciitilde asciicircum infinity emptyset integral product summation radical percent perthousand upArrow rightArrow downArrow leftArrow leftRightArrow blackCircle whiteCircle dottedCircle dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb commaturnedabovecomb horncomb dotbelowcomb commaaccentcomb cedillacomb ogonekcomb strokeshortcomb strokelongcomb slashshortcomb slashlongcomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb strokeshortcomb.case slashshortcomb.case slashlongcomb.case dieresiscomb.ss01 dotaccentcomb.ss01 dotbelowcomb.ss01 dieresis dotaccent grave acute hungarumlaut circumflex caron breve ring tilde macron cedilla ogonek";
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 name = All;
 }
 );
@@ -56,6 +48,10 @@ value = 1;
 {
 name = "Use Extension Kerning";
 value = 1;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
 },
 {
 name = "Variable Font Origin";
@@ -107,7 +103,6 @@ feature ss07;
 feature ss08;
 feature ss09;
 feature ss10;
-feature rvrn;
 ";
 tag = aalt;
 },
@@ -150,6 +145,8 @@ lookup ccmp_Other_2 {
 
 lookup ccmp_latn_1 {
 	lookupflag 0;
+	sub fi by f i;
+	sub fl by f l;
 	sub Ldot by L periodcentered.loclCAT.case;
 	sub ldot by l periodcentered.loclCAT;
 } ccmp_latn_1;
@@ -213,6 +210,7 @@ sub five by fiveinferior;
 sub six by sixinferior;
 sub seven by seveninferior;
 sub eight by eightinferior;
+sub nine by nineinferior;
 ";
 tag = subs;
 },
@@ -227,6 +225,7 @@ sub five by fiveinferior;
 sub six by sixinferior;
 sub seven by seveninferior;
 sub eight by eightinferior;
+sub nine by nineinferior;
 ";
 tag = sinf;
 },
@@ -353,8 +352,13 @@ tag = case;
 {
 automatic = 1;
 code = "lookupflag IgnoreMarks;
+sub f f i by f_f_i.liga;
+sub f f by f_f.liga;
+sub f y by f_y.liga;
 sub t i by t_i.liga;
 sub t t by t_t.liga;
+sub f i by fi;
+sub f l by fl;
 ";
 tag = liga;
 },
@@ -630,11 +634,6 @@ value = "J with bowl";
 tag = ss10;
 },
 {
-<<<<<<< HEAD
-code = "pos @All <14 0 14 0 (opsz:20) 9 0 9 0 (opsz:34) 4 0 4 0 (opsz:42) 17 0 17 0 (opsz:64) -2 0 -2 0 (opsz:100) 0 0 0 0>;
-";
-disabled = 1;
-=======
 code = "#ifdef VARIABLE
 condition opsz < 38;
 sub a by a.ss05;
@@ -646,7 +645,6 @@ tag = rlig;
 },
 {
 code = "pos @All <14 0 14 0 (opsz:20) 9 0 9 0 (opsz:34) 4 0 4 0 (opsz:42) 17 0 17 0 (opsz:64) -2 0 -2 0 (opsz:100) 0 0 0 0>;";
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 tag = kern;
 }
 );
@@ -672,7 +670,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -764,7 +762,7 @@ pos = -167;
 {
 }
 );
-name = "8pt Condensed ExtraLight";
+name = "Condensed ExtraLight";
 stemValues = (
 30,
 27,
@@ -898,7 +896,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -990,7 +988,7 @@ pos = -167;
 {
 }
 );
-name = "8pt Condensed Black";
+name = "Condensed Black";
 stemValues = (
 156,
 137,
@@ -1121,7 +1119,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -1222,7 +1220,7 @@ pos = -182;
 {
 }
 );
-name = "8pt ExtraLight";
+name = ExtraLight;
 stemValues = (
 36,
 35,
@@ -1353,7 +1351,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -1446,7 +1444,7 @@ pos = -182;
 {
 }
 );
-name = "8pt Black";
+name = Black;
 stemValues = (
 172,
 153,
@@ -1574,7 +1572,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -1666,7 +1664,7 @@ pos = -167;
 {
 }
 );
-name = "8pt Expanded ExtraLight";
+name = "Expanded ExtraLight";
 stemValues = (
 36,
 35,
@@ -1797,7 +1795,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -1897,7 +1895,7 @@ pos = -167;
 {
 }
 );
-name = "8pt Expanded Black";
+name = "Expanded Black";
 stemValues = (
 178,
 166,
@@ -2023,7 +2021,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -2133,7 +2131,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "8pt Condensed ExtraLight Italic";
+name = "Condensed ExtraLight Italic";
 stemValues = (
 30,
 27,
@@ -2263,7 +2261,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -2356,7 +2354,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "8pt Condensed Black Italic";
+name = "Condensed Black Italic";
 stemValues = (
 156,
 137,
@@ -2488,7 +2486,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -2586,7 +2584,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "8pt ExtraLight Italic";
+name = "ExtraLight Italic";
 stemValues = (
 36,
 35,
@@ -2716,7 +2714,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -2818,7 +2816,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "8pt Black Italic";
+name = "Black Italic";
 stemValues = (
 172,
 153,
@@ -2943,7 +2941,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -3036,7 +3034,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "8pt Expanded ExtraLight Italic";
+name = "Expanded ExtraLight Italic";
 stemValues = (
 38,
 35,
@@ -3166,7 +3164,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 8;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -3264,7 +3262,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "8pt Expanded Black Italic";
+name = "Expanded Black Italic";
 stemValues = (
 178,
 166,
@@ -3482,7 +3480,7 @@ pos = -167;
 {
 }
 );
-name = "100pt Condensed ExtraLight";
+name = "Display Condensed ExtraLight";
 stemValues = (
 30,
 27,
@@ -3708,7 +3706,7 @@ pos = -167;
 {
 }
 );
-name = "100pt Condensed Black";
+name = "Display Condensed Black";
 stemValues = (
 156,
 137,
@@ -3938,7 +3936,7 @@ pos = -167;
 {
 }
 );
-name = "100pt ExtraLight";
+name = "Display ExtraLight";
 stemValues = (
 36,
 35,
@@ -4161,7 +4159,7 @@ pos = -167;
 {
 }
 );
-name = "100pt Black";
+name = "Display Black";
 stemValues = (
 172,
 153,
@@ -4381,7 +4379,7 @@ pos = -167;
 {
 }
 );
-name = "100pt Expanded ExtraLight";
+name = "Display Expanded ExtraLight";
 stemValues = (
 36,
 35,
@@ -4612,7 +4610,7 @@ pos = -167;
 {
 }
 );
-name = "100pt Expanded Black";
+name = "Display Expanded Black";
 stemValues = (
 178,
 166,
@@ -4848,7 +4846,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "100pt Condensed ExtraLight Italic";
+name = "Display Condensed ExtraLight Italic";
 stemValues = (
 30,
 27,
@@ -5071,7 +5069,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "100pt Condensed Black Italic";
+name = "Display Condensed Black Italic";
 stemValues = (
 156,
 137,
@@ -5203,7 +5201,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 100;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -5301,7 +5299,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "100pt ExtraLight Italic";
+name = "Display ExtraLight Italic";
 stemValues = (
 36,
 35,
@@ -5431,7 +5429,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 100;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -5533,7 +5531,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "100pt Black Italic";
+name = "Display Black Italic";
 stemValues = (
 172,
 153,
@@ -5660,7 +5658,7 @@ Location = 200;
 },
 {
 Axis = "Optical size";
-Location = 100;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -5753,7 +5751,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "100pt Expanded ExtraLight Italic";
+name = "Display Expanded ExtraLight Italic";
 stemValues = (
 38,
 35,
@@ -5883,7 +5881,7 @@ Location = 900;
 },
 {
 Axis = "Optical size";
-Location = 100;
+Location = 0;
 },
 {
 Axis = Italic;
@@ -5981,7 +5979,7 @@ pos = -167;
 pos = 11.7;
 }
 );
-name = "100pt Expanded Black Italic";
+name = "Display Expanded Black Italic";
 stemValues = (
 178,
 166,
@@ -6103,7 +6101,6 @@ name = "Italic Style Linking";
 value = 1;
 }
 );
-exports = 0;
 name = Regular;
 properties = (
 {
@@ -6707,982 +6704,6 @@ type = variable;
 },
 {
 axesValues = (
-0,
-0,
-0,
-0
-);
-customParameters = (
-{
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 75;
-},
-{
-Axis = Weight;
-Location = 200;
-},
-{
-Axis = "Optical size";
-Location = 72;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
-}
-);
-exports = 0;
-instanceInterpolations = {
-"155B42D5-FD83-4BB6-AC0D-930BEE350254" = -0.05236;
-"5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 4.13874;
-"E787E54A-EE3E-475A-BF02-8501A6DA5144" = -0.23336;
-"F809B810-8CF1-453B-A5BE-CA3BE927A72B" = 0.04226;
-m019 = -2.89528;
-};
-name = "_____GF FVAR_____";
-weightClass = 200;
-widthClass = 3;
-},
-{
-axesValues = (
-100,
-200,
-40,
-0
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 200;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
-}
-);
-instanceInterpolations = {
-"E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.39394;
-m019 = 0.60606;
-};
-name = ExtraLight;
-weightClass = 200;
-},
-{
-axesValues = (
-100,
-329,
-40,
-0
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 300;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
-}
-);
-instanceInterpolations = {
-"0B275536-62AC-4C56-AB54-CAFC17136928" = 0.0726;
-"E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.32134;
-m019 = 0.49437;
-m020 = 0.11169;
-};
-name = Light;
-weightClass = 300;
-},
-{
-axesValues = (
-100,
-438,
-40,
-0
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 400;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
-}
-);
-instanceInterpolations = {
-"0B275536-62AC-4C56-AB54-CAFC17136928" = 0.13394;
-"E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.26;
-m019 = 0.4;
-m020 = 0.20606;
-};
-name = Regular;
-},
-{
-axesValues = (
-100,
-534,
-40,
-0
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 500;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
-}
-);
-instanceInterpolations = {
-"0B275536-62AC-4C56-AB54-CAFC17136928" = 0.18797;
-"E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.20597;
-m019 = 0.31688;
-m020 = 0.28918;
-};
-name = Medium;
-weightClass = 500;
-},
-{
-axesValues = (
-100,
-600,
-40,
-0
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 600;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
-}
-);
-instanceInterpolations = {
-"0B275536-62AC-4C56-AB54-CAFC17136928" = 0.22511;
-"E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.16883;
-m019 = 0.25974;
-m020 = 0.34632;
-};
-name = SemiBold;
-weightClass = 600;
-},
-{
-axesValues = (
-100,
-665,
-40,
-0
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 700;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
-}
-);
-instanceInterpolations = {
-"0B275536-62AC-4C56-AB54-CAFC17136928" = 0.26169;
-"E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.13225;
-m019 = 0.20346;
-m020 = 0.4026;
-};
-isBold = 1;
-name = Bold;
-weightClass = 700;
-},
-{
-axesValues = (
-100,
-780,
-40,
-0
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 800;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
-}
-);
-instanceInterpolations = {
-"0B275536-62AC-4C56-AB54-CAFC17136928" = 0.32641;
-"E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.06753;
-m019 = 0.1039;
-m020 = 0.50216;
-};
-name = ExtraBold;
-weightClass = 800;
-},
-{
-axesValues = (
-100,
-900,
-40,
-0
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 900;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
-}
-);
-instanceInterpolations = {
-"0B275536-62AC-4C56-AB54-CAFC17136928" = 0.39394;
-m020 = 0.60606;
-};
-name = Black;
-weightClass = 900;
-},
-{
-axesValues = (
-100,
-200,
-40,
-1
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 200;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"095FE76F-1953-440B-9108-AA0678D151F9" = 0.60606;
-"CD1FE38A-850D-424C-9763-FD0BB7EF0F65" = 0.39394;
-};
-isItalic = 1;
-name = "ExtraLight Italic";
-weightClass = 200;
-},
-{
-axesValues = (
-100,
-329,
-40,
-1
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 300;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"095FE76F-1953-440B-9108-AA0678D151F9" = 0.49437;
-"116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.0726;
-"63AAE8D6-1DFF-4DD4-BD9A-49272FE52904" = 0.11169;
-"CD1FE38A-850D-424C-9763-FD0BB7EF0F65" = 0.32134;
-};
-isItalic = 1;
-name = "Light Italic";
-weightClass = 300;
-},
-{
-axesValues = (
-100,
-438,
-40,
-1
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 400;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"095FE76F-1953-440B-9108-AA0678D151F9" = 0.4;
-"116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.13394;
-"63AAE8D6-1DFF-4DD4-BD9A-49272FE52904" = 0.20606;
-"CD1FE38A-850D-424C-9763-FD0BB7EF0F65" = 0.26;
-};
-isItalic = 1;
-name = Italic;
-},
-{
-axesValues = (
-100,
-534,
-40,
-1
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 500;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"095FE76F-1953-440B-9108-AA0678D151F9" = 0.31688;
-"116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.18797;
-"63AAE8D6-1DFF-4DD4-BD9A-49272FE52904" = 0.28918;
-"CD1FE38A-850D-424C-9763-FD0BB7EF0F65" = 0.20597;
-};
-isItalic = 1;
-name = "Medium Italic";
-weightClass = 500;
-},
-{
-axesValues = (
-100,
-600,
-40,
-1
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 600;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"095FE76F-1953-440B-9108-AA0678D151F9" = 0.25974;
-"116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.22511;
-"63AAE8D6-1DFF-4DD4-BD9A-49272FE52904" = 0.34632;
-"CD1FE38A-850D-424C-9763-FD0BB7EF0F65" = 0.16883;
-};
-isItalic = 1;
-name = "SemiBold Italic";
-weightClass = 600;
-},
-{
-axesValues = (
-100,
-665,
-40,
-1
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 700;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"095FE76F-1953-440B-9108-AA0678D151F9" = 0.20346;
-"116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.26169;
-"63AAE8D6-1DFF-4DD4-BD9A-49272FE52904" = 0.4026;
-"CD1FE38A-850D-424C-9763-FD0BB7EF0F65" = 0.13225;
-};
-isBold = 1;
-isItalic = 1;
-name = Bold;
-weightClass = 700;
-},
-{
-axesValues = (
-100,
-780,
-40,
-1
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 800;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"095FE76F-1953-440B-9108-AA0678D151F9" = 0.1039;
-"116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.32641;
-"63AAE8D6-1DFF-4DD4-BD9A-49272FE52904" = 0.50216;
-"CD1FE38A-850D-424C-9763-FD0BB7EF0F65" = 0.06753;
-};
-isItalic = 1;
-name = ExtraBold;
-weightClass = 800;
-},
-{
-axesValues = (
-100,
-900,
-40,
-1
-);
-customParameters = (
-{
-disabled = 1;
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 100;
-},
-{
-Axis = Weight;
-Location = 900;
-},
-{
-Axis = "Optical size";
-Location = 14;
-},
-{
-Axis = Italic;
-Location = 1;
-}
-);
-}
-);
-instanceInterpolations = {
-"116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.39394;
-"63AAE8D6-1DFF-4DD4-BD9A-49272FE52904" = 0.60606;
-};
-isItalic = 1;
-name = Black;
-weightClass = 900;
-},
-{
-axesValues = (
-0,
-0,
-0,
-0
-);
-customParameters = (
-{
-name = "Instance Preview";
-value = (
-M,
-o,
-n,
-a,
-space,
-S,
-a,
-n,
-s
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Width;
-Location = 75;
-},
-{
-Axis = Weight;
-Location = 200;
-},
-{
-Axis = "Optical size";
-Location = 72;
-},
-{
-Axis = Italic;
-Location = 0;
-}
-);
-}
-);
-exports = 0;
-instanceInterpolations = {
-"155B42D5-FD83-4BB6-AC0D-930BEE350254" = -0.05236;
-"5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 4.13874;
-"E787E54A-EE3E-475A-BF02-8501A6DA5144" = -0.23336;
-"F809B810-8CF1-453B-A5BE-CA3BE927A72B" = 0.04226;
-m019 = -2.89528;
-};
-name = "_____Github Instances_____";
-weightClass = 200;
-widthClass = 3;
-},
-{
-axesValues = (
 75,
 200,
 80,
@@ -7729,7 +6750,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.20202;
 "F809B810-8CF1-453B-A5BE-CA3BE927A72B" = 0.79798;
@@ -7814,7 +6834,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.16479;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.14706;
@@ -7901,7 +6920,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.13333;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.27131;
@@ -7987,7 +7005,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.10563;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.38075;
@@ -8074,7 +7091,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.08658;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.45599;
@@ -8161,7 +7177,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.06782;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.53009;
@@ -8249,7 +7264,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.03463;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.66118;
@@ -8336,7 +7350,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.79798;
 "E787E54A-EE3E-475A-BF02-8501A6DA5144" = 0.20202;
@@ -8421,7 +7434,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.10101;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.39899;
@@ -8508,7 +7520,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.07353;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.0824;
@@ -8599,7 +7610,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.13566;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.06667;
@@ -8689,7 +7699,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.19038;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.05281;
@@ -8780,7 +7789,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.22799;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.04329;
@@ -8871,7 +7879,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.26504;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.03391;
@@ -8963,7 +7970,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.33059;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.01732;
@@ -9054,7 +8060,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.39899;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.39899;
@@ -9141,7 +8146,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.79798;
 m019 = 0.20202;
@@ -9225,7 +8229,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.14706;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.65092;
@@ -9311,7 +8314,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.27131;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.52667;
@@ -9396,7 +8398,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.38075;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.41723;
@@ -9482,7 +8483,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.45599;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.34199;
@@ -9568,7 +8568,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.53009;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.26789;
@@ -9655,7 +8654,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.66118;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.1368;
@@ -9741,7 +8739,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.79798;
 m020 = 0.20202;
@@ -9825,7 +8822,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.10101;
 "672F45B7-BA56-43A0-BBB6-CC0745727C88" = 0.39899;
@@ -9912,7 +8908,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.07353;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.07353;
@@ -10003,7 +8998,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.13566;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.13566;
@@ -10093,7 +9087,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.19038;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.19038;
@@ -10184,7 +9177,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.22799;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.22799;
@@ -10275,7 +9267,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.26504;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.26504;
@@ -10367,7 +9358,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.33059;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.33059;
@@ -10458,7 +9448,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.39899;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.39899;
@@ -10545,7 +9534,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.20202;
 "672F45B7-BA56-43A0-BBB6-CC0745727C88" = 0.79798;
@@ -10630,7 +9618,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.14706;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.16479;
@@ -10717,7 +9704,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.27131;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.13333;
@@ -10803,7 +9789,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.38075;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.10563;
@@ -10890,7 +9875,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.45599;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.08658;
@@ -10977,7 +9961,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.53009;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.06782;
@@ -11065,7 +10048,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.66118;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.03463;
@@ -11152,7 +10134,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.79798;
 "D2144554-01B8-4B9B-B16A-E0E5B5794DFC" = 0.20202;
@@ -11237,7 +10218,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.56566;
 "F809B810-8CF1-453B-A5BE-CA3BE927A72B" = 0.43434;
@@ -11318,7 +10298,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.46141;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.08004;
@@ -11401,7 +10380,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.37333;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.14768;
@@ -11487,7 +10465,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.29576;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.20724;
@@ -11570,7 +10547,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.24242;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.2482;
@@ -11653,7 +10629,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.1899;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.28853;
@@ -11737,7 +10712,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.09697;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.35988;
@@ -11820,7 +10794,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.43434;
 "E787E54A-EE3E-475A-BF02-8501A6DA5144" = 0.56566;
@@ -11901,7 +10874,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.28283;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.21717;
@@ -11984,7 +10956,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.04002;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.23071;
@@ -12071,7 +11042,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.07384;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.18667;
@@ -12161,7 +11131,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.10362;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.14788;
@@ -12248,7 +11217,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.1241;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.12121;
@@ -12335,7 +11303,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.14426;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.09495;
@@ -12423,7 +11390,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.17994;
 "5713303B-ED49-44A7-8230-B5CAE56DEB7E" = 0.04848;
@@ -12510,7 +11476,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.21717;
 "BBBD8BC5-1445-4217-985E-4C596438DA38" = 0.21717;
@@ -12593,7 +11558,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.43434;
 m019 = 0.56566;
@@ -12664,7 +11628,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.08004;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.3543;
@@ -12737,7 +11700,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.14768;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.28667;
@@ -12813,7 +11775,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.20724;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.2271;
@@ -12886,7 +11847,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.2482;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.18615;
@@ -12959,7 +11919,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.28853;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.14582;
@@ -13033,7 +11992,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.35988;
 "E97B55C1-E583-4247-91FF-22E95A4A75BA" = 0.07446;
@@ -13106,7 +12064,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.43434;
 m020 = 0.56566;
@@ -13177,7 +12134,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.28283;
 "672F45B7-BA56-43A0-BBB6-CC0745727C88" = 0.21717;
@@ -13260,7 +12216,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.04002;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.04002;
@@ -13347,7 +12302,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.07384;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.07384;
@@ -13437,7 +12391,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.10362;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.10362;
@@ -13524,7 +12477,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.1241;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.1241;
@@ -13611,7 +12563,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.14426;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.14426;
@@ -13699,7 +12650,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.17994;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.17994;
@@ -13786,7 +12736,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "0B275536-62AC-4C56-AB54-CAFC17136928" = 0.21717;
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.21717;
@@ -13869,7 +12818,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.56566;
 "672F45B7-BA56-43A0-BBB6-CC0745727C88" = 0.43434;
@@ -13950,7 +12898,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.08004;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.46141;
@@ -14033,7 +12980,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.14768;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.37333;
@@ -14119,7 +13065,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.20724;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.29576;
@@ -14202,7 +13147,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.2482;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.24242;
@@ -14285,7 +13229,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.28853;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.1899;
@@ -14369,7 +13312,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.35988;
 "28A8A76A-23B4-40F5-83B9-DC51E48BF161" = 0.09697;
@@ -14452,7 +13394,6 @@ Location = 0;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "155B42D5-FD83-4BB6-AC0D-930BEE350254" = 0.43434;
 "D2144554-01B8-4B9B-B16A-E0E5B5794DFC" = 0.56566;
@@ -14533,7 +13474,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.56566;
 "A312EA11-A86D-4039-A6A0-3473E7FCFCBA" = 0.43434;
@@ -14616,7 +13556,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.46141;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.10424;
@@ -14701,7 +13640,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.37333;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.19232;
@@ -14784,7 +13722,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.29576;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.2699;
@@ -14869,7 +13806,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.24242;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.32323;
@@ -14954,7 +13890,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.1899;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.37576;
@@ -15039,7 +13974,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.09697;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.46869;
@@ -15124,7 +14058,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.56566;
 "6E33102A-8120-45EB-96FA-BF5C616DF6D0" = 0.43434;
@@ -15207,7 +14140,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.28283;
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.28283;
@@ -15290,7 +14222,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.23071;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.04002;
@@ -15377,7 +14308,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.18667;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.07384;
@@ -15464,7 +14394,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.14788;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.10362;
@@ -15551,7 +14480,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.12121;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.1241;
@@ -15638,7 +14566,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.09495;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.14426;
@@ -15727,7 +14654,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.04848;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.17994;
@@ -15814,7 +14740,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.21717;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.28283;
@@ -15897,7 +14822,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.56566;
 "CD1FE38A-850D-424C-9763-FD0BB7EF0F65" = 0.43434;
@@ -15970,7 +14894,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.46141;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.08004;
@@ -16045,7 +14968,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.37333;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.14768;
@@ -16118,7 +15040,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.29576;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.20724;
@@ -16193,7 +15114,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.24242;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.2482;
@@ -16268,7 +15188,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.1899;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.28853;
@@ -16344,7 +15263,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.09697;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.35988;
@@ -16419,7 +15337,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.43434;
 "63AAE8D6-1DFF-4DD4-BD9A-49272FE52904" = 0.56566;
@@ -16492,7 +15409,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.28283;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.21717;
@@ -16575,7 +15491,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.23071;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.04002;
@@ -16662,7 +15577,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.18667;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.07384;
@@ -16748,7 +15662,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.14788;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.10362;
@@ -16835,7 +15748,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.12121;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.1241;
@@ -16922,7 +15834,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.09495;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.14426;
@@ -17011,7 +15922,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.04848;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.17994;
@@ -17098,7 +16008,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.21717;
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.28283;
@@ -17181,7 +16090,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.43434;
 "C17B1F32-8075-45B4-AA59-7DAFF0D7E404" = 0.56566;
@@ -17264,7 +16172,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.10424;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.3543;
@@ -17349,7 +16256,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.19232;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.28667;
@@ -17432,7 +16338,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.2699;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.2271;
@@ -17517,7 +16422,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.32323;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.18615;
@@ -17602,7 +16506,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.37576;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.14582;
@@ -17687,7 +16590,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.46869;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.07446;
@@ -17772,7 +16674,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.56566;
 "FDCDCD6C-7FEE-4790-B9C8-1B5EEA7E5598" = 0.43434;
@@ -17855,7 +16756,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.20202;
 "A312EA11-A86D-4039-A6A0-3473E7FCFCBA" = 0.79798;
@@ -17942,7 +16842,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.16479;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.03723;
@@ -18031,7 +16930,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.13333;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.06869;
@@ -18118,7 +17016,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.10563;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.09639;
@@ -18207,7 +17104,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.08658;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.11544;
@@ -18296,7 +17192,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.06782;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.1342;
@@ -18386,7 +17281,6 @@ Location = 1;
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.03463;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.16739;
@@ -18475,7 +17369,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.20202;
 "6E33102A-8120-45EB-96FA-BF5C616DF6D0" = 0.79798;
@@ -18562,7 +17455,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.10101;
 "23BA42C1-D468-4A44-9BE5-E18AE60B7926" = 0.10101;
@@ -18651,7 +17543,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.0824;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.07353;
@@ -18744,7 +17635,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.06667;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.13566;
@@ -18835,7 +17725,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.05281;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.19038;
@@ -18928,7 +17817,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.04329;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.22799;
@@ -19021,7 +17909,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.03391;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.26504;
@@ -19115,7 +18002,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.01732;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.33059;
@@ -19208,7 +18094,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.39899;
 "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0" = 0.10101;
@@ -19297,7 +18182,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.20202;
 "CD1FE38A-850D-424C-9763-FD0BB7EF0F65" = 0.79798;
@@ -19383,7 +18267,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.16479;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.14706;
@@ -19471,7 +18354,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.13333;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.27131;
@@ -19557,7 +18439,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.10563;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.38075;
@@ -19645,7 +18526,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.08658;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.45599;
@@ -19733,7 +18613,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.06782;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.53009;
@@ -19822,7 +18701,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.03463;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.66118;
@@ -19910,7 +18788,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.79798;
 "63AAE8D6-1DFF-4DD4-BD9A-49272FE52904" = 0.20202;
@@ -19996,7 +18873,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.10101;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.39899;
@@ -20085,7 +18961,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.0824;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.07353;
@@ -20178,7 +19053,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.06667;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.13566;
@@ -20269,7 +19143,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.05281;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.19038;
@@ -20362,7 +19235,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.04329;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.22799;
@@ -20455,7 +19327,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.03391;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.26504;
@@ -20549,7 +19420,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "095FE76F-1953-440B-9108-AA0678D151F9" = 0.01732;
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.33059;
@@ -20642,7 +19512,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "116A5FF1-38DA-4DF1-8B47-201F29A4437C" = 0.39899;
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.10101;
@@ -20731,7 +19600,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.79798;
 "C17B1F32-8075-45B4-AA59-7DAFF0D7E404" = 0.20202;
@@ -20818,7 +19686,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.03723;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.65092;
@@ -20907,7 +19774,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.06869;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.52667;
@@ -20994,7 +19860,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.09639;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.41723;
@@ -21083,7 +19948,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.11544;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.34199;
@@ -21172,7 +20036,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.1342;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.26789;
@@ -21262,7 +20125,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.16739;
 "81AB4C8E-4968-429F-824B-C4C034789BE2" = 0.1368;
@@ -21351,7 +20213,6 @@ Location = "1";
 );
 }
 );
-exports = 0;
 instanceInterpolations = {
 "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571" = 0.20202;
 "FDCDCD6C-7FEE-4790-B9C8-1B5EEA7E5598" = 0.79798;
@@ -377767,7 +376628,7 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 }
 );
 },

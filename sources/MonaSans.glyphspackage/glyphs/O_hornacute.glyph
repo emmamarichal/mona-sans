@@ -24,7 +24,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (143,51);
+pos = (135,51);
 ref = acutecomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (325,56);
+pos = (319,56);
 ref = acutecomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (347,57);
+pos = (344,57);
 ref = acutecomb;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (290,51);
+pos = (291,51);
 ref = acutecomb;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (156,51);
+pos = (148,51);
 ref = acutecomb;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (312,56);
+pos = (306,56);
 ref = acutecomb;
 }
 );
@@ -182,7 +182,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (133,51);
+pos = (143,51);
 ref = acutecomb;
 }
 );
@@ -210,7 +210,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (264,51);
+pos = (285,51);
 ref = acutecomb;
 }
 );
@@ -223,7 +223,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (366,57);
+pos = (376,57);
 ref = acutecomb;
 }
 );
@@ -236,7 +236,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (326,56);
+pos = (336,56);
 ref = acutecomb;
 }
 );
@@ -249,7 +249,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (128,57);
+pos = (151,57);
 ref = acutecomb;
 }
 );
@@ -262,7 +262,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (135,51);
+pos = (146,51);
 ref = acutecomb;
 }
 );
@@ -275,7 +275,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (316,57);
+pos = (340,57);
 ref = acutecomb;
 }
 );
@@ -288,11 +288,11 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (265,51);
+pos = (294,51);
 ref = acutecomb;
 }
 );
-width = 766;
+width = 767;
 },
 {
 layerId = "81AB4C8E-4968-429F-824B-C4C034789BE2";
@@ -301,7 +301,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (342,57);
+pos = (352,57);
 ref = acutecomb;
 }
 );
@@ -314,7 +314,7 @@ shapes = (
 ref = Ohorn;
 },
 {
-pos = (332,56);
+pos = (347,56);
 ref = acutecomb;
 }
 );

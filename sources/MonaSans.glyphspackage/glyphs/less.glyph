@@ -56,7 +56,7 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (582,722);
+pos = (593,722);
 ref = greater;
 }
 );
@@ -90,7 +90,7 @@ type = Stem;
 }
 );
 };
-width = 582;
+width = 593;
 },
 {
 layerId = m020;
@@ -98,11 +98,11 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (574,721);
+pos = (581,721);
 ref = greater;
 }
 );
-width = 574;
+width = 581;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -194,11 +194,11 @@ shapes = (
 {
 alignment = -1;
 angle = 180;
-pos = (466,721);
+pos = (480,721);
 ref = greater;
 }
 );
-width = 466;
+width = 480;
 },
 {
 layerId = "E97B55C1-E583-4247-91FF-22E95A4A75BA";
@@ -248,11 +248,11 @@ shapes = (
 {
 alignment = 3;
 angle = 180;
-pos = (600,721);
+pos = (555,721);
 ref = greater;
 }
 );
-width = 600;
+width = 555;
 },
 {
 layerId = "672F45B7-BA56-43A0-BBB6-CC0745727C88";

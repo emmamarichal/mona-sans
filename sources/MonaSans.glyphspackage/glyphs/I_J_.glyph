@@ -75,11 +75,11 @@ shapes = (
 ref = I;
 },
 {
-pos = (326,0);
+pos = (327,0);
 ref = J;
 }
 );
-width = 748;
+width = 749;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -150,16 +150,10 @@ width = 568;
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
 shapes = (
 {
-alignment = -1;
 ref = I;
 },
 {
-<<<<<<< HEAD
-alignment = -1;
-pos = (324,0);
-=======
 pos = (336,0);
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 ref = J;
 }
 );

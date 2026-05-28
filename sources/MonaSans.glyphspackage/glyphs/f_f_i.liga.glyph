@@ -276,11 +276,7 @@ pos = (568,0);
 ref = i;
 }
 );
-<<<<<<< HEAD
-width = 728;
-=======
 width = 736;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 background = {
@@ -455,13 +451,13 @@ pos = (890,0);
 ref = i;
 }
 );
-width = 1171;
+width = 1177;
 },
 {
 background = {
 shapes = (
 {
-pos = (32,0);
+pos = (12,0);
 ref = f;
 }
 );
@@ -530,11 +526,7 @@ pos = (519,0);
 ref = i;
 }
 );
-<<<<<<< HEAD
-width = 678;
-=======
 width = 677;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 background = {

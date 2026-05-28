@@ -30,11 +30,11 @@ pos = (157,0);
 ref = fraction;
 },
 {
-pos = (201,0);
+pos = (202,0);
 ref = eight.dnom;
 }
 );
-width = 472;
+width = 473;
 },
 {
 layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
@@ -81,7 +81,7 @@ pos = (239,0);
 ref = fraction;
 },
 {
-pos = (350,0);
+pos = (348,0);
 ref = eight.dnom;
 }
 );
@@ -89,7 +89,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = one.numr;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = one.numr;
 };
-width = 738;
+width = 736;
 },
 {
 layerId = m020;
@@ -102,7 +102,7 @@ pos = (275,0);
 ref = fraction;
 },
 {
-pos = (402,0);
+pos = (403,0);
 ref = eight.dnom;
 }
 );
@@ -110,7 +110,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = one.numr;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = one.numr;
 };
-width = 754;
+width = 755;
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -123,11 +123,11 @@ pos = (156,0);
 ref = fraction;
 },
 {
-pos = (214,0);
+pos = (216,0);
 ref = eight.dnom;
 }
 );
-width = 485;
+width = 487;
 },
 {
 layerId = "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0";
@@ -140,11 +140,11 @@ pos = (226,0);
 ref = fraction;
 },
 {
-pos = (377,0);
+pos = (379,0);
 ref = eight.dnom;
 }
 );
-width = 652;
+width = 654;
 },
 {
 layerId = "095FE76F-1953-440B-9108-AA0678D151F9";
@@ -174,11 +174,11 @@ pos = (286,0);
 ref = fraction;
 },
 {
-pos = (450,0);
+pos = (451,0);
 ref = eight.dnom;
 }
 );
-width = 823;
+width = 824;
 },
 {
 layerId = "C17B1F32-8075-45B4-AA59-7DAFF0D7E404";
@@ -208,19 +208,11 @@ pos = (306,0);
 ref = fraction;
 },
 {
-<<<<<<< HEAD
-pos = (463,0);
-ref = eight.dnom;
-}
-);
-width = 880;
-=======
 pos = (465,0);
 ref = eight.dnom;
 }
 );
 width = 882;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 layerId = "F809B810-8CF1-453B-A5BE-CA3BE927A72B";
@@ -267,7 +259,7 @@ pos = (189,0);
 ref = fraction;
 },
 {
-pos = (260,0);
+pos = (261,0);
 ref = eight.dnom;
 }
 );
@@ -275,7 +267,7 @@ userData = {
 com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = one.numr;
 com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = one.numr;
 };
-width = 611;
+width = 612;
 },
 {
 layerId = "0B275536-62AC-4C56-AB54-CAFC17136928";
@@ -329,11 +321,11 @@ pos = (264,0);
 ref = fraction;
 },
 {
-pos = (375,0);
+pos = (374,0);
 ref = eight.dnom;
 }
 );
-width = 762;
+width = 761;
 },
 {
 layerId = "A312EA11-A86D-4039-A6A0-3473E7FCFCBA";

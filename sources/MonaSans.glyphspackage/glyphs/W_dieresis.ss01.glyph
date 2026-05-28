@@ -24,7 +24,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (159,51);
+pos = (151,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (322,51);
+pos = (316,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (357,57);
+pos = (354,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -76,7 +76,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (288,51);
+pos = (289,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -102,7 +102,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (182,51);
+pos = (174,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -154,7 +154,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (318,51);
+pos = (312,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -167,7 +167,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (155,57);
+pos = (175,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -180,7 +180,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (149,51);
+pos = (159,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -208,7 +208,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (283,51);
+pos = (304,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -221,7 +221,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (405,57);
+pos = (415,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -234,7 +234,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (317,51);
+pos = (327,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -247,7 +247,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (182,57);
+pos = (205,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -260,7 +260,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (163,51);
+pos = (174,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -273,7 +273,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (321,57);
+pos = (345,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -286,7 +286,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (284,51);
+pos = (313,51);
 ref = dieresiscomb.ss01;
 }
 );
@@ -299,7 +299,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (441,57);
+pos = (451,57);
 ref = dieresiscomb.ss01;
 }
 );
@@ -312,7 +312,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (366,51);
+pos = (381,51);
 ref = dieresiscomb.ss01;
 }
 );

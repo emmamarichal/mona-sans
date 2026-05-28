@@ -24,7 +24,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-58,0);
+pos = (-66,0);
 ref = commaaccentcomb;
 }
 );
@@ -50,7 +50,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-24,0);
+pos = (-30,0);
 ref = commaaccentcomb;
 }
 );
@@ -63,7 +63,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (1,0);
+pos = (-2,0);
 ref = commaaccentcomb;
 }
 );
@@ -76,15 +76,11 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-24,0);
+pos = (-23,0);
 ref = commaaccentcomb;
 }
 );
-<<<<<<< HEAD
-width = 295;
-=======
 width = 296;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -106,7 +102,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-59,0);
+pos = (-67,0);
 ref = commaaccentcomb;
 }
 );
@@ -158,7 +154,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-20,0);
+pos = (-26,0);
 ref = commaaccentcomb;
 }
 );
@@ -171,7 +167,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-42,0);
+pos = (-22,0);
 ref = commaaccentcomb;
 }
 );
@@ -184,7 +180,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-71,0);
+pos = (-61,0);
 ref = commaaccentcomb;
 }
 );
@@ -197,7 +193,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-19,0);
+pos = (1,0);
 ref = commaaccentcomb;
 }
 );
@@ -210,7 +206,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-32,0);
+pos = (-11,0);
 ref = commaaccentcomb;
 }
 );
@@ -223,7 +219,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-22,0);
+pos = (-12,0);
 ref = commaaccentcomb;
 }
 );
@@ -236,7 +232,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-35,0);
+pos = (-25,0);
 ref = commaaccentcomb;
 }
 );
@@ -249,7 +245,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-45,0);
+pos = (-22,0);
 ref = commaaccentcomb;
 }
 );
@@ -262,7 +258,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-78,0);
+pos = (-67,0);
 ref = commaaccentcomb;
 }
 );
@@ -275,7 +271,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-27,0);
+pos = (-3,0);
 ref = commaaccentcomb;
 }
 );
@@ -288,7 +284,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-52,0);
+pos = (-23,0);
 ref = commaaccentcomb;
 }
 );
@@ -301,7 +297,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-27,0);
+pos = (-17,0);
 ref = commaaccentcomb;
 }
 );
@@ -314,7 +310,7 @@ shapes = (
 ref = l.ss04;
 },
 {
-pos = (-41,0);
+pos = (-26,0);
 ref = commaaccentcomb;
 }
 );

@@ -28,16 +28,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (113,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (116,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (37,-137);
+pos = (29,-137);
 ref = circumflexcomb;
 }
 );
@@ -67,16 +62,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (187,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (169,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (40,-129);
+pos = (34,-129);
 ref = circumflexcomb;
 }
 );
@@ -89,16 +79,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (194,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (178,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (91,-155);
+pos = (88,-155);
 ref = circumflexcomb;
 }
 );
@@ -111,16 +96,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (151,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (165,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (60,-134);
+pos = (61,-134);
 ref = circumflexcomb;
 }
 );
@@ -150,16 +130,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (150,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (151,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (-31,-137);
+pos = (-39,-137);
 ref = circumflexcomb;
 }
 );
@@ -223,16 +198,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (188,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (168,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (-13,-129);
+pos = (-19,-129);
 ref = circumflexcomb;
 }
 );
@@ -262,16 +232,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (98,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (119,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (22,-137);
+pos = (32,-137);
 ref = circumflexcomb;
 }
 );
@@ -284,16 +249,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (180,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (187,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (75,-155);
+pos = (95,-155);
 ref = circumflexcomb;
 }
 );
@@ -323,16 +283,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (216,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (213,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (96,-155);
+pos = (106,-155);
 ref = circumflexcomb;
 }
 );
@@ -345,16 +300,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (171,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (169,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (24,-129);
+pos = (34,-129);
 ref = circumflexcomb;
 }
 );
@@ -367,16 +317,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (81,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (96,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (-40,-156);
+pos = (-17,-156);
 ref = circumflexcomb;
 }
 );
@@ -389,16 +334,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (131,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (151,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (-50,-137);
+pos = (-39,-137);
 ref = circumflexcomb;
 }
 );
@@ -411,16 +351,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (174,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (185,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (8,-155);
+pos = (32,-155);
 ref = circumflexcomb;
 }
 );
@@ -433,16 +368,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (149,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (187,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (-36,-134);
+pos = (-7,-134);
 ref = circumflexcomb;
 }
 );
@@ -455,16 +385,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (254,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (253,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (20,-155);
+pos = (30,-155);
 ref = circumflexcomb;
 }
 );
@@ -477,16 +402,11 @@ shapes = (
 ref = a.ss05;
 },
 {
-<<<<<<< HEAD
-pos = (167,0);
-ref = dotbelowcomb.ss01;
-=======
 pos = (168,0);
 ref = dotbelowcomb;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
-pos = (-34,-129);
+pos = (-19,-129);
 ref = circumflexcomb;
 }
 );

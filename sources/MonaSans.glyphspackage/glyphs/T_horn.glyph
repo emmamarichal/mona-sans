@@ -134,7 +134,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (158,0);
+pos = (150,0);
 ref = _Thorn.bowl;
 }
 );
@@ -270,7 +270,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (170,0);
+pos = (164,0);
 ref = _Thorn.bowl;
 }
 );
@@ -338,11 +338,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (85,0);
+pos = (88,0);
 ref = _Thorn.bowl;
 }
 );
-width = 629;
+width = 622;
 },
 {
 background = {
@@ -406,11 +406,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (178,0);
+pos = (183,0);
 ref = _Thorn.bowl;
 }
 );
-width = 650;
+width = 660;
 },
 {
 background = {
@@ -542,7 +542,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (94,0);
+pos = (86,0);
 ref = _Thorn.bowl;
 }
 );
@@ -814,7 +814,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (182,0);
+pos = (176,0);
 ref = _Thorn.bowl;
 }
 );
@@ -882,11 +882,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (20,0);
+pos = (40,0);
 ref = _Thorn.bowl;
 }
 );
-width = 333;
+width = 330;
 },
 {
 background = {
@@ -950,7 +950,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (139,0);
+pos = (149,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1018,11 +1018,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (50,0);
+pos = (70,0);
 ref = _Thorn.bowl;
 }
 );
-width = 585;
+width = 589;
 },
 {
 background = {
@@ -1086,11 +1086,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (147,0);
+pos = (168,0);
 ref = _Thorn.bowl;
 }
 );
-width = 622;
+width = 618;
 },
 {
 background = {
@@ -1154,7 +1154,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (49,0);
+pos = (59,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1222,11 +1222,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (149,0);
+pos = (159,0);
 ref = _Thorn.bowl;
 }
 );
-width = 694;
+width = 689;
 },
 {
 background = {
@@ -1290,11 +1290,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (2,0);
+pos = (25,0);
 ref = _Thorn.bowl;
 }
 );
-width = 351;
+width = 344;
 },
 {
 background = {
@@ -1358,7 +1358,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (75,0);
+pos = (86,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1426,7 +1426,7 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (32,0);
+pos = (56,0);
 ref = _Thorn.bowl;
 }
 );
@@ -1494,11 +1494,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (132,0);
+pos = (161,0);
 ref = _Thorn.bowl;
 }
 );
-width = 629;
+width = 621;
 },
 {
 background = {
@@ -1562,11 +1562,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (26,0);
+pos = (36,0);
 ref = _Thorn.bowl;
 }
 );
-width = 692;
+width = 694;
 },
 {
 background = {
@@ -1630,11 +1630,11 @@ alignment = -1;
 ref = I;
 },
 {
-pos = (161,0);
+pos = (176,0);
 ref = _Thorn.bowl;
 }
 );
-width = 728;
+width = 722;
 }
 );
 metricLeft = H;

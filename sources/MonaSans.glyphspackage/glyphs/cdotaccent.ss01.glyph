@@ -24,7 +24,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (99,-137);
+pos = (91,-137);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -47,14 +47,9 @@ width = 606;
 layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
 shapes = (
 {
-alignment = -1;
 ref = c;
 },
 {
-<<<<<<< HEAD
-alignment = -1;
-=======
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 pos = (204,-129);
 ref = dotaccentcomb.ss01;
 }
@@ -68,7 +63,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (239,-155);
+pos = (236,-155);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -81,7 +76,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (165,-134);
+pos = (166,-134);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -107,7 +102,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (73,-137);
+pos = (65,-137);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -159,7 +154,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (131,-134);
+pos = (125,-134);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -172,7 +167,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (85,-156);
+pos = (105,-156);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -185,7 +180,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (84,-137);
+pos = (94,-137);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -198,7 +193,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (219,-155);
+pos = (239,-155);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -241,7 +236,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (200,-129);
+pos = (210,-129);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -254,7 +249,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (53,-156);
+pos = (76,-156);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -267,7 +262,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (58,-137);
+pos = (69,-137);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -280,7 +275,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (165,-155);
+pos = (189,-155);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -293,7 +288,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (111,-134);
+pos = (140,-134);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -306,7 +301,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (207,-155);
+pos = (217,-155);
 ref = dotaccentcomb.ss01;
 }
 );
@@ -319,7 +314,7 @@ shapes = (
 ref = c;
 },
 {
-pos = (122,-134);
+pos = (137,-134);
 ref = dotaccentcomb.ss01;
 }
 );

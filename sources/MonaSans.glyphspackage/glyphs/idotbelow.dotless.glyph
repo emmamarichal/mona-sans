@@ -22,7 +22,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (6,0);
+pos = (-2,0);
 ref = dotbelowcomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (7,0);
+pos = (1,0);
 ref = dotbelowcomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (34,0);
+pos = (31,0);
 ref = dotbelowcomb;
 }
 );
@@ -74,7 +74,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (29,0);
+pos = (30,0);
 ref = dotbelowcomb;
 }
 );
@@ -100,7 +100,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (1,0);
+pos = (-7,0);
 ref = dotbelowcomb;
 }
 );
@@ -139,11 +139,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (14,0);
+pos = (13,0);
 ref = dotbelowcomb;
 }
 );
-width = 170;
+width = 168;
 },
 {
 layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
@@ -152,7 +152,6 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (6,0);
 ref = dotbelowcomb;
 }
 );
@@ -165,7 +164,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-12,0);
+pos = (8,0);
 ref = dotbelowcomb;
 }
 );
@@ -178,7 +177,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-13,0);
+pos = (-3,0);
 ref = dotbelowcomb;
 }
 );
@@ -191,7 +190,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (5,0);
+pos = (25,0);
 ref = dotbelowcomb;
 }
 );
@@ -204,7 +203,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (1,0);
+pos = (22,0);
 ref = dotbelowcomb;
 }
 );
@@ -247,7 +246,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-11,0);
+pos = (12,0);
 ref = dotbelowcomb;
 }
 );
@@ -260,7 +259,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-18,0);
+pos = (-7,0);
 ref = dotbelowcomb;
 }
 );
@@ -273,11 +272,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (9,0);
+pos = (31,0);
 ref = dotbelowcomb;
 }
 );
-width = 162;
+width = 158;
 },
 {
 layerId = "116A5FF1-38DA-4DF1-8B47-201F29A4437C";
@@ -286,7 +285,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-6,0);
+pos = (23,0);
 ref = dotbelowcomb;
 }
 );
@@ -299,7 +298,7 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (3,0);
+pos = (13,0);
 ref = dotbelowcomb;
 }
 );
@@ -312,7 +311,6 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-15,0);
 ref = dotbelowcomb;
 }
 );

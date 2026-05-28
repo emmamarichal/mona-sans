@@ -387,11 +387,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-18,-155);
+pos = (-19,-155);
 ref = dotaccentcomb;
 }
 );
-width = 170;
+width = 168;
 },
 {
 anchors = (
@@ -622,11 +622,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (-7,-129);
+pos = (-4,-129);
 ref = dotaccentcomb;
 }
 );
-width = 281;
+width = 287;
 },
 {
 anchors = (
@@ -721,11 +721,11 @@ shapes = (
 ref = idotless;
 },
 {
-pos = (2,-155);
+pos = (0,-155);
 ref = dotaccentcomb;
 }
 );
-width = 162;
+width = 158;
 },
 {
 anchors = (

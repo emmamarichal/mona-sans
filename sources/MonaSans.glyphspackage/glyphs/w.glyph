@@ -1,5 +1,4 @@
 {
-color = 0;
 glyphname = w;
 kernLeft = KO_w;
 kernRight = KO_w;
@@ -2201,7 +2200,7 @@ attr = {
 coordinates = (
 75,
 300,
-100,
+1,
 1
 );
 };
@@ -2390,7 +2389,7 @@ attr = {
 coordinates = (
 100,
 300,
-100,
+1,
 1
 );
 };
@@ -2554,7 +2553,7 @@ attr = {
 coordinates = (
 125,
 300,
-100,
+1,
 1
 );
 };

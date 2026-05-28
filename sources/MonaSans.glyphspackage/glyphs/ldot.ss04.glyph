@@ -81,19 +81,11 @@ ref = l.ss04;
 },
 {
 alignment = 1;
-<<<<<<< HEAD
-pos = (307,0);
-ref = periodcentered.loclCAT;
-}
-);
-width = 518;
-=======
 pos = (308,0);
 ref = periodcentered.loclCAT;
 }
 );
 width = 519;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
@@ -191,11 +183,7 @@ pos = (159,0);
 ref = periodcentered.loclCAT;
 }
 );
-<<<<<<< HEAD
-width = 181;
-=======
 width = 183;
->>>>>>> 0f7dc66ddd766605eb0e75c3f47bf9d1dd38ceca
 },
 {
 layerId = "BBBD8BC5-1445-4217-985E-4C596438DA38";
